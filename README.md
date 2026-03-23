@@ -174,7 +174,7 @@ All game text uses Shift-JIS encoding internally. FrontierTextHandler handles en
 |------|---------|
 | [FrontierTextHandler](https://github.com/Houmgaor/FrontierTextHandler) | Extract, edit, and reimport game text (Python) |
 | [ReFrontier](https://github.com/Houmgaor/ReFrontier) | Archive unpacking and batch processing (C#) |
-| [mhf-iel](https://github.com/Houmgaor/mhf-iel) | Custom launcher enabling Wine/Linux support (Rust) |
+| [mhf-outpost](https://github.com/Mogapedia/mhf-outpost) | Download and apply translated game files (companion project) |
 
 ## Disclaimer
 
