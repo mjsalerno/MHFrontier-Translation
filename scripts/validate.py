@@ -4,7 +4,7 @@ Validate translation CSV files.
 
 Checks:
   - Header is exactly: location,source,target
-  - location is a non-empty integer
+  - location is non-empty (accepts integers or FrontierTextHandler format: 0x1a2b@file.bin)
   - source is non-empty
   - No duplicate locations within a file
 
@@ -49,10 +49,10 @@ def validate_file(path: str) -> list[str]:
                     errors.append(f"{path}:{lineno}: empty location")
                     continue
 
-                try:
-                    int(loc)
-                except ValueError:
-                    errors.append(f"{path}:{lineno}: location is not an integer: {loc!r}")
+                # Accept plain integers or FrontierTextHandler hex format: 0x1a2b@file.bin
+                if not (loc.lstrip("-").isdigit() or
+                        (loc.startswith("0x") and "@" in loc)):
+                    errors.append(f"{path}:{lineno}: invalid location format: {loc!r}")
 
                 if not source.strip():
                     errors.append(f"{path}:{lineno}: empty source (location {loc})")

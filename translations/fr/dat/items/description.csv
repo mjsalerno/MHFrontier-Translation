@@ -13,7 +13,6 @@ location,source,target
 0xb8bb60@mhfdat-jp.bin,"登録するファンクションキーを
 押してください。
 （{K012}でページ切り替え）",
-0xb8bb64@mhfdat-jp.bin,,
 0xb8bb68@mhfdat-jp.bin,‾C02未調合‾C00,
 0xb8bb6c@mhfdat-jp.bin,素材がありません。,
 0xb8bb70@mhfdat-jp.bin,このアイテムはこれ以上持てません。,
@@ -25,13 +24,11 @@ location,source,target
 レシピアイテムを購入していないと
 選べません。",
 0xb8bb88@mhfdat-jp.bin,アイテムボックスに空きがありません,
-0xb8bb8c@mhfdat-jp.bin,,
 0xb8bb90@mhfdat-jp.bin,"これ以上アイテムを持てません。
 処理方法を選択して下さい。",
 0xb8bb94@mhfdat-jp.bin,どのアイテムと入れ替えますか？,
 0xb8bb98@mhfdat-jp.bin,"アイテムを入れ替えます。
 よろしいですか？",
-0xb8bb9c@mhfdat-jp.bin,,
 0xb8bba0@mhfdat-jp.bin,dummy,
 0xb8bba4@mhfdat-jp.bin,"調合の概念を学ぶための書物。
 所持することで、
