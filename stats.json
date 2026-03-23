@@ -1,0 +1,301 @@
+{
+  "generated_at": "2026-03-23T18:48:47.460610+00:00",
+  "languages": {
+    "fr": {
+      "total": 235781,
+      "translated": 0,
+      "untranslated": 235781,
+      "files": {
+        "dat/armors/arms": {
+          "total": 13452,
+          "translated": 0,
+          "untranslated": 13452,
+          "coverage": 0.0
+        },
+        "dat/armors/body": {
+          "total": 13462,
+          "translated": 0,
+          "untranslated": 13462,
+          "coverage": 0.0
+        },
+        "dat/armors/head": {
+          "total": 14594,
+          "translated": 0,
+          "untranslated": 14594,
+          "coverage": 0.0
+        },
+        "dat/armors/legs": {
+          "total": 13514,
+          "translated": 0,
+          "untranslated": 13514,
+          "coverage": 0.0
+        },
+        "dat/armors/waist": {
+          "total": 13708,
+          "translated": 0,
+          "untranslated": 13708,
+          "coverage": 0.0
+        },
+        "dat/equipment/description": {
+          "total": 68730,
+          "translated": 0,
+          "untranslated": 68730,
+          "coverage": 0.0
+        },
+        "dat/hunting_horn/guide": {
+          "total": 17,
+          "translated": 0,
+          "untranslated": 17,
+          "coverage": 0.0
+        },
+        "dat/hunting_horn/tutorial": {
+          "total": 4,
+          "translated": 0,
+          "untranslated": 4,
+          "coverage": 0.0
+        },
+        "dat/items/description": {
+          "total": 16725,
+          "translated": 0,
+          "untranslated": 16725,
+          "coverage": 0.0
+        },
+        "dat/items/name": {
+          "total": 16701,
+          "translated": 0,
+          "untranslated": 16701,
+          "coverage": 0.0
+        },
+        "dat/items/source": {
+          "total": 16701,
+          "translated": 0,
+          "untranslated": 16701,
+          "coverage": 0.0
+        },
+        "dat/monsters/description": {
+          "total": 142,
+          "translated": 0,
+          "untranslated": 142,
+          "coverage": 0.0
+        },
+        "dat/ranks/label": {
+          "total": 17,
+          "translated": 0,
+          "untranslated": 17,
+          "coverage": 0.0
+        },
+        "dat/ranks/requirement": {
+          "total": 17,
+          "translated": 0,
+          "untranslated": 17,
+          "coverage": 0.0
+        },
+        "dat/weapons/melee/description": {
+          "total": 17568,
+          "translated": 0,
+          "untranslated": 17568,
+          "coverage": 0.0
+        },
+        "dat/weapons/melee/name": {
+          "total": 17568,
+          "translated": 0,
+          "untranslated": 17568,
+          "coverage": 0.0
+        },
+        "dat/weapons/ranged/description": {
+          "total": 4223,
+          "translated": 0,
+          "untranslated": 4223,
+          "coverage": 0.0
+        },
+        "dat/weapons/ranged/name": {
+          "total": 4223,
+          "translated": 0,
+          "untranslated": 4223,
+          "coverage": 0.0
+        },
+        "inf/quests": {
+          "total": 2839,
+          "translated": 0,
+          "untranslated": 2839,
+          "coverage": 0.0
+        },
+        "jmp/menu/description": {
+          "total": 24,
+          "translated": 0,
+          "untranslated": 24,
+          "coverage": 0.0
+        },
+        "jmp/menu/title": {
+          "total": 24,
+          "translated": 0,
+          "untranslated": 24,
+          "coverage": 0.0
+        },
+        "jmp/strings": {
+          "total": 5,
+          "translated": 0,
+          "untranslated": 5,
+          "coverage": 0.0
+        },
+        "pac/skills/description": {
+          "total": 152,
+          "translated": 0,
+          "untranslated": 152,
+          "coverage": 0.0
+        },
+        "pac/skills/effect": {
+          "total": 1,
+          "translated": 0,
+          "untranslated": 1,
+          "coverage": 0.0
+        },
+        "pac/skills/effect_z": {
+          "total": 3,
+          "translated": 0,
+          "untranslated": 3,
+          "coverage": 0.0
+        },
+        "pac/skills/name": {
+          "total": 1,
+          "translated": 0,
+          "untranslated": 1,
+          "coverage": 0.0
+        },
+        "pac/text_14": {
+          "total": 4,
+          "translated": 0,
+          "untranslated": 4,
+          "coverage": 0.0
+        },
+        "pac/text_18": {
+          "total": 6,
+          "translated": 0,
+          "untranslated": 6,
+          "coverage": 0.0
+        },
+        "pac/text_1c": {
+          "total": 12,
+          "translated": 0,
+          "untranslated": 12,
+          "coverage": 0.0
+        },
+        "pac/text_20": {
+          "total": 3,
+          "translated": 0,
+          "untranslated": 3,
+          "coverage": 0.0
+        },
+        "pac/text_24": {
+          "total": 25,
+          "translated": 0,
+          "untranslated": 25,
+          "coverage": 0.0
+        },
+        "pac/text_28": {
+          "total": 2,
+          "translated": 0,
+          "untranslated": 2,
+          "coverage": 0.0
+        },
+        "pac/text_2c": {
+          "total": 5,
+          "translated": 0,
+          "untranslated": 5,
+          "coverage": 0.0
+        },
+        "pac/text_34": {
+          "total": 92,
+          "translated": 0,
+          "untranslated": 92,
+          "coverage": 0.0
+        },
+        "pac/text_40": {
+          "total": 607,
+          "translated": 0,
+          "untranslated": 607,
+          "coverage": 0.0
+        },
+        "pac/text_44": {
+          "total": 106,
+          "translated": 0,
+          "untranslated": 106,
+          "coverage": 0.0
+        },
+        "pac/text_50": {
+          "total": 50,
+          "translated": 0,
+          "untranslated": 50,
+          "coverage": 0.0
+        },
+        "pac/text_54": {
+          "total": 50,
+          "translated": 0,
+          "untranslated": 50,
+          "coverage": 0.0
+        },
+        "pac/text_60": {
+          "total": 6,
+          "translated": 0,
+          "untranslated": 6,
+          "coverage": 0.0
+        },
+        "pac/text_64": {
+          "total": 3,
+          "translated": 0,
+          "untranslated": 3,
+          "coverage": 0.0
+        },
+        "pac/text_68": {
+          "total": 2,
+          "translated": 0,
+          "untranslated": 2,
+          "coverage": 0.0
+        },
+        "pac/text_6c": {
+          "total": 17,
+          "translated": 0,
+          "untranslated": 17,
+          "coverage": 0.0
+        },
+        "pac/text_94/field_0": {
+          "total": 153,
+          "translated": 0,
+          "untranslated": 153,
+          "coverage": 0.0
+        },
+        "pac/text_94/field_1": {
+          "total": 153,
+          "translated": 0,
+          "untranslated": 153,
+          "coverage": 0.0
+        },
+        "pac/text_c8": {
+          "total": 22,
+          "translated": 0,
+          "untranslated": 22,
+          "coverage": 0.0
+        },
+        "pac/text_cc": {
+          "total": 11,
+          "translated": 0,
+          "untranslated": 11,
+          "coverage": 0.0
+        },
+        "pac/text_d0": {
+          "total": 13,
+          "translated": 0,
+          "untranslated": 13,
+          "coverage": 0.0
+        },
+        "pac/text_d4": {
+          "total": 24,
+          "translated": 0,
+          "untranslated": 24,
+          "coverage": 0.0
+        }
+      },
+      "coverage": 0.0
+    }
+  }
+}
