@@ -2,3 +2,7 @@
 translations.json
 translations-translated.json
 stats.json
+
+# Python
+__pycache__/
+*.pyc
