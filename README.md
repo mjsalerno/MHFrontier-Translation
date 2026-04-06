@@ -177,9 +177,9 @@ All game text uses Shift-JIS encoding internally. FrontierTextHandler handles en
 
 | Language | Project | Notes |
 |----------|---------|-------|
-| French | [Mogapédia](https://mogapedia.fandom.com/fr/) + [MezeLounge](https://mholdschool.com/viewtopic.php?t=71) | Primary contributors to this repo |
+| French | [Mogapédia](https://mogapedia.fandom.com/fr/) + [@ezemania2](https://github.com/ezemania2) | Primary contributors to this repo |
 | English | MHF English Patch | Distributed via [Rain server](https://discord.com/invite/rainserver) |
-| English | [MezeLounge EN](https://mholdschool.com/viewtopic.php?t=71) | Near-complete EN translation on their private server |
+| English | [@ezemania2](https://github.com/ezemania2) | Near-complete EN translation work |
 
 *Know of another project? Open an issue.*
 
