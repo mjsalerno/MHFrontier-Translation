@@ -58,13 +58,19 @@ game binary. **Do not edit it** — translators rely on it as the canonical
 reference, and the import tooling matches rows by `location`, not by source.
 
 These strings are Capcom's, but hosting them here is consistent with
-established community practice (`Frontier-Translation-Weblate`,
-`FrontierTextHandler`, `Erupe`, and Weblate-based fan translations of many
-other JP games all do the same). Capcom's MH-related enforcement has
-historically targeted ROMs, asset rips, and server emulators — never
-translation source strings — and MHF was officially shut down in 2019, so the
-preservation use case is well-grounded. Item names, skill names, and UI
-labels are essentially zero risk.
+established community practice for Monster Hunter fan translations on GitHub:
+
+- [NSACloud/MHR-EFX-Translator](https://github.com/NSACloud/MHR-EFX-Translator)
+  ships JP→EN string tables for Monster Hunter Rise EFX files.
+- [L-StarJP/Monster-Hunter-Diary-Poka-Poka-Airou-Village-DX-English-translation-3DS](https://github.com/L-StarJP/Monster-Hunter-Diary-Poka-Poka-Airou-Village-DX-English-translation-3DS)
+  hosts a full English translation of the 3DS spinoff including JP source.
+- [xl3lackout/MHFZ-Ferias-English-Project](https://github.com/xl3lackout/MHFZ-Ferias-English-Project)
+  translates the Japanese Ferias MHF-Z information site, with JP text in repo.
+
+Capcom's MH-related enforcement has historically targeted ROMs, asset rips,
+and server emulators — never translation source strings — and MHF was
+officially shut down in 2019, so the preservation use case is well-grounded.
+Item names, skill names, and UI labels are essentially zero risk.
 
 The only category where some discretion is warranted is **bulk scenario
 scripts, NPC monologues, and quest dialogue**, where the creative-content

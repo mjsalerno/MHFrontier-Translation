@@ -15,11 +15,11 @@ The original Japanese strings in the `source` column belong to Capcom, but
 hosting them here is consistent with established community practice and the
 practical risk is very low:
 
-- Sibling projects already host JP source publicly: `Frontier-Translation-Weblate`,
-  `FrontierTextHandler` (per-section CSV outputs), `Erupe` (Go enums and packet
-  strings), `mhf-patterns` (ImHex patterns).
-- Weblate-based fan translations of other JP games (FFXI, Trails, Yakuza, …)
-  have hosted source strings on GitHub for years without incident.
+- Other Monster Hunter fan-translation repos host JP source publicly:
+  [NSACloud/MHR-EFX-Translator](https://github.com/NSACloud/MHR-EFX-Translator)
+  (Rise EFX strings), [L-StarJP/Monster-Hunter-Diary-Poka-Poka-Airou-Village-DX-English-translation-3DS](https://github.com/L-StarJP/Monster-Hunter-Diary-Poka-Poka-Airou-Village-DX-English-translation-3DS)
+  (full 3DS spinoff translation), [xl3lackout/MHFZ-Ferias-English-Project](https://github.com/xl3lackout/MHFZ-Ferias-English-Project)
+  (translation of the JP Ferias MHF-Z info site).
 - Capcom's MH-related enforcement has targeted ROMs, asset rips, and server
   emulators — never translation source strings. MHF was shut down in 2019
   with no successor, so the preservation defense is strong.
