@@ -85,6 +85,23 @@ scripts/
 3. **Control-code rows** (~6,643): `<join at=...>` glue and color codes —
    not translatable on their own.
 
+## Translation guidelines
+
+Before translating any French CSV, read:
+
+- [`docs/glossary.fr.md`](docs/glossary.fr.md) — canonical FR terms
+  (weapon classes, statuses, UI verbs, MHF-specific vocabulary).
+  Extend it whenever a recurring term is missing.
+- [`docs/style.fr.md`](docs/style.fr.md) — tone (tutoiement),
+  typography (« » œ), length constraints, and the **critical rule**
+  on preserving `<join at="…">` and other control codes verbatim.
+
+Recommended flow: pick **one** CSV section, pre-fill exact-match
+`target` values from sibling CSVs (translation memory), translate
+the rest with the glossary loaded, then run `scripts/validate.py`.
+Translation itself stays in interactive agent sessions — scripts
+only handle deterministic steps (validation, TM lookup, build).
+
 ## Workflows
 
 ```bash
