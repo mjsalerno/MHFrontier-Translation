@@ -1,76 +1,76 @@
 index,source,target
-0,‾C00Loading World Select.,
-1,‾C00Preparing Network.,
-2,‾C00Preparing Quest.,
-3,‾C00Returning to Public Bar... Please wait.,
-4,‾C00Returning to Arena... Please wait.,
-5,‾C00Returning to His Immenseness... Please wait.,
-6,‾C00Returning to Town... Please wait.,
+0,{/c}Loading World Select.,
+1,{/c}Preparing Network.,
+2,{/c}Preparing Quest.,
+3,{/c}Returning to Public Bar... Please wait.,
+4,{/c}Returning to Arena... Please wait.,
+5,{/c}Returning to His Immenseness... Please wait.,
+6,{/c}Returning to Town... Please wait.,
 7,"
 
 
 
 
-‾C00A connection will be made using the above ID.
+{/c}A connection will be made using the above ID.
 Is this OK?
 ",
-8,"‾C00Connect after receiving new ID.
+8,"{/c}Connect after receiving new ID.
 A maximum of 3 IDs can be received.
 Is this OK?",
-9,‾C00Logging Out.,
-10,‾C00Disconnecting due to idleness.,
-11,"‾C00一定時間入力が無かったため
+9,{/c}Logging Out.,
+10,{/c}Disconnecting due to idleness.,
+11,"{/c}一定時間入力が無かったため
 回線を切断しました。",
-12,"‾C00Preparing to log out.
+12,"{/c}Preparing to log out.
 Please wait.",
-13,‾C00Disconnected due to instability.,
-14,"‾C00       回線が不安定なため       
+13,{/c}Disconnected due to instability.,
+14,"{/c}       回線が不安定なため       
 サーバーから切断されました。",
-15,‾C00Insufficient Hunter Rank.,
-16,‾C00Entering Mezeporta Square.,
-17,‾C00Moving to Mezeporta Square.,
-18,"‾C00Failed to move to Mezeporta Square.
+15,{/c}Insufficient Hunter Rank.,
+16,{/c}Entering Mezeporta Square.,
+17,{/c}Moving to Mezeporta Square.,
+18,"{/c}Failed to move to Mezeporta Square.
 Disconnected from network.",
-19,"‾C00Failed to swap rooms.
+19,"{/c}Failed to swap rooms.
 Returning to original location.",
-20,"‾C00Cannot enter, area full.",
-21,"‾C00Failed to swap servers.
+20,"{/c}Cannot enter, area full.",
+21,"{/c}Failed to swap servers.
 Returning to original location.",
-22,‾C00Could not return to Mezeporta Square.,
-23,‾C00Selected Mezeporta Square unavailable.,
-24,‾C00Cannot move from current Square.,
-25,‾C00No where to move to.,
-26,‾C00Moving to Mezeporta Square.,
-27,‾C00World info received.,
-28,‾C00Quest search failed.,
-29,‾C00Moving…,
+22,{/c}Could not return to Mezeporta Square.,
+23,{/c}Selected Mezeporta Square unavailable.,
+24,{/c}Cannot move from current Square.,
+25,{/c}No where to move to.,
+26,{/c}Moving to Mezeporta Square.,
+27,{/c}World info received.,
+28,{/c}Quest search failed.,
+29,{/c}Moving…,
 30,"
 
 
-‾C00The above player will be deleted from the list.
+{/c}The above player will be deleted from the list.
 Is this OK?",
 31,"
  
 
-‾C00 was deleted. 
+{/c} was deleted. 
 ",
-32,‾C00Searching for players...,
-33,‾C00No Results Found.,
-34,‾C00Failed to search for specified criteria.,
-35,‾C00Please enter your 6 digit ID.,
-36,‾C00Please enter a name with 1 or more characters.,
+32,{/c}Searching for players...,
+33,{/c}No Results Found.,
+34,{/c}Failed to search for specified criteria.,
+35,{/c}Please enter your 6 digit ID.,
+36,{/c}Please enter a name with 1 or more characters.,
 37,"
 
 
-‾C00Add the above player to your Friend List?",
-38,‾C00You cannot join your own Friend List.,
-39,‾C00You cannot send to yourself.,
-40,‾C00Friend List registration canceled.,
-41,‾C00Friend List registration complete.,
-42,‾C00Friend List overwriting complete.,
-43,"‾C00Is it OK to overwrite your Friend List in order to
+{/c}Add the above player to your Friend List?",
+38,{/c}You cannot join your own Friend List.,
+39,{/c}You cannot send to yourself.,
+40,{/c}Friend List registration canceled.,
+41,{/c}Friend List registration complete.,
+42,{/c}Friend List overwriting complete.,
+43,"{/c}Is it OK to overwrite your Friend List in order to
 register this player?",
-44,"‾C00You will make a new Friend List registration.
+44,"{/c}You will make a new Friend List registration.
 Is this OK?",
 45,"You do not have enough space on your Friend List to
 register any more players. You will have to erase
@@ -78,41 +78,41 @@ existing data before registering any new players.",
 46,"
 
 
-‾C00上記のプレイヤーの申請または登録を選択してください
+{/c}上記のプレイヤーの申請または登録を選択してください
 
 カプリンクでカプトモ申請をする
 MHFフレンドに登録する
 ",
-47,‾C00カプトモ申請が完了しました。,
-48,‾C00既にカプトモ登録されています。,
-49,‾C00何らかのエラーが発生しました。(1),
-50,‾C00対象のCOGアカウントが見つからないので申請できません。,
-51,‾C00カプトモパスが正しくありません。,
-52,"‾C00カプトモパスを入力せずにゲームを開始します。
+47,{/c}カプトモ申請が完了しました。,
+48,{/c}既にカプトモ登録されています。,
+49,{/c}何らかのエラーが発生しました。(1),
+50,{/c}対象のCOGアカウントが見つからないので申請できません。,
+51,{/c}カプトモパスが正しくありません。,
+52,"{/c}カプトモパスを入力せずにゲームを開始します。
 よろしいですか？",
-53,"‾C00カプトモパスの入力を中止します。
+53,"{/c}カプトモパスの入力を中止します。
 よろしいですか？",
-54,‾C00カプトモ申請済みです。,
-55,‾C00カプトモ申請数の上限に達しています。,
-56,‾C00既にカプトモです。,
-57,‾C00カプトモ数の上限に達しています。,
-58,"‾C00カプトーク一覧から削除します。
+54,{/c}カプトモ申請済みです。,
+55,{/c}カプトモ申請数の上限に達しています。,
+56,{/c}既にカプトモです。,
+57,{/c}カプトモ数の上限に達しています。,
+58,"{/c}カプトーク一覧から削除します。
 よろしいですか？",
-59,"‾C00招待を削除します。
+59,"{/c}招待を削除します。
 よろしいですか？",
-60,‾C00You're unable to jump to this location.,
+60,{/c}You're unable to jump to this location.,
 61,"
 
 
-‾C00The player displayed above will be registered on your
+{/c}The player displayed above will be registered on your
 Blacklist and you will not receive Messages or Chat
 messages from them. Is this OK?",
-62,‾C00Blacklist registration canceled.,
-63,‾C00Blacklist registration complete.,
-64,‾C00Blacklist overwriting complete.,
-65,"‾C00Is it OK to overwrite your Blacklist in order to
+62,{/c}Blacklist registration canceled.,
+63,{/c}Blacklist registration complete.,
+64,{/c}Blacklist overwriting complete.,
+65,"{/c}Is it OK to overwrite your Blacklist in order to
 register this player?",
-66,"‾C00You will make a new Blacklist registration.
+66,"{/c}You will make a new Blacklist registration.
 Is this OK?",
 67,"You do not have enough space on your Blacklist to
 register any more players. You will have to erase
@@ -122,40 +122,40 @@ existing data before registering any new players.",
 
 The above player will be deleted from your Blacklist.
 Is this OK?",
-69,‾C00Deletion canceled.,
-70,‾C00Deleted.,
-71,"‾C00You've already selected eight players.
+69,{/c}Deletion canceled.,
+70,{/c}Deleted.,
+71,"{/c}You've already selected eight players.
 You cannot select any more.",
-72,‾C00Message sent.,
-73,"‾C00The game will close.
+72,{/c}Message sent.,
+73,"{/c}The game will close.
 Are you sure?",
-74,"‾C00You're heading for the village (single player mode).
+74,"{/c}You're heading for the village (single player mode).
 Is this OK?",
-75,"‾C00The game will close.
+75,"{/c}The game will close.
 Are you sure?",
-76,"‾C00Returning to land selection.
+76,"{/c}Returning to land selection.
 Are you sure?",
-77,‾C00Specified player is offline.,
-78,"‾C00Sending short mail.
+77,{/c}Specified player is offline.,
+78,"{/c}Sending short mail.
 Are you sure?",
-79,‾C00All searches failed.,
-80,‾C00ID is invalid.,
-81,‾C00Sending mail…,
-82,‾C00You cannot send mail to yourself.,
-83,‾C00Already entered.,
-84,‾C00Do you want to jump?,
-85,‾C00Would you like to join this group?,
-86,‾C00Selected group has been disbanded.,
-87,‾C00Selected group is full.,
-88,‾C00Initializing…,
-89,"‾C00<Send Message>
+79,{/c}All searches failed.,
+80,{/c}ID is invalid.,
+81,{/c}Sending mail…,
+82,{/c}You cannot send mail to yourself.,
+83,{/c}Already entered.,
+84,{/c}Do you want to jump?,
+85,{/c}Would you like to join this group?,
+86,{/c}Selected group has been disbanded.,
+87,{/c}Selected group is full.,
+88,{/c}Initializing…,
+89,"{/c}<Send Message>
  
 
 
 
 
 ",
-90,"‾C00
+90,"{/c}
  Select From Friend List
 
 Enter ID
@@ -163,7 +163,7 @@ Enter ID
 
 {k01}: Back {k00}: Confirm
 ",
-91,"‾C00
+91,"{/c}
  Enter Name 
 
 Select From Friend List
@@ -171,7 +171,7 @@ Select From Friend List
 
 {k01}: Back {k00}: Confirm
 ",
-92,"‾C00
+92,"{/c}
 Enter ID
 
  Select From Friend List 
@@ -179,10 +179,10 @@ Enter ID
 
 {k01}: Back {k00}: Confirm
 ",
-93,‾C00You cannot search for yourself.,
-94,"‾C00You will be disconnected from the network and returned
+93,{/c}You cannot search for yourself.,
+94,"{/c}You will be disconnected from the network and returned
 to the Game Menu. Is this OK?",
-95,"‾C00
+95,"{/c}
 Search within this Area
 
  Search within this Area (Filtered) 
@@ -192,7 +192,7 @@ Search Every Land
 
 {k01}: Back {k00}: Confirm
 ",
-96,"‾C00
+96,"{/c}
 Search all Quests.
 
  Search all Quests (Filtered) 
@@ -200,19 +200,19 @@ Search all Quests.
 
 {k01}: Back {k00}: Confirm
 ",
-97,‾C00Searching for Groups...,
-98,‾C00Unable to find a group corresponding to your criteria.,
-99,‾C00Retrieving information...,
-100,"‾C00Unable to join the Quest. The town you've chosen has
+97,{/c}Searching for Groups...,
+98,{/c}Unable to find a group corresponding to your criteria.,
+99,{/c}Retrieving information...,
+100,"{/c}Unable to join the Quest. The town you've chosen has
 been disbanded.",
-101,"‾C00Unable to view Quest details.
+101,"{/c}Unable to view Quest details.
 
 The initiated Quest has either been canceled or the
 Hunters have already set out on the Quest.",
-102,‾C00Currently unable to jump to this town.,
-103,‾C00Currently unable to jump to this area.,
-104,‾C00You cannot jump to your current location.,
-105,"‾C00
+102,{/c}Currently unable to jump to this town.,
+103,{/c}Currently unable to jump to this area.,
+104,{/c}You cannot jump to your current location.,
+105,"{/c}
 Chat Message Receipt Restrictions
 
  Message Receipt Restrictions
@@ -220,13 +220,13 @@ Chat Message Receipt Restrictions
 
 {k01}: Back {k00}: Confirm
 ",
-106,"‾C00これまでのゲームデータを
+106,"{/c}これまでのゲームデータを
 メモリーカード(PS2)に保存しますか？",
-107,‾C00Enter this room?,
-108,"‾C00Restrictions have been placed on who can
+107,{/c}Enter this room?,
+108,"{/c}Restrictions have been placed on who can
 enter this room. You are unable to enter.",
-109,‾C00The password is incorrect.,
-110,"‾C00You've joined a Quest. Press {k00} at the Quest
+109,{/c}The password is incorrect.,
+110,"{/c}You've joined a Quest. Press {k00} at the Quest
 Departure Area to complete Quest departure
 preparations.",
 111,"Quest data does not match. Unable to join Quest.
@@ -237,101 +237,101 @@ and you will be able to join the Quest.
 2) If the Quest initiator does not have the latest
 Quest data, however, you will be unable to join the
 Quest.",
-112,"‾C00Event Quest download failed.
+112,"{/c}Event Quest download failed.
 You may need to leave and reenter the town in order to
 refresh event data.",
-113,‾C00Quest Requirements not met,
-114,‾C00Quest joining conditions not met.,
-115,"‾C00Hunters who do not own monsters are unable to
+113,{/c}Quest Requirements not met,
+114,{/c}Quest joining conditions not met.,
+115,"{/c}Hunters who do not own monsters are unable to
 enter this Quest.",
-116,"‾C00Hunters who do not own monsters may not act as
+116,"{/c}Hunters who do not own monsters may not act as
 the leader.",
-117,‾C00ＷＡＮＴＥＤ契約料が不足しています。,
-118,‾C00 Quest reception is crowded.,
-119,‾C00Another player has already joined.,
-120,‾C00Quest has been abandoned.,
-121,‾C00Connection error.,
-122,"‾C05Some members are not ready.
+117,{/c}ＷＡＮＴＥＤ契約料が不足しています。,
+118,{/c} Quest reception is crowded.,
+119,{/c}Another player has already joined.,
+120,{/c}Quest has been abandoned.,
+121,{/c}Connection error.,
+122,"{c05}Some members are not ready.
 Are you sure you want to depart?",
-123,"‾C00Cancel Quest departure.
+123,"{/c}Cancel Quest departure.
 Are you sure?",
-124,‾C00Departing on Quest. Are you sure?,
-125,‾C00You cannot take any exams currently.,
-126,"‾C00No Elder Dragon Siege Battles are taking place at the
-moment. Siege Battles take place ‾C05between Friday and
-Monday every week‾C00.
-Web Info ‾C05(Your browser will be opened.)‾C00
+124,{/c}Departing on Quest. Are you sure?,
+125,{/c}You cannot take any exams currently.,
+126,"{/c}No Elder Dragon Siege Battles are taking place at the
+moment. Siege Battles take place {c05}between Friday and
+Monday every week{/c}.
+Web Info {c05}(Your browser will be opened.){/c}
 Close",
-127,"‾C00メモリーカード差込口‾A00の
+127,"{/c}メモリーカード差込口‾A00の
 メモリーカード(PS2)に
 ＮＥＴファイルをセーブしました。",
-128,‾C00Unable to add the sender of this message.,
-129,‾C00Unable to reply to this message.,
-130,"‾C05Warning!
+128,{/c}Unable to add the sender of this message.,
+129,{/c}Unable to reply to this message.,
+130,"{c05}Warning!
 
-‾C00This service cannot be used on your current plan.
-Would you like to change to the ‾C02Hunter Life Plan‾C05?
+{/c}This service cannot be used on your current plan.
+Would you like to change to the {c02}Hunter Life Plan{c05}?
 
-Change Member Rank ‾C05(your browser will be opened)‾C00
+Change Member Rank {c05}(your browser will be opened){/c}
 Close
 
-‾C05If you change your plan, you'll need to quit the game
+{c05}If you change your plan, you'll need to quit the game
 and log in again.",
-131,"‾C05Warning!
+131,"{c05}Warning!
 
-‾C00This service is only available to those who play in
+{/c}This service is only available to those who play in
 Certified MHF NetCafes.
 
 About Certified MHF NetCafes
 Close
 
-‾C05Please connect from your nearest Certified MHF
+{c05}Please connect from your nearest Certified MHF
 NetCafe.",
-132,‾C00Operation cancelled.,
-133,‾C00Processing.,
-134,‾C00Connection error.,
-135,‾C00Searching.,
-136,‾C00Return to Mezeporta Square?,
-137,"‾C00You cannot select a name that contains more than eight
+132,{/c}Operation cancelled.,
+133,{/c}Processing.,
+134,{/c}Connection error.,
+135,{/c}Searching.,
+136,{/c}Return to Mezeporta Square?,
+137,"{/c}You cannot select a name that contains more than eight
 characters.",
 138,,
-139,"‾C00
+139,"{/c}
 Go to the Smithy
 
- ‾C10Go to the Elder Palace 
+ {c10}Go to the Elder Palace 
 
 
-‾C00{k01}: Back {k00}: Confirm
+{/c}{k01}: Back {k00}: Confirm
 ",
-140,"‾C00
+140,"{/c}
 Go to the Smithy
 
  Go to the Elder Palace 
 
 
-‾C00{k01}: Back {k00}: Confirm
+{/c}{k01}: Back {k00}: Confirm
 ",
-141,"‾C00
+141,"{/c}
 Go to the Tavern
 
- ‾C10Go to the Elder Palace
+ {c10}Go to the Elder Palace
 
 
-‾C00{k01}: Back {k00}: Confirm
+{/c}{k01}: Back {k00}: Confirm
 ",
-142,"‾C00
+142,"{/c}
 Go to the Tavern
 
- ‾C10Go to the Elder Palace
+ {c10}Go to the Elder Palace
 
 
-‾C00{k01}: Back {k00}: Confirm
+{/c}{k01}: Back {k00}: Confirm
 ",
-143,"‾C00This Quest's acceptance period has ended.
+143,"{/c}This Quest's acceptance period has ended.
 Go to the Clan Counter to cancel the Quest, then
 initiate another Quest.",
-144,‾C00You do not meet this Quest's special conditions.,
-145,"‾C00ランドへ移動(別の広場)
+144,{/c}You do not meet this Quest's special conditions.,
+145,"{/c}ランドへ移動(別の広場)
 
 ワールドへ移動(別の区画)
 
@@ -341,9 +341,9 @@ initiate another Quest.",
 
 猟団部屋へ移動
 
- ‾C00{k00} 決定    {k01} 戻る
+ {/c}{k00} 決定    {k01} 戻る
 ",
-146,"‾C00
+146,"{/c}
 Exit Game
 
 Return to Login Screen
@@ -351,369 +351,369 @@ Return to Login Screen
 
  {k00} Confirm {k01} Cancel
 ",
-147,‾C00 Would you like to join this group?,
-148,"‾C00Join this group?
-‾C02(You may need to change world or land.)",
-149,"‾C00Your Hunter Rank does not meet the joining
+147,{/c} Would you like to join this group?,
+148,"{/c}Join this group?
+{c02}(You may need to change world or land.)",
+149,"{/c}Your Hunter Rank does not meet the joining
 conditions for this group.",
-150,"‾C00Would you like to jump?
-‾C02(You may need to change land.)",
-151,‾C00Would you like to jump?,
-152,‾C00Enter this tavern?,
-153,"‾C00Are you sure you want to return this monster to
+150,"{/c}Would you like to jump?
+{c02}(You may need to change land.)",
+151,{/c}Would you like to jump?,
+152,{/c}Enter this tavern?,
+153,"{/c}Are you sure you want to return this monster to
 the wild?",
-154,"‾C00The leader is currently choosing what food to
+154,"{/c}The leader is currently choosing what food to
 give to the monster. Please wait a moment.",
-155,‾C00Please wait a moment.,
-156,"‾C00
+155,{/c}Please wait a moment.,
+156,"{/c}
 Public Bar in this Land
 
 Search for a Public Bar
 
 
- ‾C00{k00} Confirm {k01} Back
+ {/c}{k00} Confirm {k01} Back
 ",
-157,‾C00Invalid password.,
-158,‾C00Great Arena events only take place in the evening.,
-159,"‾C00You do not meet the special conditions. It is
+157,{/c}Invalid password.,
+158,{/c}Great Arena events only take place in the evening.,
+159,"{/c}You do not meet the special conditions. It is
 forbidden both to take items used for capturing
 into the Great Arena and to make use of them.
 Please do not bring items used for capturing into
 the Great Arena.",
-160,"‾C00This player has blocked befriending.
+160,"{/c}This player has blocked befriending.
 You will need to receive a Message from this
 player if you want to register them as a friend.",
-161,‾C00Please select a recruitment notice.,
-162,"‾C00Would you like to reset the high score and
+161,{/c}Please select a recruitment notice.,
+162,"{/c}Would you like to reset the high score and
 clear time for this training exercise?",
-163,‾C00You are no longer able to join this Quest.,
-164,‾C00You can Safeguard up to 20 Messages.,
-165,‾C00Apply the Safeguard?,
-166,‾C00Remove the Safeguard?,
-167,‾C00This Message is Safeguarded.,
-168,‾C00Are you sure you want to delete this Message?,
-169,‾C00Automatic selection failed.,
-170,"Please enter ‾C02user ID‾C00 and ‾C02password‾C00.
+163,{/c}You are no longer able to join this Quest.,
+164,{/c}You can Safeguard up to 20 Messages.,
+165,{/c}Apply the Safeguard?,
+166,{/c}Remove the Safeguard?,
+167,{/c}This Message is Safeguarded.,
+168,{/c}Are you sure you want to delete this Message?,
+169,{/c}Automatic selection failed.,
+170,"Please enter {c02}user ID{/c} and {c02}password{/c}.
 User ID:
 Password:
 Done",
-171,‾C00There are no Quests that can be initiated.,
-172,‾C00You are not able to join.,
-173,"‾C00You do not meet the initiation conditions for this
+171,{/c}There are no Quests that can be initiated.,
+172,{/c}You are not able to join.,
+173,"{/c}You do not meet the initiation conditions for this
 Quest. Please carry out the Event Code authentication
 procedure for this campaign.",
-174,"‾C00Clan could not be accessed, or is currently
+174,"{/c}Clan could not be accessed, or is currently
 unavailable due to not having joined one.",
-175,"‾C00You have entered an invalid name, or the name you
+175,"{/c}You have entered an invalid name, or the name you
 entered contains invalid text.",
-176,"‾C00Clan creation successfully completed.
+176,"{/c}Clan creation successfully completed.
 Please check the Clan Menu.",
-177,"‾C00Your application to join a Clan was successfully
+177,"{/c}Your application to join a Clan was successfully
 completed. Please wait for a Message from the Clan
 leader confirming your acceptance.",
-178,‾C00Your application to join a Clan has been withdrawn.,
-179,‾C00Your application to join a Clan has been processed.,
-180,"‾C00A Clan with this name will be created.
+178,{/c}Your application to join a Clan has been withdrawn.,
+179,{/c}Your application to join a Clan has been processed.,
+180,"{/c}A Clan with this name will be created.
 Is this OK?",
-181,"‾C00The Clan creation procedure was unsuccessful.
+181,"{/c}The Clan creation procedure was unsuccessful.
 Please try again.",
-182,"‾C00Disband Clan.
+182,"{/c}Disband Clan.
 Confirm?
-‾C05※All Clan Members will be removed.‾C00",
-183,"‾C00The Clan is about to be disbanded.
+{c05}※All Clan Members will be removed.{/c}",
+183,"{/c}The Clan is about to be disbanded.
 Are you sure this is OK?
-‾C05*You will be unable to create or join any Clans for
-a little while.‾C00",
-184,"‾C00Clan successfully disbanded.
+{c05}*You will be unable to create or join any Clans for
+a little while.{/c}",
+184,"{/c}Clan successfully disbanded.
 
-‾C05You will be unable to create or join any Clans for
-a little while.‾C00",
-185,"‾C00The procedure was unsuccessful.
+{c05}You will be unable to create or join any Clans for
+a little while.{/c}",
+185,"{/c}The procedure was unsuccessful.
 The Clan was not disbanded.",
-186,"‾C00Already joined a Clan
+186,"{/c}Already joined a Clan
 or have applied to one",
-187,"‾C00Unable to use. Either you are already a Clan member,
+187,"{/c}Unable to use. Either you are already a Clan member,
 have applied to join a Clan, or have created a Clan.",
-188,"‾C00 Procedure failed.
+188,"{/c} Procedure failed.
 Please try again in a moment.",
-189,"‾C00You are applying to join this Clan.
+189,"{/c}You are applying to join this Clan.
 Are you sure this is OK?",
-190,‾C00Process interrupted.,
+190,{/c}Process interrupted.,
 191,"
 
 
-‾C00Failed to process the above player.
+{/c}Failed to process the above player.
 They may have withdrawn their application to join.",
 192,"
 
 
-‾C00Clan member(s) will be expelled. Is this OK?",
-193,"‾C00Expelling Clan member(s).
-‾C05This cannot be undone. Are you sure you want
+{/c}Clan member(s) will be expelled. Is this OK?",
+193,"{/c}Expelling Clan member(s).
+{c05}This cannot be undone. Are you sure you want
 to continue?",
-194,‾C00Clan members successfully expelled.,
-195,"‾C00Your application will be withdrawn.
+194,{/c}Clan members successfully expelled.,
+195,"{/c}Your application will be withdrawn.
 Are you sure this is OK?",
-196,"‾C00You will resign as Clan leader. Is this OK?
-‾C05*Upon resigning, you will become an ordinary
+196,"{/c}You will resign as Clan leader. Is this OK?
+{c05}*Upon resigning, you will become an ordinary
 Clan member.",
-197,"‾C00You are about to resign as Clan leader.
+197,"{/c}You are about to resign as Clan leader.
 Are you sure you want to proceed?
-‾C05* You will not be able to resign if there is no
+{c05}* You will not be able to resign if there is no
 member who wants to replace you as leader.",
-198,"‾C00Unable to resign as Clan leader.
-‾C05* Either there were no members who wanted to replace
+198,"{/c}Unable to resign as Clan leader.
+{c05}* Either there were no members who wanted to replace
 you as leader, or the processing of your resignation
 failed.",
 199,"
 
 
-‾C00You have resigned as Clan leader.
+{/c}You have resigned as Clan leader.
 The above player is the new Clan leader.",
-200,"‾C00That Clan name is already in use.
+200,"{/c}That Clan name is already in use.
 Please choose a different Clan name.",
-201,"‾C05Warning!‾C00
+201,"{c05}Warning!{/c}
 
 You cannot create a Clan unless your Hunter Rank
-is ‾C05one or higher‾C00.",
-202,"‾C00Learn more at the Official Website.
-‾C05(Launch Web Browser/NOT FUNCTIONAL!)‾C00",
-203,"‾C00You are temporarily unable to create Clans or apply to
+is {c05}one or higher{/c}.",
+202,"{/c}Learn more at the Official Website.
+{c05}(Launch Web Browser/NOT FUNCTIONAL!){/c}",
+203,"{/c}You are temporarily unable to create Clans or apply to
 join Clans.
 
-Please select ‾C05View Clan Rules‾C00 for details.",
-204,"‾C00Unable to donate points, as you are not a Clan member.",
-205,"‾C00You will donate the selected Clan Points.
+Please select {c05}View Clan Rules{/c} for details.",
+204,"{/c}Unable to donate points, as you are not a Clan member.",
+205,"{/c}You will donate the selected Clan Points.
 
 Is this OK?",
-206,"‾C00Clan Points that have been donated cannot be returned.
+206,"{/c}Clan Points that have been donated cannot be returned.
 Are you sure you want to donate?
-‾C05*If your donation takes your Clan's total Points over
+{c05}*If your donation takes your Clan's total Points over
 the upper limit, any excess Clan Points will be
 returned to you.",
-207,‾C00Clan Point donation complete.,
-208,‾C00Clan Point donation failed.,
-209,"‾C00Clan Point donation complete.
+207,{/c}Clan Point donation complete.,
+208,{/c}Clan Point donation failed.,
+209,"{/c}Clan Point donation complete.
 
-‾C05*Your donation took your Clan's total Points over the
+{c05}*Your donation took your Clan's total Points over the
 upper limit. The excess Clan Points have been returned.",
-210,‾C00Unable to find user.,
-211,"‾C00Motto editing will end after confirmation.
+210,{/c}Unable to find user.,
+211,"{/c}Motto editing will end after confirmation.
 Confirm?",
-212,"‾C00Once confirmed, it cannot be changed for seven days.
+212,"{/c}Once confirmed, it cannot be changed for seven days.
 Is this OK?",
-213,"‾C00Jump to the location of your Clan Hall.
-‾C02(You may have to change Land)",
-214,‾C00Returning to Clan Room... Please wait a moment...,
-215,‾C00Everything has been sent to your Item Box.,
-216,‾C00There are no items to be sent.,
-217,‾C00Items were not placed in your Item Box.,
-218,"‾C00Everything will be sent to your Item Box.
+213,"{/c}Jump to the location of your Clan Hall.
+{c02}(You may have to change Land)",
+214,{/c}Returning to Clan Room... Please wait a moment...,
+215,{/c}Everything has been sent to your Item Box.,
+216,{/c}There are no items to be sent.,
+217,{/c}Items were not placed in your Item Box.,
+218,"{/c}Everything will be sent to your Item Box.
 Is this OK?",
-219,"‾C00This feature cannot be used at the moment.
+219,"{/c}This feature cannot be used at the moment.
 Please wait for a forthcoming update.",
-220,"‾C00Currently unable to use. In use by another Clan
+220,"{/c}Currently unable to use. In use by another Clan
 member. Please wait for them to finish before using.",
-221,‾C00x x Not in Use x x,
-222,"‾C00Communication Failed.
+221,{/c}x x Not in Use x x,
+222,"{/c}Communication Failed.
 Please try later.",
-223,"‾C00Communicating.
+223,"{/c}Communicating.
 Please wait.",
-224,"‾C00Please wait until after maintenance
+224,"{/c}Please wait until after maintenance
 to enter the Clan Hall.",
-225,"‾C00The Clan Hall has been in a state that does not
+225,"{/c}The Clan Hall has been in a state that does not
 satisfy its maintenance conditions for over 3 months.
 As a result, you are currently unable to enter.",
-226,"‾C05Warning!
-‾C00You are unable to use this service on your
+226,"{c05}Warning!
+{/c}You are unable to use this service on your
 current plan.
 
 You can use this service by purchasing the
-‾C02Extra Plan‾C00.
+{c02}Extra Plan{/c}.
 
-Purchase ‾C05 (Your browser will be opened.)‾C00
-View Details Online ‾C05(Your browser will be opened.)‾C00
+Purchase {c05} (Your browser will be opened.){/c}
+View Details Online {c05}(Your browser will be opened.){/c}
 Close
 
-‾C05If you change to a new plan, you will need to
+{c05}If you change to a new plan, you will need to
 quit the game and log in again.
 
-‾C05Any items from when you have used the
+{c05}Any items from when you have used the
 service in the past will have been saved.",
-227,"‾C05Warning!
-‾C00You are unable to use this service on your
+227,"{c05}Warning!
+{/c}You are unable to use this service on your
 current plan.
 
 You can use this service by purchasing the
-‾C02Extra Plan‾C00.
+{c02}Extra Plan{/c}.
 
-Purchase ‾C05 (Your browser will be opened.)‾C00
-View Details Online ‾C05(Your browser will be opened.)‾C00
+Purchase {c05} (Your browser will be opened.){/c}
+View Details Online {c05}(Your browser will be opened.){/c}
 Close
 
-‾C05If you change to a new plan, you will need to
+{c05}If you change to a new plan, you will need to
 quit the game and log in again.
 
-‾C05Items from when you have used the service
+{c05}Items from when you have used the service
 in the past can only be retrieved from the
 Item Box in your Hunter House.",
-228,"‾C05Warning!
-‾C00You are unable to use this service on your
+228,"{c05}Warning!
+{/c}You are unable to use this service on your
 current plan.
 
 You can use this service by purchasing the
-‾C02Extra Plan‾C00.
+{c02}Extra Plan{/c}.
 
-Purchase ‾C05 (Your browser will be opened.)‾C00
-View Details Online ‾C05(Your browser will be opened.)‾C00
+Purchase {c05} (Your browser will be opened.){/c}
+View Details Online {c05}(Your browser will be opened.){/c}
 Close
 
-‾C05If you change to a new plan, you will need to
+{c05}If you change to a new plan, you will need to
 quit the game and log in again.
 
-‾C05You will be able to use any items that you bought when
+{c05}You will be able to use any items that you bought when
 using this service in the past.",
-229,‾C00Clan Hall cannot be used.,
-230,‾C00Only available to Clan Leader.,
-231,‾C00In use by another player.,
-232,‾C00Hunting Competition is not being held.,
-233,"‾C05Warning!
+229,{/c}Clan Hall cannot be used.,
+230,{/c}Only available to Clan Leader.,
+231,{/c}In use by another player.,
+232,{/c}Hunting Competition is not being held.,
+233,"{c05}Warning!
 
-‾C00This service cannot be used on your current plan.
-Would you like to change to the ‾C02Hunter Life Plan‾C05?
+{/c}This service cannot be used on your current plan.
+Would you like to change to the {c02}Hunter Life Plan{c05}?
 
-Change Member Rank ‾C05(Your browser will be opened.)‾C00
+Change Member Rank {c05}(Your browser will be opened.){/c}
 Close
 
-‾C05If you change to a new plan, you will need to
+{c05}If you change to a new plan, you will need to
 quit the game and log in again.
 
 If you have used the service before, any items that
 you had will be saved so that you can use them
 again.",
-234,"‾C05Attention!
+234,"{c05}Attention!
 
-‾C00In order to use this service, you will need to buy
-the‾C02Hunter Life Plan‾C00 and the ‾C02Extra Plan‾C00.
+{/c}In order to use this service, you will need to buy
+the{c02}Hunter Life Plan{/c} and the {c02}Extra Plan{/c}.
 
-Change Member Rank ‾C05(Your browser will be opened.)‾C00
+Change Member Rank {c05}(Your browser will be opened.){/c}
 Close
 
-‾C05If you change to a new plan, you will need to
+{c05}If you change to a new plan, you will need to
 quit the game and log in again.
 
 If you have used the service before, any items that
 you had will be saved so that you can use them again.",
-235,"‾C05Warning!
-‾C00You are unable to use this service on your
+235,"{c05}Warning!
+{/c}You are unable to use this service on your
 current plan.
 
 You can use this service by purchasing the
-‾C02Extra Plan‾C00.
+{c02}Extra Plan{/c}.
 
-Purchase ‾C05 (Your browser will be opened.)‾C00
-View Details Online ‾C05(Your browser will be opened.)‾C00
+Purchase {c05} (Your browser will be opened.){/c}
+View Details Online {c05}(Your browser will be opened.){/c}
 Close
 
-‾C05If you change to a new plan, you will need to
+{c05}If you change to a new plan, you will need to
 quit the game and log in again.",
-236,‾C00Please accept your Extra Quest reward.,
-237,"‾C00Unable to use. Either your Pack data was unobtainable
+236,{/c}Please accept your Extra Quest reward.,
+237,"{/c}Unable to use. Either your Pack data was unobtainable
 or you are not part of a Pack.",
-238,"‾C00You have entered an invalid name, or the name you
+238,"{/c}You have entered an invalid name, or the name you
 entered contains invalid text.",
-239,"‾C00Pack creation successfully completed.
+239,"{/c}Pack creation successfully completed.
 Please check Pack Info.",
-240,"‾C00Your application to join a Pack was successfully
+240,"{/c}Your application to join a Pack was successfully
 completed. Please wait for an acceptance message from
 the Pack.",
-241,‾C00You have withdrawn your application to join a Pack.,
-242,‾C00Your application to join a Pack was processed.,
-243,"‾C00A Pack with this name will be created.
+241,{/c}You have withdrawn your application to join a Pack.,
+242,{/c}Your application to join a Pack was processed.,
+243,"{/c}A Pack with this name will be created.
 Is this OK?",
-244,"‾C00The Pack creation procedure was unsuccessful.
+244,"{/c}The Pack creation procedure was unsuccessful.
 Please try again.",
-245,"‾C00Your Pack will be disbanded.
+245,"{/c}Your Pack will be disbanded.
 Is this OK?
-‾C05*All Clans will be expelled from the Pack.",
-246,"‾C00Your Pack is about to be disbanded.
+{c05}*All Clans will be expelled from the Pack.",
+246,"{/c}Your Pack is about to be disbanded.
 Are you sure this is OK?
-‾C05*You will be unable to create or join any Packs for
-a little while.‾C00",
-247,"‾C00Pack successfully disbanded.
-‾C05*You will be unable to create or join any Packs for
-a little while.‾C00",
-248,"‾C00The procedure was unsuccessful.
+{c05}*You will be unable to create or join any Packs for
+a little while.{/c}",
+247,"{/c}Pack successfully disbanded.
+{c05}*You will be unable to create or join any Packs for
+a little while.{/c}",
+248,"{/c}The procedure was unsuccessful.
 The Pack was not disbanded.",
-249,"‾C00Only the leaders of Clans with a Clan Rank of 1 or
+249,"{/c}Only the leaders of Clans with a Clan Rank of 1 or
 higher are able to create Packs.",
-250,"‾C00Unable to use. Either you are already part of a Pack,
+250,"{/c}Unable to use. Either you are already part of a Pack,
 or you have applied to become part of a Pack.",
-251,"‾C00 Procedure failed.
+251,"{/c} Procedure failed.
 Please try again in a moment.",
-252,"‾C00You will join this Alliance.
+252,"{/c}You will join this Alliance.
 Are you sure this is OK?",
-253,‾C00Process interrupted.,
+253,{/c}Process interrupted.,
 254,"
 
 
-‾C00Failed to process the above Clan.
+{/c}Failed to process the above Clan.
 They may have withdrawn their application to join.",
-255,"‾C00Clans will withdraw or be expelled from the Pack.
+255,"{/c}Clans will withdraw or be expelled from the Pack.
 Is this OK?",
-256,"‾C00Clans are about to withdraw or be expelled from the
-Pack. ‾C05This cannot be undone. Are you sure you
-want to proceed?‾C00",
-257,"‾C00Clans have successfully withdrawn or been expelled
+256,"{/c}Clans are about to withdraw or be expelled from the
+Pack. {c05}This cannot be undone. Are you sure you
+want to proceed?{/c}",
+257,"{/c}Clans have successfully withdrawn or been expelled
 from the Pack.",
-258,"‾C00Your application will be withdrawn.
+258,"{/c}Your application will be withdrawn.
 Are you sure this is OK?",
-259,"‾C00You will resign as Pack leader. Is this OK?
-‾C05*Upon resigning, you will become an ordinary Pack
+259,"{/c}You will resign as Pack leader. Is this OK?
+{c05}*Upon resigning, you will become an ordinary Pack
 member.",
-260,"‾C00You are about to resign as Pack leader.
+260,"{/c}You are about to resign as Pack leader.
 Are you sure you want to proceed?
-‾C05* You will not be able to resign if there is no
+{c05}* You will not be able to resign if there is no
 member who wants to replace you as leader.",
-261,"‾C00Unable to resign as Pack leader.
-‾C05* Either there were no members who wanted to replace
+261,"{/c}Unable to resign as Pack leader.
+{c05}* Either there were no members who wanted to replace
 you as leader, or the processing of your resignation
 failed.",
-262,"‾C00You have resigned as Pack leader.
+262,"{/c}You have resigned as Pack leader.
 The above player is the new Pack leader.",
-263,"‾C00That Pack name is already in use. Please choose a
+263,"{/c}That Pack name is already in use. Please choose a
 different Pack name.",
-264,"‾C05Warning!‾C00
+264,"{c05}Warning!{/c}
 
 You cannot create a Pack unless your Hunter Rank
-is ‾C05five or higher‾C00.",
-265,"‾C00Learn more at the Official Website.
-‾C05(Launch Web Browser/NOT FUNCTIONAL!)‾C00",
-266,"‾C00You are temporarily unable to create a Pack or apply
+is {c05}five or higher{/c}.",
+265,"{/c}Learn more at the Official Website.
+{c05}(Launch Web Browser/NOT FUNCTIONAL!){/c}",
+266,"{/c}You are temporarily unable to create a Pack or apply
 to join a Pack.",
-267,"‾C00You will leave the Pack.
+267,"{/c}You will leave the Pack.
 Is this OK?",
-268,"‾C00You are about to leave the Pack.
-‾C05This cannot be undone. Are you sure you wish to
-proceed?‾C00",
-269,"‾C00You will join the Rookie Clan.
+268,"{/c}You are about to leave the Pack.
+{c05}This cannot be undone. Are you sure you wish to
+proceed?{/c}",
+269,"{/c}You will join the Rookie Clan.
 Is this OK?",
-270,"‾C05Warning!
+270,"{c05}Warning!
 
-‾C00You are unable to join the Rookie Clan.
+{/c}You are unable to join the Rookie Clan.
 
 Potential reasons for this include:
 - You are still serving your penalty period for leaving a
 Clan.
 - You are already a member of another Clan.",
-271,‾C00Please enter at least one character.,
-272,‾C00The text you entered contains invalid characters.,
-273,‾C00You cannot enter only spaces.,
-274,"‾C00Saving and quitting.
+271,{/c}Please enter at least one character.,
+272,{/c}The text you entered contains invalid characters.,
+273,{/c}You cannot enter only spaces.,
+274,"{/c}Saving and quitting.
 Is this OK?",
-275,‾C00Your Clan Symbol has been saved.,
-276,‾C00Failed to save your Clan Symbol.,
-277,"‾C00ランドへ移動(別の広場)
+275,{/c}Your Clan Symbol has been saved.,
+276,{/c}Failed to save your Clan Symbol.,
+277,"{/c}ランドへ移動(別の広場)
 
 ワールドへ移動(別の区画)
 
@@ -721,97 +721,97 @@ Is this OK?",
 
 求人板へ移動
 
- ‾C00{k00} 決定    {k01} 戻る
+ {/c}{k00} 決定    {k01} 戻る
 ",
-278,"‾C00
+278,"{/c}
 Exit without saving.
 Are you sure?",
-279,‾C00You are unable to edit your Clan Symbol here.,
-280,"Congratulations for your breakthrough in the ‾C05<Hunting
-Tourney>‾C00!
+279,{/c}You are unable to edit your Clan Symbol here.,
+280,"Congratulations for your breakthrough in the {c05}<Hunting
+Tourney>{/c}!
 
 Please accept this <Diploma> from the <Rookie Guide>!",
-281,"‾C05Some members have not yet completed their
+281,"{c05}Some members have not yet completed their
 preparations. Are you sure you want to set out on the
 Quest?
 (You will wait for the opposition party to finish
 preparing before setting out.)",
-282,"‾C00You will depart on your Quest. Is this OK?
+282,"{/c}You will depart on your Quest. Is this OK?
 (You will wait for the opposition party to finish
 preparing before setting out on the Quest.)",
-283,"‾C05準備完了前のメンバーがいます。
+283,"{c05}準備完了前のメンバーがいます。
 クエストに出発してよろしいですか？",
-284,‾C00No opponent.,
-285,‾C00Opponent not yet ready to depart.,
-286,"‾C05If you are defeated or choose to retire on a Versus
+284,{/c}No opponent.,
+285,{/c}Opponent not yet ready to depart.,
+286,"{c05}If you are defeated or choose to retire on a Versus
 Quest, your entire contract fee will be confiscated.
 
 Is this OK?",
-287,"‾C00You will vote for the selected Trial.
+287,"{/c}You will vote for the selected Trial.
 Is this OK?",
-288,‾C00Application for this Quest is closed.,
-289,‾C00Contract conditions not met.,
-290,"‾C05Warning!
-‾C00You are unable to use this service on your
+288,{/c}Application for this Quest is closed.,
+289,{/c}Contract conditions not met.,
+290,"{c05}Warning!
+{/c}You are unable to use this service on your
 current plan.
 
 You can use this service by purchasing the
-‾C02Hunter Life Plan‾C00.
+{c02}Hunter Life Plan{/c}.
 
-Purchase ‾C05 (Your browser will be opened.)‾C00
-View Details Online ‾C05(Your browser will be opened.)‾C00
+Purchase {c05} (Your browser will be opened.){/c}
+View Details Online {c05}(Your browser will be opened.){/c}
 Close
 
 
-‾C05If you change to a new plan, you will need to
+{c05}If you change to a new plan, you will need to
 quit the game and log in again.
 ",
-291,"‾C00You're about to quit. The Message you are writing
+291,"{/c}You're about to quit. The Message you are writing
 will be lost. Is this OK?",
-292,"‾C05Warning!
-‾C00You are unable to use this service on your
+292,"{c05}Warning!
+{/c}You are unable to use this service on your
 current plan.
 
 You can use this service by purchasing the
-‾C02Premium Plan‾C00.
+{c02}Premium Plan{/c}.
 
-Purchase ‾C05 (Your browser will be opened.)‾C00
-View Details Online ‾C05(Your browser will be opened.)‾C00
+Purchase {c05} (Your browser will be opened.){/c}
+View Details Online {c05}(Your browser will be opened.){/c}
 Close
 
-‾C05If you change to a new plan, you will need to
+{c05}If you change to a new plan, you will need to
 quit the game and log in again.",
-293,"‾C05Warning!
-‾C00We're sorry, but you cannot currently use this
-service because you've ‾C02reached the usage limit‾C00.
+293,"{c05}Warning!
+{/c}We're sorry, but you cannot currently use this
+service because you've {c02}reached the usage limit{/c}.
 
 We apologize, and ask for your understanding.",
-294,"‾C05Warning!
-‾C00If you reach your ‾C02storage limit‾C00, you will
+294,"{c05}Warning!
+{/c}If you reach your {c02}storage limit{/c}, you will
 become unable to use it.
 
-You have ‾C02not currently reached that limit‾C00, so you
+You have {c02}not currently reached that limit{/c}, so you
 can continue to store items at the moment.
 
 Selecting ""Yes"" will count as one use of your storage.
 Would you like to proceed?",
-295,"‾C05Warning!
-‾C00 ‾C02If you select ""Yes,""‾C00 then the next time you use
-your storage it will ‾C02count as another use‾C00.
+295,"{c05}Warning!
+{/c} {c02}If you select ""Yes,""{/c} then the next time you use
+your storage it will {c02}count as another use{/c}.
 (It will count regardless of whether you move items
 or not.)
 
-If you select ‾C02""No,""‾C00 it will not count as a use.
+If you select {c02}""No,""{/c} it will not count as a use.
 You will still be able to use your storage, change
 names etc.",
-296,‾C00Are you happy with this name?,
-297,‾C00That name contains forbidden text!,
-298,"‾C00Cannot be initiated if you joined a Clan
+296,{/c}Are you happy with this name?,
+297,{/c}That name contains forbidden text!,
+298,"{/c}Cannot be initiated if you joined a Clan
 during the Prize Fest.",
-299,‾C00Returning to Caravan... Please wait a moment...,
-300,"‾C00You will donate the Clan Points indicated.
+299,{/c}Returning to Caravan... Please wait a moment...,
+300,"{/c}You will donate the Clan Points indicated.
 
-‾C05※The Clan leader decides how Clan Points will be used.
+{c05}※The Clan leader decides how Clan Points will be used.
 Capcom will not get involved in any differences of
 opinion or disagreements that arise between Clan
 leaders and Clan members regarding the usage of
@@ -821,135 +821,135 @@ Clan leader who is responsible for choosing how they
 are used.
 
 Is this OK?",
-301,"‾C00(TEMP) You will register with this name.
+301,"{/c}(TEMP) You will register with this name.
 Is this OK?",
-302,‾C00(TEMP) Now registering.,
-303,‾C00(TEMP) Registered.,
-304,‾C00(TEMP) That name is already being used.,
-305,‾C00(TEMP) Failed to connect.,
-306,"‾C05You will lose the indicated items when performing
+302,{/c}(TEMP) Now registering.,
+303,{/c}(TEMP) Registered.,
+304,{/c}(TEMP) That name is already being used.,
+305,{/c}(TEMP) Failed to connect.,
+306,"{c05}You will lose the indicated items when performing
 this operation.
-‾C00Selecting ""Yes"" will immediately erase gear data.
+{/c}Selecting ""Yes"" will immediately erase gear data.
 This operation cannot be undone, and erased gear
 data cannot be restored.
 
 Is this OK?",
-307,"‾C05You will lose the indicated items when performing
+307,"{c05}You will lose the indicated items when performing
 this operation.
-‾C00Selecting ""Yes"" will immediately erase item data.
+{/c}Selecting ""Yes"" will immediately erase item data.
 This operation cannot be undone, and erased item
 data cannot be restored.
 
 Is this OK?",
-308,"‾C00Quest creation failed. Exiting the Tutorial.
-‾C05* You can see this content by talking to the
+308,"{/c}Quest creation failed. Exiting the Tutorial.
+{c05}* You can see this content by talking to the
 Apprentice Felyne and selecting ""Tutorial.""
 * The tutorial teaches you about basic controls and
 game flow, so viewing it again is highly recommended.",
-309,‾C00Stop the Tutorial?,
-310,‾C00Are you sure?,
-311,"‾C00Talking to the Apprentice Felyne
+309,{/c}Stop the Tutorial?,
+310,{/c}Are you sure?,
+311,"{/c}Talking to the Apprentice Felyne
 again will allow you to restart",
-312,"‾C05Warning!
-‾C00Services for Hunter Ranks 5 or higher cannot be
+312,"{c05}Warning!
+{/c}Services for Hunter Ranks 5 or higher cannot be
 used on your current plan.
-Would you like to change to the ‾C02Hunter Life Plan‾C00?
+Would you like to change to the {c02}Hunter Life Plan{/c}?
 
-Change Member Rank ‾C05(your browser will be opened.)‾C00
+Change Member Rank {c05}(your browser will be opened.){/c}
 Close
 
-‾C05If you change to a new plan, you will need to
+{c05}If you change to a new plan, you will need to
 quit the game and log in again.",
-313,"‾C05Warning!
-‾C00The items currently in your Item Bag will be
-‾C02registered as an Item Set‾C00.
+313,"{c05}Warning!
+{/c}The items currently in your Item Bag will be
+{c02}registered as an Item Set{/c}.
 
 OK to overwrite?",
-314,"‾C05Warning!
-‾C00Your Item Set will be‾C04placed in your Item Bag‾C00.
+314,"{c05}Warning!
+{/c}Your Item Set will be{c04}placed in your Item Bag{/c}.
 
 OK to replace the current contents of your Item Bag?",
-315,"‾C05You don't have enough Makeover Points!
-‾C00You can get Makeover Points by buying the Makeover
+315,"{c05}You don't have enough Makeover Points!
+{/c}You can get Makeover Points by buying the Makeover
 Service.
 
-Buy the Makeover Service‾C05(Your browser will be opened.)‾C00
-View Details Online ‾C05(Your browser will be opened.)‾C00
+Buy the Makeover Service{c05}(Your browser will be opened.){/c}
+View Details Online {c05}(Your browser will be opened.){/c}
 Close",
-316,"‾C05Warning!
-‾C00If you leave the room, your current makeover will be
+316,"{c05}Warning!
+{/c}If you leave the room, your current makeover will be
 saved.
-‾C04Your Makeover Points will be used up.‾C00.
-‾C02You will not be able to undo a Makeover
+{c04}Your Makeover Points will be used up.{/c}.
+{c02}You will not be able to undo a Makeover
 once it has been saved.
 
 Is this OK?",
-317,"‾C05Final Check!
-‾C02Your Makeover will be fixed and saved.
+317,"{c05}Final Check!
+{c02}Your Makeover will be fixed and saved.
 
-‾C00Are you sure you want to proceed?",
-318,‾C00　,
-319,"‾C05Pioneer info for the selected options will be reset.
-‾C02* Once reset, the previous info cannot be restored.
-‾C02* When you reset Pioneer info, it is assessed and
+{/c}Are you sure you want to proceed?",
+318,{/c}　,
+319,"{c05}Pioneer info for the selected options will be reset.
+{c02}* Once reset, the previous info cannot be restored.
+{c02}* When you reset Pioneer info, it is assessed and
 you will receive CP based on the results.
 
 Is this OK?",
-320,‾C00The selected options have been reset.,
-321,"‾C00Unable to acquire Versus Tournament Information.
+320,{/c}The selected options have been reset.,
+321,"{/c}Unable to acquire Versus Tournament Information.
 Please check the Versus Tournament Board.",
-322,‾C00Tough weapons cannot be used on this Quest.,
-323,"‾C00The text you entered contains words that cannot be
+322,{/c}Tough weapons cannot be used on this Quest.,
+323,"{/c}The text you entered contains words that cannot be
 used in MHF-Z, so you will be unable to use it in-game.",
-324,"‾C00The text you entered contains words that cannot be
+324,"{/c}The text you entered contains words that cannot be
 used on Xbox Live, so you will be unable to use it
 in-game.",
-325,"‾C00
+325,"{/c}
 Learn more at the Official Website.
-‾C05(Launch Web Browser/NOT FUNCTIONAL!)‾C00",
-326,"‾C05ご注意！
-‾C00現在のお客様のコースだけでは
+{c05}(Launch Web Browser/NOT FUNCTIONAL!){/c}",
+326,"{c05}ご注意！
+{/c}現在のお客様のコースだけでは
 このサービスのご利用はできません。
 
-‾C02Ｌラスタ同行券‾C00を所持または
-‾C02アシストコース‾C00を別途ご購入いただく事で
+{c02}Ｌラスタ同行券{/c}を所持または
+{c02}アシストコース{/c}を別途ご購入いただく事で
 サービスを利用する事ができます。
 
-購入する‾C05（ブラウザ起動）‾C00
-Webで詳細‾C05（ブラウザ起動）‾C00
+購入する{c05}（ブラウザ起動）{/c}
+Webで詳細{c05}（ブラウザ起動）{/c}
 閉じる
 
-‾C05コースをご購入された場合は、
+{c05}コースをご購入された場合は、
 広場入口のガイドから「利用権情報の更新」を選ぶか
 ゲームを終了して再ログインして下さい。
 ",
-327,"‾C05Switching Pioneer info for the selected options.
-‾C02* Once switched, previous Pioneer info cannot
+327,"{c05}Switching Pioneer info for the selected options.
+{c02}* Once switched, previous Pioneer info cannot
 be restored.
 
-‾C00Is this OK?",
-328,‾C00Switching of the selected options has been completed.,
-329,"‾C00The assessment results were:
+{/c}Is this OK?",
+328,{/c}Switching of the selected options has been completed.,
+329,"{/c}The assessment results were:
 
-‾C00.
-‾C00Is this OK?",
-330,"‾C00Unable to initiate this Quest. It can only be
+{/c}.
+{/c}Is this OK?",
+330,"{/c}Unable to initiate this Quest. It can only be
 initiated from the Internet Caf.s indicated.",
-331,"‾C05Warning!
-‾C00You are unable to use this service on your
+331,"{c05}Warning!
+{/c}You are unable to use this service on your
 current plan.
 
 You can use this service by purchasing the
-‾C02Extra Plan‾C00.
+{c02}Extra Plan{/c}.
 
-Purchase ‾C05 (Your browser will be opened.)‾C00
-View Details Online ‾C05(Your browser will be opened.)‾C00
+Purchase {c05} (Your browser will be opened.){/c}
+View Details Online {c05}(Your browser will be opened.){/c}
 Close
 
-‾C05If you change to a new plan, you will need to
+{c05}If you change to a new plan, you will need to
 quit the game and log in again.
 ",
-332,"‾C00 Due to the Competitive nature of these quests, we want to make
+332,"{/c} Due to the Competitive nature of these quests, we want to make
 sure that everyone has a friendly rival experience.
 Make sure to respect your fellow competitors and
 refrain from any sabotaging or harmful bullying.
@@ -958,21 +958,21 @@ If you can accept these basic ground rules, then
 we wish you a good competition and may the
 better Hunter win!
 
-‾C05Let's get along and have a good Hunt! ‾C00",
-333,"‾C00マイトレポイント　　‾C05  30ポイント‾C00を　　　　　
-‾C00ギルド貢献ポイント　‾C053000ポイント‾C00に交換します
+{c05}Let's get along and have a good Hunt! {/c}",
+333,"{/c}マイトレポイント　　{c05}  30ポイント{/c}を　　　　　
+{/c}ギルド貢献ポイント　{c05}3000ポイント{/c}に交換します
 
-‾C00‾C051度交換すると元に戻すことはできません
+{/c}{c05}1度交換すると元に戻すことはできません
 
-‾C00
-‾C00
-‾C00
-‾C00
-‾C00よろしいですか？
+{/c}
+{/c}
+{/c}
+{/c}
+{/c}よろしいですか？
 ",
-334,"‾C05大討伐に参加します
+334,"{c05}大討伐に参加します
 
-‾C00ラヴィエンテとラヴィエンテ亜種の
+{/c}ラヴィエンテとラヴィエンテ亜種の
 どちらかの大討伐に参加できます。
 どちらの大討伐に参加しますか？
 ラヴィエンテ
@@ -982,71 +982,71 @@ better Hunter win!
 ラヴィエンテ亜種はHR100から
 参加可能です。
 ",
-335,"‾C05ご注意！
+335,"{c05}ご注意！
 
-‾C05アイテムセット5〜24‾C00を削除することで
+{c05}アイテムセット5〜24{/c}を削除することで
 追加アイテムボックスを4ページ追加することが可能です。
 実行しますか？
-‾C05削除したアイテムセットは復元することはできません。‾C00",
-336,"‾C00{u4}を作ると、
-マイトレポイント‾C05{u6}ポイント‾C00を消費します。
+{c05}削除したアイテムセットは復元することはできません。{/c}",
+336,"{/c}{u4}を作ると、
+マイトレポイント{c05}{u6}ポイント{/c}を消費します。
 よろしいですか？",
-337,"‾C05ご注意！
+337,"{c05}ご注意！
 
-‾C00追加アイテムボックスを4ページ(すべて)削除することで
-‾C05アイテムセット5〜24‾C00を追加することが可能です。
+{/c}追加アイテムボックスを4ページ(すべて)削除することで
+{c05}アイテムセット5〜24{/c}を追加することが可能です。
 実行しますか？",
-338,"‾C00追加アイテムボックスを4ページ追加しました。
-‾C05(アイテムセット5〜24を削除)‾C00",
-339,"‾C00追加アイテムボックスを4ページ削除しました。
-‾C05(アイテムセット5〜24を追加)‾C00",
-340,"‾C00追加アイテムボックスを削除するには
-‾C00追加アイテムボックス内を空にして下さい。",
-341,‾C00シリーズクエストのダウンロードに失敗しました。,
-342,‾C00{u8}とお別れしますか？,
-343,‾C00{u8}と本当にお別れしても良いですか？,
-344,"‾C00‾C05ホルク‾C00がやって来ました！
+338,"{/c}追加アイテムボックスを4ページ追加しました。
+{c05}(アイテムセット5〜24を削除){/c}",
+339,"{/c}追加アイテムボックスを4ページ削除しました。
+{c05}(アイテムセット5〜24を追加){/c}",
+340,"{/c}追加アイテムボックスを削除するには
+{/c}追加アイテムボックス内を空にして下さい。",
+341,{/c}シリーズクエストのダウンロードに失敗しました。,
+342,{/c}{u8}とお別れしますか？,
+343,{/c}{u8}と本当にお別れしても良いですか？,
+344,"{/c}{c05}ホルク{/c}がやって来ました！
 
 これからのハンター生活において
 あなたの心強い仲間となるべく、
-‾C05ホルク‾C00がマイシリーズ内の
-「‾C05マイホルク‾C00」にやって来ました。
+{c05}ホルク{/c}がマイシリーズ内の
+「{c05}マイホルク{/c}」にやって来ました。
 
 エサを与えたり訓練の指示を行い、
-「‾C05学びの書‾C00」を装着させて
+「{c05}学びの書{/c}」を装着させて
 あなただけのホルクに育てましょう。
 成長の結果は、クエスト中の行動で
 体感できます。
 
-詳しくは、‾C05マイホルク‾C00にいる管理担当
-「‾C05ホルク教官‾C00」にお尋ねください。
+詳しくは、{c05}マイホルク{/c}にいる管理担当
+「{c05}ホルク教官{/c}」にお尋ねください。
 
-Webで詳細‾C05(ブラウザ起動)
-‾C00閉じる",
-345,"‾C05ご注意！
-‾C00現在のお客様のコースでは
+Webで詳細{c05}(ブラウザ起動)
+{/c}閉じる",
+345,"{c05}ご注意！
+{/c}現在のお客様のコースでは
 このサービスのご利用はできません。
 
-‾C02エクストラ継続コース‾C00を別途ご購入いただく事で
+{c02}エクストラ継続コース{/c}を別途ご購入いただく事で
 サービスを利用する事ができます。
 
-購入する‾C05（ブラウザ起動）‾C00
-Webで詳細‾C05（ブラウザ起動）‾C00
+購入する{c05}（ブラウザ起動）{/c}
+Webで詳細{c05}（ブラウザ起動）{/c}
 閉じる
 
 
-‾C05コースをご購入された場合は、
+{c05}コースをご購入された場合は、
 ゲームを終了して再ログインして下さい。
 ",
-346,"‾C00これはミッション対象外の
+346,"{/c}これはミッション対象外の
 クエストです。
 
 ",
-347,"‾C00デイリークエストに参加する
+347,"{/c}デイリークエストに参加する
 権利がありません。
 ",
-348,‾C00  参加人数が不足しています。  ,
-349,"‾C00‾C05注意‾C00
+348,{/c}  参加人数が不足しています。  ,
+349,"{/c}{c05}注意{/c}
 
 現在は退出制限発生中につき、
 この状態で部屋を退出する場合は
@@ -1054,45 +1054,45 @@ Webで詳細‾C05（ブラウザ起動）‾C00
 それでも退出しますか？
 
 ",
-350,"‾C00今回の狩猟技昇段試合は
+350,"{/c}今回の狩猟技昇段試合は
 終了しました。
 パーティーを解散し、
 メゼポルタ広場に戻ります。
 (３秒後に自動的に退出します)
 ",
-351,"‾C00ミッション中は
+351,"{/c}ミッション中は
 装備の変更ができません。
 ミッションをキャンセルしてから
 やり直してください。
 ",
-352,‾C00部屋に入室できませんでした。,
-353,"‾C00現在装備している
+352,{/c}部屋に入室できませんでした。,
+353,"{/c}現在装備している
 武器種のＳＲが不足しているため
 これ以上受けることが
 出来ません。
 ",
-354,"‾C00現在装備している
+354,"{/c}現在装備している
 武器種の秘伝書育成を、
 これ以上受けることが
 出来ません。
 ",
-355,"‾C00現在表示している
+355,"{/c}現在表示している
 章に切り替えますか？
 ",
-356,"‾C00現在表示中の章です。
+356,"{/c}現在表示中の章です。
 切り替えできません。
 ",
-357,‾C00クエストに出発します。,
-358,‾C00処理に失敗しました。,
-359,‾C00クエストスタート準備中。,
-360,"‾C00クエスト出発準備状態になります。
+357,{/c}クエストに出発します。,
+358,{/c}処理に失敗しました。,
+359,{/c}クエストスタート準備中。,
+360,"{/c}クエスト出発準備状態になります。
 一度決定するとキャンセルできません。
 よろしいですか？
 ",
-361,"‾C00‾C02You might need to move
-between Worlds & Lands‾C00
+361,"{/c}{c02}You might need to move
+between Worlds & Lands{/c}
 Are you sure?",
-362,"‾C00＜入団希望の登録にあたって＞
+362,"{/c}＜入団希望の登録にあたって＞
 猟団への入団希望の登録を行います。
 条件を設定して登録をすると、
 猟団長からショートメールやチャットで
@@ -1101,26 +1101,26 @@ Are you sure?",
 
 ステキな猟団との出会いがありますように！
 
-‾C05＜ご注意＞‾C00
+{c05}＜ご注意＞{/c}
 ・登録後、２ヵ月以上ログインしないと、
 自動的に登録が解除されます。
 ・登録後、いずれかの猟団に加入申請
 すると、自動的に登録が解除されます。",
-363,"‾C00すでに猟団に加入されているため、
+363,"{/c}すでに猟団に加入されているため、
 入団希望の登録を行うことはできません。",
-364,"‾C00「設定なし」の項目があるため、
+364,"{/c}「設定なし」の項目があるため、
 登録を完了できません。
 全ての項目を設定してください。",
-365,"‾C00＜入団希望の登録解除について＞
+365,"{/c}＜入団希望の登録解除について＞
 入団希望の登録解除を行います。
 解除をすると「入団希望一覧」に
 表示されなくなります。
 
 入団希望の登録解除を行いますか？",
-366,‾C00入団希望の登録を解除しました。,
-367,‾C00入団希望の登録が完了しました。,
-368,‾C00条件に一致する登録者がいません。,
-369,"‾C00＜入団希望一覧について＞
+366,{/c}入団希望の登録を解除しました。,
+367,{/c}入団希望の登録が完了しました。,
+368,{/c}条件に一致する登録者がいません。,
+369,"{/c}＜入団希望一覧について＞
 ここから猟団の入団希望一覧を確認できます。
 入団希望一覧からは、猟団員になって欲しい
 ハンターを探し、そのハンターにショートメールを
@@ -1129,35 +1129,35 @@ Are you sure?",
 
 ステキな猟団員との出会いがありますように！
 
-‾C05＜ご注意＞‾C00
+{c05}＜ご注意＞{/c}
 ・ショートメールやチャットは、
 繰り返し送信したりしないよう
 節度をもって行ってください。
 ・ショートメールやチャットを送る時には、
 MHF利用規約を遵守してください。",
-370,"‾C00すでに登録済みのため、
+370,"{/c}すでに登録済みのため、
 入団希望の登録を行うことはできません。",
-371,"‾C00入団希望の登録を行っていないので、
+371,"{/c}入団希望の登録を行っていないので、
 登録を解除することはできません。",
-372,"‾C00猟団に加入していないので、
+372,"{/c}猟団に加入していないので、
 猟団部屋に入ることができません。",
-373,"‾C00まだ猟団部屋が存在しないので、
+373,"{/c}まだ猟団部屋が存在しないので、
 猟団部屋に入ることができません。",
-374,"‾C00猟団に加入していないので、
+374,"{/c}猟団に加入していないので、
 ポイントを寄付することはできません。",
-375,"‾C00猟団に加入していないので、
+375,"{/c}猟団に加入していないので、
 猟団イベント支援を行うことができません。",
-376,"‾C00同盟は猟団長しか作成することが
+376,"{/c}同盟は猟団長しか作成することが
 できません。",
-377,"‾C00同盟に加入申請中か、すでに同盟を作成
+377,"{/c}同盟に加入申請中か、すでに同盟を作成
 または加入しているため使用できません。",
-378,"‾C00猟団ランクが不足しているので、
+378,"{/c}猟団ランクが不足しているので、
 同盟を作成することができません。",
-379,"‾C00装飾品の回収先がいっぱいです！
+379,"{/c}装飾品の回収先がいっぱいです！
 このまま強化をすると
 装飾品を失ってしまいますが
 強化を続けてよろしいですか？",
-380,"‾C00‾C05注意‾C00
+380,"{/c}{c05}注意{/c}
 
 狩猟技昇段試合会場では
 ラスタはクエストに参加することができません。
@@ -1166,25 +1166,25 @@ MHF利用規約を遵守してください。",
 フィーチャー ウェポンは、無効です。
 秘伝食事効果は、無効です。
 ",
-381,"‾C00ジャンプ先が【狩猟技昇段試合会場】のため
+381,"{/c}ジャンプ先が【狩猟技昇段試合会場】のため
 ジャンプできません。",
-382,‾C00Update your subscription?,
-383,‾C00Subscription updated.,
-384,"‾C00Subscription update failed.
+382,{/c}Update your subscription?,
+383,{/c}Subscription updated.,
+384,"{/c}Subscription update failed.
 Please, try again after a while.",
-385,"‾C00Subscription could not be updated.
+385,"{/c}Subscription could not be updated.
 Please, re-log in to update it.",
-386,‾C00【狩猟技昇段試合会場】では使用できません。,
-387,‾C00契約金が不足しています。,
-388,"‾C05この操作を行なうと指定のシジルは失われます。
-‾C00「はい」を選択すると、即座にシジルデータは　
+386,{/c}【狩猟技昇段試合会場】では使用できません。,
+387,{/c}契約金が不足しています。,
+388,"{c05}この操作を行なうと指定のシジルは失われます。
+{/c}「はい」を選択すると、即座にシジルデータは　
 消去されます。操作を取り消すことはできません。
 また、消去されたシジルデータは復旧することは
 できません。　　　　　　　　　　　　　　　　　
 よろしいですか？",
-389,"‾C00装飾品の回収先がいっぱいです！
+389,"{/c}装飾品の回収先がいっぱいです！
 アイテムボックスに空きを作ってください",
-390,"‾C00‾C05注意‾C00
+390,"{/c}{c05}注意{/c}
 
 １度焼き付けたシジルを取り外すには、
 専用のアイテムが必要になります。
@@ -1193,7 +1193,7 @@ Please, re-log in to update it.",
 例外としてアイテムは不要となります。
 
 よろしいですか？",
-391,"‾C00‾C05注意‾C00
+391,"{/c}{c05}注意{/c}
 
 一度焼き付けたシジルの取り外しには、
 専用のアイテムが必要になります。
@@ -1206,196 +1206,196 @@ Please, re-log in to update it.",
 二度と使用できなくなります。
 
 よろしいですか？",
-392,"‾C05Ｇｚの所持できる上限を超えようとしています。　
-‾C00選択されたアイテムの売却を行った場合、　　　　
+392,"{c05}Ｇｚの所持できる上限を超えようとしています。　
+{/c}選択されたアイテムの売却を行った場合、　　　　
 超過分のＧｚは失われます。　　　　　　　　　　
 
 
-‾C05この操作を行なうと指定のアイテムは失われます。
-‾C00「はい」を選択すると、即座に武具データは　　　
+{c05}この操作を行なうと指定のアイテムは失われます。
+{/c}「はい」を選択すると、即座に武具データは　　　
 消去されます。操作を取り消すことはできません。
 また、消去された武具データは復旧することは　　
 できません。　　　　　　　　　　　　　　　　　
 よろしいですか？",
-393,"‾C05Ｇｚの所持できる上限を超えようとしています。　
-‾C00選択されたアイテムの売却を行った場合、　　　　
+393,"{c05}Ｇｚの所持できる上限を超えようとしています。　
+{/c}選択されたアイテムの売却を行った場合、　　　　
 超過分のＧｚは失われます。　　　　　　　　　　
 
 
-‾C05この操作を行なうと指定のアイテムは失われます。
-‾C00「はい」を選択すると、即座にアイテムデータは　
+{c05}この操作を行なうと指定のアイテムは失われます。
+{/c}「はい」を選択すると、即座にアイテムデータは　
 消去されます。操作を取り消すことはできません。
 また、消去されたアイテムデータは復旧することは
 できません。　　　　　　　　　　　　　　　　　
 よろしいですか？",
-394,"‾C05Ｇｚの所持できる上限を超えようとしています。　
-‾C00選択されたアイテムの売却を行った場合、　　　　
+394,"{c05}Ｇｚの所持できる上限を超えようとしています。　
+{/c}選択されたアイテムの売却を行った場合、　　　　
 超過分のＧｚは失われます。　　　　　　　　　　
 
 
-‾C05この操作を行なうと指定のシジルは失われます。
-‾C00「はい」を選択すると、即座にシジルデータは　
+{c05}この操作を行なうと指定のシジルは失われます。
+{/c}「はい」を選択すると、即座にシジルデータは　
 消去されます。操作を取り消すことはできません。
 また、消去されたシジルデータは復旧することは
 できません。　　　　　　　　　　　　　　　　　
 よろしいですか？",
-395,"‾C00Course effects to increase attack
+395,"{/c}Course effects to increase attack
 and ""Halk Pot"" effects does not
 apply to this Quest.",
-396,"‾C00このクエストはプーギーやホルクなどの
+396,"{/c}このクエストはプーギーやホルクなどの
 同行が無効になります。",
-397,"‾C00このクエストはコース効果による
+397,"{/c}このクエストはコース効果による
 攻撃力の向上、及び元気のみなもとの
 効果が適用されません。
 
 
 このクエストはプーギーやホルクなどの
 同行が無効になります。",
-398,"‾C05ご注意！
+398,"{c05}ご注意！
 
-‾C00現在のお客様のコースでは
+{/c}現在のお客様のコースでは
 このサービスのご利用はできません。
-‾C02ハンターライフコース‾C00に変更しますか？
+{c02}ハンターライフコース{/c}に変更しますか？
 
-会員ランクを変更する‾C05（ブラウザ起動）‾C00
+会員ランクを変更する{c05}（ブラウザ起動）{/c}
 閉じる
 
-‾C05コースを変更された場合は、
+{c05}コースを変更された場合は、
 ゲームを終了して再ログインして下さい。",
-399,"‾C05ご注意！
+399,"{c05}ご注意！
 
-‾C00現在のお客様のコースでは
+{/c}現在のお客様のコースでは
 ＨＲ５以上のサービスのご利用はできません。
-‾C02ハンターライフコース‾C00に変更しますか？
+{c02}ハンターライフコース{/c}に変更しますか？
 
-会員ランクを変更する‾C05（ブラウザ起動）‾C00
+会員ランクを変更する{c05}（ブラウザ起動）{/c}
 閉じる
 
-‾C05コースを変更された場合は、
+{c05}コースを変更された場合は、
 ゲームを終了して再ログインして下さい。",
 400,"You won't be able to operate the game
 during the upload process.
 Continue?",
-401,"‾C00≪%s≫
+401,"{/c}≪%s≫
 Claiming【%s】.
 Are you sure?
 Receiving Amount：%d Total",
-402,"‾C00受取可能な全ての
+402,"{/c}受取可能な全ての
 ≪%s≫を受取ります。
 よろしいですか？
 受取り個数：%d個",
-403,"‾C00≪%s≫を
+403,"{/c}≪%s≫を
 %d個受取りました。
 
 {k01}閉じる",
-404,"‾C05アイテムボックスに空きがありません。
+404,"{c05}アイテムボックスに空きがありません。
 
 {k01}閉じる",
-405,"‾C05何らかの異常で受取りできませんでした。
+405,"{c05}何らかの異常で受取りできませんでした。
 
 {k01}閉じる",
-406,‾C00カプリンクの特典受け取りを行います。,
-407,"‾C00特典は、受け取りに来た
+406,{/c}カプリンクの特典受け取りを行います。,
+407,"{/c}特典は、受け取りに来た
 キャラクターの所持する
 アイテムボックスへ送られます。
 
 よろしいですか？",
-408,"‾C05受取可能な特典はありません。
+408,"{c05}受取可能な特典はありません。
 
 
 {k01}閉じる",
-409,‾C05There are no items to be claimed.,
-410,"‾C00条件達成により特典を
+409,{c05}There are no items to be claimed.,
+410,"{/c}条件達成により特典を
 受け取ることができます。
 
 受け取りますか？",
-411,‾C05Receipt deadline has passed.,
-412,‾C05Cannot be claimed again.,
-413,"‾C05Warning！
+411,{c05}Receipt deadline has passed.,
+412,{c05}Cannot be claimed again.,
+413,"{c05}Warning！
 Benefits will be sent to the
-‾C02Temp Storage‾C00 as there's no space to recieve them.
+{c02}Temp Storage{/c} as there's no space to recieve them.
 
-‾C05Items
-‾C02Free some space in the Item Box
+{c05}Items
+{c02}Free some space in the Item Box
 to be able to receive it again.
-‾C05Points
-‾C02Make sure you are able to receive
+{c05}Points
+{c02}Make sure you are able to receive
 any more points and try again.
 
-Item and Points can be ‾C02receipt within the deadline‾C00.
+Item and Points can be {c02}receipt within the deadline{/c}.
 ",
-414,‾C05Successful received the benefits.,
-415,"‾C05Item Claim Confirmation
+414,{c05}Successful received the benefits.,
+415,"{c05}Item Claim Confirmation
 <Items, Weapons and Armors>
-will be sent to the ‾C02Item Box‾C00.
+will be sent to the {c02}Item Box{/c}.
 
 <Points> and <Box Expansions>
 will be given to the hunter.
 
-‾C05 <Premium Gacha Coins> ‾C00
-‾C05 <Trial Gacha Coins> ‾C00
-‾C05 <Frontier Points> ‾C00
+{c05} <Premium Gacha Coins> {/c}
+{c05} <Trial Gacha Coins> {/c}
+{c05} <Frontier Points> {/c}
 will be granted to your account.
 
-For ‾C02Items and Armor,
+For {c02}Items and Armor,
 when the Item Box is full,
-the reward will not be received. ‾C00
+the reward will not be received. {/c}
 Do you want to claim the reward?",
-416,‾C00カプトモ登録を完了しました。,
-417,‾C00本当に無視していいですか？,
-418,‾C00無視しました。,
-419,"‾C00毎日特典を獲得しますか？ 
+416,{/c}カプトモ登録を完了しました。,
+417,{/c}本当に無視していいですか？,
+418,{/c}無視しました。,
+419,"{/c}毎日特典を獲得しますか？ 
 
-‾C05利用権の更新が行われていない場合、
-‾C05正しく特典が獲得できない場合があります。
+{c05}利用権の更新が行われていない場合、
+{c05}正しく特典が獲得できない場合があります。
 ",
-420,"‾C00公式サイト上に設置されている、
-‾C00対象情報を表示します。
-‾C05(ブラウザを起動します)",
-421,"‾C05お知らせ
+420,"{/c}公式サイト上に設置されている、
+{/c}対象情報を表示します。
+{c05}(ブラウザを起動します)",
+421,"{c05}お知らせ
 一時保管アイテムが有ります。
 ＜アイテムや武器・防具＞は
-‾C02アイテムボックス‾C00に送られます。
+{c02}アイテムボックス{/c}に送られます。
 
 ＜ポイント＞はキャラクターに付与されます。
 
-‾C05＜きんぴか小判Ｇ＞‾C00
-‾C05＜おためし小判Ｇ＞‾C00
-‾C05＜フロンティアポイント＞‾C00
+{c05}＜きんぴか小判Ｇ＞{/c}
+{c05}＜おためし小判Ｇ＞{/c}
+{c05}＜フロンティアポイント＞{/c}
 はアカウントに付与されます。
 
-‾C02アイテムや武具の場合
+{c02}アイテムや武具の場合
 アイテムボックスがいっぱいだと
-アイテムが送信されませんのでご注意下さい。‾C00",
-422,"‾C02条件を満たしていないため
+アイテムが送信されませんのでご注意下さい。{/c}",
+422,"{c02}条件を満たしていないため
 報酬をもらう権限がありません。
-‾C00詳細を確認します。",
-423,‾C00この会話から退室しますか？,
-424,‾C00退室しました。,
-425,‾C0011桁のカプトモパスを指定してください。,
-426,‾C00すでに対象を無視設定しているので実行できません。,
-427,‾C00対象の情報が取得できないため実行できません。,
-428,‾C00文字数が上限を超えました。,
-429,‾C00無効なカプトモ申請です。,
-430,‾C05No claimable items.,
-431,‾C05No claimable subscriptions.,
-432,‾C00,
-433,‾C00,
-434,‾C00,
-435,‾C00,
-436,‾C05課金条件が一致しません。,
-437,‾C05HRが一致しません。,
-438,‾C05SRが一致しません。,
-439,‾C05GRが一致しません。,
-440,‾C05受取条件が一致しません。,
-441,‾C05受取条件を満たしていません。,
-442,‾C00Set this goal?,
-443,"‾C00既に猟団目標が設定されています。
+{/c}詳細を確認します。",
+423,{/c}この会話から退室しますか？,
+424,{/c}退室しました。,
+425,{/c}11桁のカプトモパスを指定してください。,
+426,{/c}すでに対象を無視設定しているので実行できません。,
+427,{/c}対象の情報が取得できないため実行できません。,
+428,{/c}文字数が上限を超えました。,
+429,{/c}無効なカプトモ申請です。,
+430,{c05}No claimable items.,
+431,{c05}No claimable subscriptions.,
+432,{/c},
+433,{/c},
+434,{/c},
+435,{/c},
+436,{c05}課金条件が一致しません。,
+437,{c05}HRが一致しません。,
+438,{c05}SRが一致しません。,
+439,{c05}GRが一致しません。,
+440,{c05}受取条件が一致しません。,
+441,{c05}受取条件を満たしていません。,
+442,{/c}Set this goal?,
+443,"{/c}既に猟団目標が設定されています。
 新たに設定するためには目標を達成するか、
 設定中の目標を取り消してください。",
-444,"‾C00猟団目標の設定は
-‾C05猟団長‾C00もしくは‾C05副猟団長‾C00しかできません。",
-445,"‾C00‾C05猟団目標とは？‾C00
+444,"{/c}猟団目標の設定は
+{c05}猟団長{/c}もしくは{c05}副猟団長{/c}しかできません。",
+445,"{/c}{c05}猟団目標とは？{/c}
 
 猟団メンバー全員が協力して
 ひとつの目標達成を目指します。
@@ -1404,24 +1404,24 @@ Do you want to claim the reward?",
 
 達成後すぐに次の目標を始めることができるので、
 精力的に挑戦しましょう！",
-446,‾C00開催されていません。,
-447,"‾C00利用権購入ページを表示します。
-‾C05（ブラウザを起動します）
-‾C00
-‾C02※ここからは武具などの詳細性能を
+446,{/c}開催されていません。,
+447,"{/c}利用権購入ページを表示します。
+{c05}（ブラウザを起動します）
+{/c}
+{c02}※ここからは武具などの詳細性能を
 確認することができません。
 性能につきましては、ゲーム外のブラウザ
-または武具工房などでご確認ください。‾C00
+または武具工房などでご確認ください。{/c}
 ",
-448,"‾C00‾C05ご注意！‾C00
+448,"{/c}{c05}ご注意！{/c}
 購入したコースの適用や
 武具の受取を行うためには、
-「‾C02利用権情報の更新‾C00」を行う必要があります。
-‾C05※通信状況により、更新を行っても
+「{c02}利用権情報の更新{/c}」を行う必要があります。
+{c05}※通信状況により、更新を行っても
 反映されない場合があります。
-その際は時間をおいて、再度お試しください。‾C00
+その際は時間をおいて、再度お試しください。{/c}
 ",
-449,"‾C00‾C05猟団支援効果とは？‾C00
+449,"{/c}{c05}猟団支援効果とは？{/c}
 
 猟団支援効果は猟団部屋から出発した
 クエストで発揮されます。
@@ -1429,49 +1429,49 @@ Do you want to claim the reward?",
 同一効果はレベル10が上限です。
 
 支援効果を貯めて、猟団の結束力を高めましょう！",
-450,‾C00報酬を受け取りました。,
-451,‾C00報酬を受け取れませんでした。,
-452,"‾C00猟団トレジャー
+450,{/c}報酬を受け取りました。,
+451,{/c}報酬を受け取れませんでした。,
+452,"{/c}猟団トレジャー
 メニューに戻りますか？",
-453,"‾C00お宝発見報告
+453,"{/c}お宝発見報告
 メニューに戻りますか？",
-454,"‾C00このお宝を探しに行くのを
+454,"{/c}このお宝を探しに行くのを
 止めますか？",
-455,"‾C00探しに行くお宝を
+455,"{/c}探しに行くお宝を
 これに変更しますか？",
-456,"‾C00猟団トレジャー隊出発します。
+456,"{/c}猟団トレジャー隊出発します。
 よろしいですか？",
-457,"‾C05アイテム≪%s≫を%d個使用して
+457,"{c05}アイテム≪%s≫を%d個使用して
 戻り時間をスキップします！！
 
 よろしいですか？",
-458,"‾C02戻り時間をスキップするためには
+458,"{c02}戻り時間をスキップするためには
 アイテム≪%s≫が%d個必要です。",
-459,‾C00Hire this Felyne?,
-460,‾C00Confirm Name?,
-461,‾C02サーバーとの通信に失敗しました,
-462,"‾C05！！疲労度の高いパートニャーがいます！！
+459,{/c}Hire this Felyne?,
+460,{/c}Confirm Name?,
+461,{c02}サーバーとの通信に失敗しました,
+462,"{c05}！！疲労度の高いパートニャーがいます！！
 
-‾C00猟団ポイントを消費して
+{/c}猟団ポイントを消費して
 パートニャーの疲労度を回復しましょう。
-‾C00
-‾C05消費ポイント　　　%d(%dx%d匹)
-‾C00
-‾C06所持猟団ポイント　　　%d
-‾C00
+{/c}
+{c05}消費ポイント　　　%d(%dx%d匹)
+{/c}
+{c06}所持猟団ポイント　　　%d
+{/c}
 猟団ポイントを消費して出発しますか？",
-463,"‾C00ハード制限により選択した
+463,"{/c}ハード制限により選択した
 ワールドへの移動はできません。",
-464,"‾C00指定した猟団ポイントを使用して
+464,"{/c}指定した猟団ポイントを使用して
 アクティブカウントを補填します。
 
 よろしいですか？",
-465,‾C00アクティブカウントの補填が完了しました。,
-466,‾C00アクティブカウントの補填に失敗しました。,
-467,"‾C02不正な処理が検出されました。
+465,{/c}アクティブカウントの補填が完了しました。,
+466,{/c}アクティブカウントの補填に失敗しました。,
+467,"{c02}不正な処理が検出されました。
 
 お問い合わせください。",
-468,"‾C00ランドへ移動(別の広場)
+468,"{/c}ランドへ移動(別の広場)
 
 ワールドへ移動(別の区画)
 
@@ -1483,13 +1483,13 @@ Do you want to claim the reward?",
 
 武具工房へ移動
 
-‾C05くじを引きに行く‾C00
+{c05}くじを引きに行く{/c}
 
 猟団部屋へ移動
 
- ‾C00{k00} 決定    {k01} 戻る
+ {/c}{k00} 決定    {k01} 戻る
 ",
-469,"‾C00ランドへ移動(別の広場)
+469,"{/c}ランドへ移動(別の広場)
 
 ワールドへ移動(別の区画)
 
@@ -1501,455 +1501,455 @@ Do you want to claim the reward?",
 
 武具工房へ移動
 
-‾C05くじを引きに行く‾C00
+{c05}くじを引きに行く{/c}
 
- ‾C00{k00} 決定    {k01} 戻る
+ {/c}{k00} 決定    {k01} 戻る
 ",
-470,‾C00ゲーム招待は１日に１回しか送信できません,
-471,‾C00カプトークの最大参加人数を超えています,
-472,"‾C00復帰区利用期限がきれました。
+470,{/c}ゲーム招待は１日に１回しか送信できません,
+471,{/c}カプトークの最大参加人数を超えています,
+472,"{/c}復帰区利用期限がきれました。
 復帰区以外のメゼポルタ広場をご利用ください。",
-473,"‾C05Move to Return World?
+473,"{c05}Move to Return World?
 
-‾C00There are exclusive content access
+{/c}There are exclusive content access
 available in the Return World for:
-‾C04・Returning Hunters
-‾C04・New Hunters",
-474,‾C00復帰区を利用する権限がありません,
-475,‾C00復帰区でクエストを受注する権限がありません,
-476,"‾C00このワールドではＧ級昇格試験を受注できません。
+{c04}・Returning Hunters
+{c04}・New Hunters",
+474,{/c}復帰区を利用する権限がありません,
+475,{/c}復帰区でクエストを受注する権限がありません,
+476,"{/c}このワールドではＧ級昇格試験を受注できません。
 Ｇ級クエストが受注できるワールドに移動して、
 再度Ｇ級受付嬢に話しかけてください。",
-477,"‾C05Item Claim Confirmation‾C00
-‾C00＜Item＞‾C00
-will be sent to the‾C02Item Box‾C00.
+477,"{c05}Item Claim Confirmation{/c}
+{/c}＜Item＞{/c}
+will be sent to the{c02}Item Box{/c}.
 
 ＜Point＞ will be given to your character.
 
-‾C05＜Premium Gacha Coin＞‾C00
-‾C05＜Trial Gacha Coin＞‾C00
-‾C05＜Frontier Point＞‾C00
+{c05}＜Premium Gacha Coin＞{/c}
+{c05}＜Trial Gacha Coin＞{/c}
+{c05}＜Frontier Point＞{/c}
 will be granted to your account.
 
-‾C02Please note that
+{c02}Please note that
 Items won't be received if
 the Item Box is full.
-‾C00Would you like to claim it?",
-478,"‾C00きんぴか小判Ｇが不足していますので、
+{/c}Would you like to claim it?",
+478,"{/c}きんぴか小判Ｇが不足していますので、
 このサービスのご利用はできません。
 
 きんぴか小判Ｇを別途ご購入いただく事で
 サービスを利用する事ができます。
 
-購入する‾C05（ブラウザ起動）‾C00
-Webで詳細‾C05（ブラウザ起動）‾C00
+購入する{c05}（ブラウザ起動）{/c}
+Webで詳細{c05}（ブラウザ起動）{/c}
 閉じる
 
-‾C05きんぴか小判Ｇをご購入された場合は、
+{c05}きんぴか小判Ｇをご購入された場合は、
 ハリセンネコもおしくは広場入口のガイドから
 「利用権情報の更新」を選び
-きんぴか小判Ｇを受け取ってください。‾C00",
-479,"‾C05Ｇ遷悠クエスト‾C00の報酬１０枠確定ブーストが終了しました。
+きんぴか小判Ｇを受け取ってください。{/c}",
+479,"{c05}Ｇ遷悠クエスト{/c}の報酬１０枠確定ブーストが終了しました。
 これより、クエスト報酬は３枠⇒２枠⇒１枠となります。 
-ブースト回数は‾C05『毎日特典』‾C00の獲得でチャージされます。
+ブースト回数は{c05}『毎日特典』{/c}の獲得でチャージされます。
 
-‾C05先行狩猟チケット‾C00を消費するクエストや、
-‾C05狩人応援コース‾C00利用時は、１０枠確定で報酬が受け取れます。",
-480,"‾C05遷悠クエスト‾C00の報酬１０枠確定ブーストが終了しました。
+{c05}先行狩猟チケット{/c}を消費するクエストや、
+{c05}狩人応援コース{/c}利用時は、１０枠確定で報酬が受け取れます。",
+480,"{c05}遷悠クエスト{/c}の報酬１０枠確定ブーストが終了しました。
 これより、クエスト報酬は３枠⇒２枠⇒１枠となります。 
-ブースト回数は‾C05『毎日特典』‾C00の獲得でチャージされます。
+ブースト回数は{c05}『毎日特典』{/c}の獲得でチャージされます。
 
-‾C05先行狩猟チケット‾C00を消費するクエストや、
-‾C05狩人応援コース‾C00利用時は、１０枠確定で報酬が受け取れます。",
-481,‾C05No available subscriptions to be claimed.,
-482,"‾C05レジェンドラスタ２人と契約が可能です。‾C00
+{c05}先行狩猟チケット{/c}を消費するクエストや、
+{c05}狩人応援コース{/c}利用時は、１０枠確定で報酬が受け取れます。",
+481,{c05}No available subscriptions to be claimed.,
+482,"{c05}レジェンドラスタ２人と契約が可能です。{/c}
 
 アシストコース、または狩人応援コースの
 有効期間中は、
 レジェンドラスタ２人と契約することができます。",
-483,"‾C00契約順番により、
+483,"{/c}契約順番により、
 メインＬラスタ、サブＬラスタで分けられ、
 メインＬラスタで登録されているレジェンドラスタが
 優先して同行します。",
-484,"‾C05契約順は、レジェンドラスタメニューの
+484,"{c05}契約順は、レジェンドラスタメニューの
 「契約順を変更する」から変更できます。
 
 レジェンドラスタの解約は、
 レジェンドラスタ受付、または
 レジェンドラスタメニューより行えます。",
-485,"‾C05ご注意！
+485,"{c05}ご注意！
 
-‾C00受け取ったコースの適用を行うため、
-「‾C02利用権情報の更新‾C00」を行います。
+{/c}受け取ったコースの適用を行うため、
+「{c02}利用権情報の更新{/c}」を行います。
 
-‾C05※通信状況により、更新を行っても
+{c05}※通信状況により、更新を行っても
 反映されない場合があります。
 その際は時間をおいて、再度お試しください。",
-486,"‾C05受取確認
+486,"{c05}受取確認
 
-‾C00この効果は＜アカウント＞に付与されます。
-
-
-‾C05%s
+{/c}この効果は＜アカウント＞に付与されます。
 
 
-‾C00受け取りますか？",
-487,"‾C05内容の確認
+{c05}%s
 
-‾C00下記を受け取りました。
 
-‾C05%s
-‾C00%s
+{/c}受け取りますか？",
+487,"{c05}内容の確認
 
-‾C00有効期限は「個人ステータス＞課金情報」
+{/c}下記を受け取りました。
+
+{c05}%s
+{/c}%s
+
+{/c}有効期限は「個人ステータス＞課金情報」
 または「個人ステータス＞その他」でも
 確認できます。",
-488,"‾C05ご注意！
+488,"{c05}ご注意！
 
-‾C00下記のコースが有効です。
+{/c}下記のコースが有効です。
 
-‾C05%s
-‾C00%s
+{c05}%s
+{/c}%s
 
-‾C00上記の有効期限が切れてから
+{/c}上記の有効期限が切れてから
 もう一度お受け取り下さい。",
-489,"‾C05ご注意！
+489,"{c05}ご注意！
 
-‾C00受け取った猟団ポイントは、
+{/c}受け取った猟団ポイントは、
 再ログイン後に反映されます。",
-490,"‾C05ご注意！
+490,"{c05}ご注意！
 
-‾C00公認ネットカフェから接続しているので、
+{/c}公認ネットカフェから接続しているので、
 受け取ることが出来ません。
 
 公認ネットカフェ以外から接続して
 もう一度お受け取り下さい。
 ",
-491,"‾C05受取確認
+491,"{c05}受取確認
 
-‾C00この効果は＜キャラクター＞に付与されます。
-また、この効果は‾C02受け取った後すぐに‾C00発動します。
-‾C02※「後で発動」は出来ません！
+{/c}この効果は＜キャラクター＞に付与されます。
+また、この効果は{c02}受け取った後すぐに{/c}発動します。
+{c02}※「後で発動」は出来ません！
 
-‾C05%s
+{c05}%s
 
-‾C00受け取りますか？",
-492,"‾C05内容の確認
+{/c}受け取りますか？",
+492,"{c05}内容の確認
 
-‾C00下記を受け取りました。
+{/c}下記を受け取りました。
 
-‾C05%s
-‾C00%s
+{c05}%s
+{/c}%s
 
-‾C00有効期限は「個人ステータス＞ポイント等」で
+{/c}有効期限は「個人ステータス＞ポイント等」で
 確認できます。",
-493,"‾C05お知らせ
+493,"{c05}お知らせ
 
-‾C00一時保管されている利用権が有るので受け取ります。
+{/c}一時保管されている利用権が有るので受け取ります。
 受け取ったコースの適用を行うため、
-「‾C02利用権情報の更新‾C00」を行います。
+「{c02}利用権情報の更新{/c}」を行います。
 
-‾C05※通信状況により、更新を行っても
+{c05}※通信状況により、更新を行っても
 反映されない場合があります。
 その際は時間をおいて、再度お試しください。
 
-‾C02※利用権が重複している場合には、効果が延長されません。
+{c02}※利用権が重複している場合には、効果が延長されません。
 十分にご注意ください。",
-494,"‾C05ご注意！
+494,"{c05}ご注意！
 
-‾C00下記の効果が有効です。
+{/c}下記の効果が有効です。
 
-‾C05%s
-‾C00%s
+{c05}%s
+{/c}%s
 
-‾C00上記の有効期限が切れてから
+{/c}上記の有効期限が切れてから
 もう一度お受け取り下さい。",
-495,"‾C00調査依頼書を達成していません。
+495,"{/c}調査依頼書を達成していません。
 
-‾C05※新しい依頼書は現在の依頼書を完了
+{c05}※新しい依頼書は現在の依頼書を完了
 しないと入手することはできません。",
-496,"‾C00指定した猟団ポイントを寄付します。
+496,"{/c}指定した猟団ポイントを寄付します。
 
-‾C05※上限に達していた場合は差額が返却されます。
+{c05}※上限に達していた場合は差額が返却されます。
 
 ※期間中に依頼書を入手できなかった場合、
 寄付された猟団ポイントは返却されます。
 
-‾C00よろしいですか？",
-497,"‾C00新規・復帰ハンターの皆さまへ
+{/c}よろしいですか？",
+497,"{/c}新規・復帰ハンターの皆さまへ
 
 こちらのメニューより
 ＜新規チュートリアル＞をご覧になりたい場合は、
-‾C05＜復帰区＞へ移動して‾C00
-‾C05＜復帰区チュートリアル＞を終えてから‾C00
+{c05}＜復帰区＞へ移動して{/c}
+{c05}＜復帰区チュートリアル＞を終えてから{/c}
 もう一度選んでください。
 ",
-498,"‾C05猟団狩人ブーストを発動させますか？
-‾C00発動させると６０分間、
+498,"{c05}猟団狩人ブーストを発動させますか？
+{/c}発動させると６０分間、
 猟団員全員の猟団狩人珠
 獲得量が上昇します。",
-499,"‾C05猟団狩人ブーストを
+499,"{c05}猟団狩人ブーストを
 発動させることができません。
-‾C00「猟団狩人珠の情報」から発動可能に
+{/c}「猟団狩人珠の情報」から発動可能に
 なるまでの時間を確認できます。",
-500,"‾C05現在、猟団狩人ブーストは発動中です。
-‾C00「猟団狩人珠の情報」から
+500,"{c05}現在、猟団狩人ブーストは発動中です。
+{/c}「猟団狩人珠の情報」から
 残り時間を確認できます。",
-501,"‾C05猟団狩人ブーストを
+501,"{c05}猟団狩人ブーストを
 発動させることができません。
-‾C00猟団狩人ブーストを発動できるのは
+{/c}猟団狩人ブーストを発動できるのは
 猟団長か副猟団長だけです。",
-502,‾C00調査依頼書を全て達成しました。,
-503,"‾C05アイテムボックスがいっぱいです。
+502,{/c}調査依頼書を全て達成しました。,
+503,"{c05}アイテムボックスがいっぱいです。
 整理してから、再度報酬を受け取ってください。",
-504,‾C00異なるポータルのカプトモパスは入力できません。,
-505,‾C00この猟団への加入を承諾しますか？,
+504,{/c}異なるポータルのカプトモパスは入力できません。,
+505,{/c}この猟団への加入を承諾しますか？,
 506,"
 
 
-‾C00上記のハンターを猟団に勧誘します。
+{/c}上記のハンターを猟団に勧誘します。
 よろしいですか？",
-507,‾C00猟団への加入を承諾しますか？,
+507,{/c}猟団への加入を承諾しますか？,
 508,"
 
 
 
 
-‾C00このハンターに対する勧誘を取り消します。
+{/c}このハンターに対する勧誘を取り消します。
 よろしいですか？
 
-‾C05※取り消しの際、相手に通知のメールが送られます。",
-509,"‾C00猟団への勧誘に失敗しました。
+{c05}※取り消しの際、相手に通知のメールが送られます。",
+509,"{/c}猟団への勧誘に失敗しました。
 
-‾C05※自分が猟団に加入していません。",
-510,"‾C00猟団への勧誘に失敗しました。
+{c05}※自分が猟団に加入していません。",
+510,"{/c}猟団への勧誘に失敗しました。
 
-‾C05※「猟団に勧誘」を行う権限がありません。",
-511,"‾C00猟団への勧誘に失敗しました。
+{c05}※「猟団に勧誘」を行う権限がありません。",
+511,"{/c}猟団への勧誘に失敗しました。
 
-‾C05※このハンターはすでに猟団に加入しています。",
-512,"‾C00猟団への勧誘に失敗しました。
+{c05}※このハンターはすでに猟団に加入しています。",
+512,"{/c}猟団への勧誘に失敗しました。
 
-‾C05※このハンターは現在猟団に勧誘中です。",
-513,"‾C00猟団への勧誘に失敗しました。
+{c05}※このハンターは現在猟団に勧誘中です。",
+513,"{/c}猟団への勧誘に失敗しました。
 
-‾C05※勧誘できるハンターが最大数に達しています。",
-514,"‾C00猟団への勧誘に失敗しました。
+{c05}※勧誘できるハンターが最大数に達しています。",
+514,"{/c}猟団への勧誘に失敗しました。
 
-‾C05※相手にメールが送れない状態にあります。",
-515,"‾C00猟団への勧誘に失敗しました。
+{c05}※相手にメールが送れない状態にあります。",
+515,"{/c}猟団への勧誘に失敗しました。
 
-‾C05※通信状況を確認し、もう一度行ってください。",
-516,"‾C00勧誘への返答に失敗しました。
+{c05}※通信状況を確認し、もう一度行ってください。",
+516,"{/c}勧誘への返答に失敗しました。
 
-‾C05※この勧誘は無効になっています。",
-517,"‾C00猟団への加入に失敗しました。
+{c05}※この勧誘は無効になっています。",
+517,"{/c}猟団への加入に失敗しました。
 
-‾C05※既に猟団に加入しています。",
-518,"‾C00猟団への加入に失敗しました。
+{c05}※既に猟団に加入しています。",
+518,"{/c}猟団への加入に失敗しました。
 
-‾C05※猟団側に確認を行ってください。",
-519,"‾C00勧誘への返答に失敗しました。
+{c05}※猟団側に確認を行ってください。",
+519,"{/c}勧誘への返答に失敗しました。
 
-‾C05※通信状況を確認し、もう一度行ってください。",
-520,"‾C00猟団への加入に失敗しました。
+{c05}※通信状況を確認し、もう一度行ってください。",
+520,"{/c}猟団への加入に失敗しました。
 
-‾C05※現在、猟団に加入することができません。",
-521,"‾C00勧誘の取り消しができませんでした。
+{c05}※現在、猟団に加入することができません。",
+521,"{/c}勧誘の取り消しができませんでした。
 
-‾C05※既に返答が行われている可能性があります。",
-522,"‾C00勧誘の取り消しができませんでした。
+{c05}※既に返答が行われている可能性があります。",
+522,"{/c}勧誘の取り消しができませんでした。
 
-‾C05※勧誘取り消しの権限がありません。",
-523,"‾C00勧誘の取り消しができませんでした。
+{c05}※勧誘取り消しの権限がありません。",
+523,"{/c}勧誘の取り消しができませんでした。
 
-‾C05※勧誘取り消しの権限がありません。",
-524,"‾C00勧誘の取り消しができませんでした。
+{c05}※勧誘取り消しの権限がありません。",
+524,"{/c}勧誘の取り消しができませんでした。
 
-‾C05※通信状況を確認し、もう一度行ってください。",
-525,"‾C00権限の変更に失敗しました。
+{c05}※通信状況を確認し、もう一度行ってください。",
+525,"{/c}権限の変更に失敗しました。
 
-‾C05※猟団長でなければ変更ができません。",
-526,"‾C00権限の変更に失敗しました。
+{c05}※猟団長でなければ変更ができません。",
+526,"{/c}権限の変更に失敗しました。
 
-‾C05※対象者はすでに猟団員ではない可能性があります。",
-527,‾C00猟団に勧誘しました。,
-528,‾C00猟団への加入を承諾しました！,
-529,‾C00猟団への加入を辞退しました。,
-530,‾C00猟団への勧誘を取り消しました。,
-531,"‾C00景品は「一時保管庫」に保管されています。
+{c05}※対象者はすでに猟団員ではない可能性があります。",
+527,{/c}猟団に勧誘しました。,
+528,{/c}猟団への加入を承諾しました！,
+529,{/c}猟団への加入を辞退しました。,
+530,{/c}猟団への勧誘を取り消しました。,
+531,"{/c}景品は「一時保管庫」に保管されています。
 今すぐ景品をアイテムボックスに送りますか？
 
-‾C05※景品はいつでも「一時保管庫」メニューから受け取れます。‾C00",
-532,‾C00変更を反映しますか？,
-533,"‾C05復帰猟団（入団と構成）
-‾C00
-・‾C05復帰ハンターのみ‾C00で構成される猟団です。　　　　　　　
-・団長・副団長はなく、‾C05全員が団員‾C00の気軽な猟団です。　　
-・ハンターのランクに合わせて‾C05ＨＲ‾C00か‾C05Ｇ級‾C00に分かれます。　
-・猟団員は‾C05３０名‾C00です。　　　　　　　　　　　　　　　　
-・退団・再加入は‾C05自由‾C00にできます。　　　　　　　　　　　
+{c05}※景品はいつでも「一時保管庫」メニューから受け取れます。{/c}",
+532,{/c}変更を反映しますか？,
+533,"{c05}復帰猟団（入団と構成）
+{/c}
+・{c05}復帰ハンターのみ{/c}で構成される猟団です。　　　　　　　
+・団長・副団長はなく、{c05}全員が団員{/c}の気軽な猟団です。　　
+・ハンターのランクに合わせて{c05}ＨＲ{/c}か{c05}Ｇ級{/c}に分かれます。　
+・猟団員は{c05}３０名{/c}です。　　　　　　　　　　　　　　　　
+・退団・再加入は{c05}自由{/c}にできます。　　　　　　　　　　　
 ・退団のペナルティーはありません。　　　　　　　　　　
 ・団員に空きができても、新たな団員が補充されます。　　
-・復帰ハンターの条件が切れれば‾C05自動退団‾C00です。　　　　　
+・復帰ハンターの条件が切れれば{c05}自動退団{/c}です。　　　　　
 ",
-534,"‾C05復帰猟団（特典）
-‾C00
-・最初から‾C05猟団部屋（Lv.3）ランク14相当‾C00の機能が使えます。 　　 
-・通常の猟団ポイント(ＲＰ)に加え、‾C0510分で1ＲＰ‾C00たまります。 　　
-・専用の‾C05復帰猟団チャット‾C00が利用できます。　　　　　　　　　　　
-・ヘルプ設定した仲間のクエストに‾C05@hereでジャンプ‾C00できます。 　　
-・‾C05コミュニケーションログ‾C00で仲間の動向がわかります。　　　　　　
-・復帰区でも猟団部屋の作成ができ、そのまま‾C05入室‾C00ができます。　　
+534,"{c05}復帰猟団（特典）
+{/c}
+・最初から{c05}猟団部屋（Lv.3）ランク14相当{/c}の機能が使えます。 　　 
+・通常の猟団ポイント(ＲＰ)に加え、{c05}10分で1ＲＰ{/c}たまります。 　　
+・専用の{c05}復帰猟団チャット{/c}が利用できます。　　　　　　　　　　　
+・ヘルプ設定した仲間のクエストに{c05}@hereでジャンプ{/c}できます。 　　
+・{c05}コミュニケーションログ{/c}で仲間の動向がわかります。　　　　　　
+・復帰区でも猟団部屋の作成ができ、そのまま{c05}入室{/c}ができます。　　
 
-※復帰猟団部屋では、‾C05利用制限‾C00されている機能があります。　　　
+※復帰猟団部屋では、{c05}利用制限{/c}されている機能があります。　　　
 ※一部のクエストでは、ログ表示、@here表示は出ません。　　　 
 ",
-535,"Would you like to join the ‾C05Return Clan‾C00?
+535,"Would you like to join the {c05}Return Clan{/c}?
 ",
-536,"‾C05注意！
-‾C00
+536,"{c05}注意！
+{/c}
 すでに通常猟団に入団しています！
 
-今入団している‾C05通常猟団を退団‾C00して
+今入団している{c05}通常猟団を退団{/c}して
 復帰猟団へ入団しますか？
 ",
-537,"‾C00入団中の猟団で‾C05猟団長‾C00だと‾C05団長交代‾C00になります。
+537,"{/c}入団中の猟団で{c05}猟団長{/c}だと{c05}団長交代{/c}になります。
 また、退団した際に団員が残らない場合は、
-その猟団は‾C05強制解散‾C00になります。
+その猟団は{c05}強制解散{/c}になります。
 
-本当に今の‾C05通常猟団を退団‾C00して
+本当に今の{c05}通常猟団を退団{/c}して
 復帰猟団へ入団しますか？
 ",
-538,"‾C05入団おめでとうございます！
-‾C00【まずは使ってみよう！】
-‾C00
-‾C05★復帰猟団チャット★‾C00
+538,"{c05}入団おめでとうございます！
+{/c}【まずは使ってみよう！】
+{/c}
+{c05}★復帰猟団チャット★{/c}
 猟団チャットで挨拶してみましょう！
-他にもチャットには‾C05仲間の行動情報‾C00が流れたり、
-クエストの‾C05ヘルプ募集‾C00もできるからとても便利！
+他にもチャットには{c05}仲間の行動情報{/c}が流れたり、
+クエストの{c05}ヘルプ募集{/c}もできるからとても便利！
 
-‾C05★復帰猟団部屋★‾C00
-部屋へは猟団受付の＜‾C05猟団部屋に入る‾C00＞か、
+{c05}★復帰猟団部屋★{/c}
+部屋へは猟団受付の＜{c05}猟団部屋に入る{/c}＞か、
 広場にある通路から行きます。
 
 ＜メニュー＞の＜猟団＞もチェック！
 ",
-539,"‾C00今回、復帰猟団に入団をしなくても
-下記の手段で再度、‾C05復帰猟団へ入団‾C00ができます！
+539,"{/c}今回、復帰猟団に入団をしなくても
+下記の手段で再度、{c05}復帰猟団へ入団{/c}ができます！
 
 広場の猟団受付のメニューの
-＜‾C05猟団に入団する‾C00＞を選択することで、
+＜{c05}猟団に入団する{/c}＞を選択することで、
 ここと同じ入団の説明を聞くことができます。
 
-また、復帰ハンター中は‾C05ワールド・ランド移動‾C00の際に
+また、復帰ハンター中は{c05}ワールド・ランド移動{/c}の際に
 一定回数同じ説明が表示されます。
 ",
-540,"‾C05復帰ハンター‾C00のみなさん
+540,"{c05}復帰ハンター{/c}のみなさん
 
-同じ‾C05復帰ハンター仲間で集まる‾C00事ができて、
-しかも専用の‾C05特典が満載‾C00な復帰猟団へは、
+同じ{c05}復帰ハンター仲間で集まる{/c}事ができて、
+しかも専用の{c05}特典が満載{/c}な復帰猟団へは、
 このメッセージを進めることで入団ができます。
 
 もし復帰猟団への興味や入団の希望があるならば、
-このチャンスに是非‾C05入団‾C00しましょう！
+このチャンスに是非{c05}入団{/c}しましょう！
 
 ※この表示は復帰ハンター中、1ログインで3回表示されます。
 ※＜今は入団しない＞で、そのログイン中は非表示にします。
 ",
-541,"‾C00復帰猟団入団の条件が
+541,"{/c}復帰猟団入団の条件が
 満たされているため、
-はじめに‾C05復帰猟団の説明‾C00を行います。
+はじめに{c05}復帰猟団の説明{/c}を行います。
 
 復帰猟団に入団しない場合は、
-通常猟団の‾C05猟団を探す‾C00に移ります。
+通常猟団の{c05}猟団を探す{/c}に移ります。
 ",
-542,"‾C00復帰猟団入団の条件が
+542,"{/c}復帰猟団入団の条件が
 満たされているため、
-‾C05復帰猟団の説明‾C00を行います。
+{c05}復帰猟団の説明{/c}を行います。
 ",
-543,"‾C00かんたん操作未対応の武器種が
+543,"{/c}かんたん操作未対応の武器種が
 指定されたクエストは受けられません。
 ",
-544,"‾C05復帰猟団の猟団成果に関して
+544,"{c05}復帰猟団の猟団成果に関して
 
-‾C00復帰猟団の特性上、＜猟団長の権限が必要＞
+{/c}復帰猟団の特性上、＜猟団長の権限が必要＞
 ＜報酬期間が決まっている＞＜RPの消費がある＞
 などの要素への参加を制限しています。
 
 
-‾C05天廊遠征録　猟団調査依頼は受けられません。
-‾C00調査依頼が発生しないため、支援効果や報酬が発生しません。
+{c05}天廊遠征録　猟団調査依頼は受けられません。
+{/c}調査依頼が発生しないため、支援効果や報酬が発生しません。
 
-‾C05猟団征伐戦への参加はできません。
-‾C00実績ポイントの獲得ができないため、マッチングが行われません。
+{c05}猟団征伐戦への参加はできません。
+{/c}実績ポイントの獲得ができないため、マッチングが行われません。
 
-‾C05航路クエスト受付　取扱いクエストの受注ができません。
-‾C00受付のクエストの受注、猟団狩人珠の利用ができません。
+{c05}航路クエスト受付　取扱いクエストの受注ができません。
+{/c}受付のクエストの受注、猟団狩人珠の利用ができません。
 
-‾C05公式狩猟大会‾C0は‾C05巨大魚杯‾C00のみ参加できます。
+{c05}公式狩猟大会‾C0は{c05}巨大魚杯{/c}のみ参加できます。
 ",
-545,"‾C05【%s】‾C00に祈りを込めます。
+545,"{c05}【%s】{/c}に祈りを込めます。
 変更は一日に一回までです。
 よろしいですか？
 
-また、選択後、歌玉を‾C051個以上獲得しないと‾C00
+また、選択後、歌玉を{c05}1個以上獲得しないと{/c}
 戦歌の章で祈歌効果を得ることはできませんので
 ご注意ください",
-546,"‾C00祈りを捧げる祈珠を
-‾C05【%s】‾C00に変更します。
+546,"{/c}祈りを捧げる祈珠を
+{c05}【%s】{/c}に変更します。
 変更は一日に一回までです。よろしいですか？",
-547,"‾C00歌の恩恵効果を使いますか？
-‾C02※一度発動したら変更できません‾C00",
-548,‾C00効果を発動しました。,
-549,‾C00効果を発動できませんでした。,
-550,"‾C05色の変更に失敗しました。
-本日はすでに色を変更しています。‾C00",
-551,‾C00祈珠のレベルが最大のため、選択できません。,
-552,‾C00この章では祈珠を決定することができません。,
-553,‾C00この祈珠はすでに選択されています。,
-554,"‾C00現在、祈珠情報の集計中です。
+547,"{/c}歌の恩恵効果を使いますか？
+{c02}※一度発動したら変更できません{/c}",
+548,{/c}効果を発動しました。,
+549,{/c}効果を発動できませんでした。,
+550,"{c05}色の変更に失敗しました。
+本日はすでに色を変更しています。{/c}",
+551,{/c}祈珠のレベルが最大のため、選択できません。,
+552,{/c}この章では祈珠を決定することができません。,
+553,{/c}この祈珠はすでに選択されています。,
+554,"{/c}現在、祈珠情報の集計中です。
 完了するまでの間、祈珠選択ができません。
 少し間をおいてから再度操作を行ってください。",
-555,"‾C05ＰＳ４で『モンハンＦ』みんなでテスト‾C00
+555,"{c05}ＰＳ４で『モンハンＦ』みんなでテスト{/c}
 ご参加ありがとうございます。
 みんなでテストでは、初回プレイ時にキャラクターの
 ハンターランクを変更することが可能です。
 
 ＨＲ１でプレイを開始
-‾C05※製品版と同じプレイを希望する方向け。‾C00
+{c05}※製品版と同じプレイを希望する方向け。{/c}
 ＧＲ１でプレイを開始
-‾C05※すぐに高難易度のクエストをプレイしたい方向け。‾C00
-‾C05※Ｇ級クエストは、入門区では受注できません。‾C00
+{c05}※すぐに高難易度のクエストをプレイしたい方向け。{/c}
+{c05}※Ｇ級クエストは、入門区では受注できません。{/c}
 
-‾C05ハンターランクの変更は、
-‾C05確定するとその後変更することはできません。",
-556,Moving to ‾C05Special Clan Hall‾C00.,
-557,"‾C05レジェンドラスタ３人と契約が可能です。‾C00
+{c05}ハンターランクの変更は、
+{c05}確定するとその後変更することはできません。",
+556,Moving to {c05}Special Clan Hall{/c}.,
+557,"{c05}レジェンドラスタ３人と契約が可能です。{/c}
 
 Ｎブーストコースと、アシストコース
 または狩人応援コースの有効期間中、
 もしくはＬラスタ同行券の所持で、
 レジェンドラスタ３人と契約することができます。",
-558,"‾C00契約順番により、
+558,"{/c}契約順番により、
 メインＬラスタ、サブＬラスタで分けられ、
 メインＬラスタで登録されているレジェンドラスタが
 優先して同行します。",
-559,"‾C05契約順は、レジェンドラスタメニューの
+559,"{c05}契約順は、レジェンドラスタメニューの
 「契約順を変更する」から変更できます。
 
 レジェンドラスタの解約は、
 レジェンドラスタ受付、または
 レジェンドラスタメニューより行えます。",
-560,"‾C00ログを取得しています。
+560,"{/c}ログを取得しています。
 しばらくお待ちください。",
-561,"‾C00‾C05注意‾C00
+561,"{/c}{c05}注意{/c}
 
 外装の使い回しはできません。
-‾C05装着済の外装を外したり、
+{c05}装着済の外装を外したり、
 上書きすると元の外装は破棄されます。
 
-‾C00よろしいですか？",
+{/c}よろしいですか？",
 562,この狩衛士を同行しますか？,
 563,"ギルド貢献ポイントが不足しているため
 狩衛士の同行ができません。",
@@ -1962,32 +1962,32 @@ Webで詳細‾C05（ブラウザ起動）‾C00
 同行期間
 %04d/%d/%d　%02d:%02dまで
 
-‾C05期間終了後、
-‾C05狩衛士は自動で解散します。",
+{c05}期間終了後、
+{c05}狩衛士は自動で解散します。",
 566,"決定後、再設定はできません。
 再設定が可能になるのは同行期間終了後です。
 
 同行期間
 %04d/%d/%d　%02d:%02dまで",
-567,"‾C00Retrieving Map information.
+567,"{/c}Retrieving Map information.
 Please wait.",
-568,‾C00Failed to retrieve Map information.,
-569,‾C00Failed to retrieve log.,
-570,"‾C00ＨＲ帯の迎撃戦クエストには
+568,{/c}Failed to retrieve Map information.,
+569,{/c}Failed to retrieve log.,
+570,"{/c}ＨＲ帯の迎撃戦クエストには
 狩衛士を同行させることはできません。
 受注しますか？",
-571,"‾C00該当条件のパーティーが見つかりませんでした。
+571,"{/c}該当条件のパーティーが見つかりませんでした。
 しばらくしてからお試しください。",
-572,"‾C00クイックパーティー用のワールドが満員です。
+572,"{/c}クイックパーティー用のワールドが満員です。
 しばらくしてからもう一度試して下さい。",
-573,"‾C00検索に失敗しました。
+573,"{/c}検索に失敗しました。
 もう一度試して下さい。",
-574,"‾C05ご注意！
+574,"{c05}ご注意！
 ボックス内の武具に装着されている、
 全ての装飾品を外します。
 
-‾C02ハンター、ラスタが装備中の武具は
-一括回収の対象外となります。‾C00
+{c02}ハンター、ラスタが装備中の武具は
+一括回収の対象外となります。{/c}
 
 アイテムボックスが一杯の場合、
 装飾品が外れない事があります。
@@ -1998,19 +1998,19 @@ Please wait.",
 577,装備情報を取得中・・・,
 578,戦績情報の取得に失敗しました,
 579,装備情報の取得に失敗しました,
-580,‾C00会話イベントをスキップしますか？,
-581,"‾C00‾C05Warning‾C00
+580,{/c}会話イベントをスキップしますか？,
+581,"{/c}{c05}Warning{/c}
 Rastas cannot join the quest.
 Partnyas cannot join the quest.
 Halk cannot join the quest.
 ""Soul Revival"" (or equivalent) effects will be disabled.
 ""Halk Pot"" effects will be disabled.",
-582,"‾C05最終確認！
-‾C02イメチェンを確定して、保存します。
+582,"{c05}最終確認！
+{c02}イメチェンを確定して、保存します。
 
-‾C00本当によろしいですか？
+{/c}本当によろしいですか？
 ",
-583,"‾C05Warning! ‾C00
+583,"{c05}Warning! {/c}
 You can claim this reward for your account.
 
 If you have more characters,
@@ -2020,11 +2020,11 @@ No other characters will be able to claim
 this reward until it is renewed.
 
 This reward can be claimed every day at 0:00 and 12:00.",
-584,"‾C05≪先に進みます≫‾C00
+584,"{c05}≪先に進みます≫{/c}
 
 「はい」を選択後、約１０秒後に移動します。
 
-‾C02注意！‾C00
+{c02}注意！{/c}
 移動はハンター全員で行われます。
 操作途中のハンターがいた場合、
 強制で取り消し操作となるので、
@@ -2032,7 +2032,7 @@ This reward can be claimed every day at 0:00 and 12:00.",
 
 よろしいですか？
 ",
-585,"‾C05注意！‾C00
+585,"{c05}注意！{/c}
 おすそわけアイテムを受け取る権利は
 アカウントに付与されます。
 
@@ -2043,23 +2043,23 @@ This reward can be claimed every day at 0:00 and 12:00.",
 他のキャラクターは、アイテムを受け取ることができません。
 
 受け取りの権利は毎日０時と１２時に更新されます。",
-586,‾C00アイテムが登録されていません。,
-587,"‾C05%dP‾C08(Current Koryo Points:%dP)
+586,{/c}アイテムが登録されていません。,
+587,"{c05}%dP{c08}(Current Koryo Points:%dP)
 
 
-‾C00is required.
-‾C00Do you want to draw once?
+{/c}is required.
+{/c}Do you want to draw once?
 ",
-588,"‾C05""%s""‾C00
+588,"{c05}""%s""{/c}
 をすべて""%s""と交換します。
 よろしいですか？
 ",
-589,‾C00COG IDを確認できない、またはフレンド申請に失敗しています。,
-590,"‾C05≪先に進みます≫‾C00
+589,{/c}COG IDを確認できない、またはフレンド申請に失敗しています。,
+590,"{c05}≪先に進みます≫{/c}
 
 「はい」を選択後、約１０秒後に移動します。
 
-‾C02注意！‾C00
+{c02}注意！{/c}
 選択後、取り消しをすることはできません。
 選択後もアイテム購入等できますが、
 移動時間に達した時点で
@@ -2067,73 +2067,73 @@ This reward can be claimed every day at 0:00 and 12:00.",
 
 よろしいですか？
 ",
-591,‾C05交換条件を満たしていません。,
-592,‾C05必要アイテムが不足しています。,
-593,"‾C05ご注意！
+591,{c05}交換条件を満たしていません。,
+592,{c05}必要アイテムが不足しています。,
+593,"{c05}ご注意！
 ボックス内の武器に焼き付けられている、
 全てのシジルを外します。
 
-‾C02ハンターが装備中の武器は
-一括回収の対象外となります。‾C00
+{c02}ハンターが装備中の武器は
+一括回収の対象外となります。{/c}
 
 シジルボックスが一杯の場合、
 シジルが外れない事があります。
 
 よろしいですか？",
-594,‾C05これ以上交換できません。,
-595,"‾C05アイテム交換確認
+594,{c05}これ以上交換できません。,
+595,"{c05}アイテム交換確認
 ＜アイテムや武器・防具＞は
-‾C02アイテムボックス‾C00に送られます。
+{c02}アイテムボックス{/c}に送られます。
 
 ＜ポイント＞や＜ボックス拡張サービス＞は
 キャラクターに付与されます。
 
-‾C05＜きんぴか小判Ｇ＞‾C00
-‾C05＜おためし小判Ｇ＞‾C00
-‾C05＜フロンティアポイント＞‾C00
+{c05}＜きんぴか小判Ｇ＞{/c}
+{c05}＜おためし小判Ｇ＞{/c}
+{c05}＜フロンティアポイント＞{/c}
 はアカウントに付与されます。
 
-‾C02アイテムや武具の場合
+{c02}アイテムや武具の場合
 アイテムボックスがいっぱいだと
-アイテムが送信されませんのでご注意下さい。‾C00
+アイテムが送信されませんのでご注意下さい。{/c}
 アイテムを消費して交換しますか？",
-596,"‾C05交換確認
+596,"{c05}交換確認
 
-‾C00この効果は＜アカウント＞に付与されます。
-
-
-‾C05%s
+{/c}この効果は＜アカウント＞に付与されます。
 
 
-‾C00アイテムを消費して交換しますか？",
-597,"‾C05注意！
+{c05}%s
+
+
+{/c}アイテムを消費して交換しますか？",
+597,"{c05}注意！
 特典を受取るための空きがないので
-特典は‾C02一時的に保管‾C00されます。
+特典は{c02}一時的に保管{/c}されます。
 
-‾C05特典アイテムの場合
-‾C02アイテムボックスに空きを作ってから
+{c05}特典アイテムの場合
+{c02}アイテムボックスに空きを作ってから
 再度、受取りをおこなってください。
-‾C05特典ポイントの場合
-‾C02特典ポイント数を受取れる状態にして
+{c05}特典ポイントの場合
+{c02}特典ポイント数を受取れる状態にして
 再度、受取りをおこなってください。
 ",
-598,"‾C05ご注意！
+598,"{c05}ご注意！
 
-‾C00下記のコースが有効です。
+{/c}下記のコースが有効です。
 
-‾C05%s
-‾C00%s
+{c05}%s
+{/c}%s
 
-‾C00上記の有効期限が切れてから
+{/c}上記の有効期限が切れてから
 もう一度交換して下さい。",
-599,"‾C00現在大変混み合っています。
+599,"{/c}現在大変混み合っています。
 しばらくしてからもう一度試して下さい。",
-600,"‾C00部屋の作成に失敗しました。
+600,"{/c}部屋の作成に失敗しました。
 しばらくしてからもう一度試して下さい。",
-601,"‾C00制限時間が0になっても人数がそろわなかったので、
+601,"{/c}制限時間が0になっても人数がそろわなかったので、
 メゼポルタフェスタ広場へ戻ります。",
-602,‾C00Moving to Mezeporta Festival.,
-603,‾C00Entering Mezeporta Festival.,
-604,‾C00現在いるメゼポルタフェスタ広場には、移動できません。,
-605,‾C00満室になってしまったため、再検索いたします。,
-606,‾C00通信待機中です・・・,
+602,{/c}Moving to Mezeporta Festival.,
+603,{/c}Entering Mezeporta Festival.,
+604,{/c}現在いるメゼポルタフェスタ広場には、移動できません。,
+605,{/c}満室になってしまったため、再検索いたします。,
+606,{/c}通信待機中です・・・,

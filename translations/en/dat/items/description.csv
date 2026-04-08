@@ -11,7 +11,7 @@ you would like to deliver."
 よろしいですか？","These items will be delivered.
 Is this OK?"
 6,"並べ替えてよろしいですか？
-‾C05弾・ビンは専用ポーチに収納されます",Do you want to sort your items?
+{c05}弾・ビンは専用ポーチに収納されます",Do you want to sort your items?
 7,入れ替え先を選んで下さい。,Select item destination.
 8,"登録するファンクションキーを
 押してください。
@@ -19,7 +19,7 @@ Is this OK?"
 you want to register.
 (Change pages with {K012}.)"
 9,,
-10,‾C02未調合‾C00,‾C02Not Combined‾C00
+10,{c02}未調合{/c},{c02}Not Combined{/c}
 11,素材がありません。,You have no materials.
 12,このアイテムはこれ以上持てません。,"You cannot carry any more
 of this item type."
@@ -312,29 +312,29 @@ from abroad that returns to
 its user when thrown."
 89,"投てき用ナイフ。対象に
 向かって一直線に飛んでいく。
-‾C05（支給品専用）","A standard throwing knife.
+{c05}（支給品専用）","A standard throwing knife.
 Flies straight and true.
-‾C05 (Supply Item)"
+{c05} (Supply Item)"
 90,"刃先に毒を塗った投げナイフ。
 対象に毒の効果をもたらす。
-‾C05（支給品専用）","A Throwing knife with a venom
+{c05}（支給品専用）","A Throwing knife with a venom
 coated blade. Causes Poison.
-‾C05 (Supply Item)"
+{c05} (Supply Item)"
 91,"刃先に睡眠効果のある粉塵を
 塗りつけた投げナイフ。
-‾C05（支給品専用）","A Throwing knife that has 
+{c05}（支給品専用）","A Throwing knife that has 
 been coated in sleep agents.
-‾C05 (Supply Item)"
+{c05} (Supply Item)"
 92,"刃先に神経性の毒を塗った
 麻痺効果のある投げナイフ。
-‾C05（支給品専用）","A Throwing knife coated in
+{c05}（支給品専用）","A Throwing knife coated in
 paralyzing toxins.
-‾C05 (Supply Item)"
+{c05} (Supply Item)"
 93,"罠にかかったモンスターを
 捕獲する専用の投げナイフ。
-‾C05（支給品専用）","A Throwing knife used to
+{c05}（支給品専用）","A Throwing knife used to
 capture ensnared monsters.
-‾C05 (Supply Item)"
+{c05} (Supply Item)"
 94,手投げ玉の元となる素材。,"A base material for making
 hand thrown bombs."
 95,"強烈な色と匂いを付着させる
@@ -434,12 +434,12 @@ Bounce Bomb. Requires great
 skill to use."
 121,"ターゲットにひっつく
 小型の時限式爆弾。
-‾C05（支給品専用）","A small time bomb designed
+{c05}（支給品専用）","A small time bomb designed
 to stick directly to huge
-targets. ‾C05 (Supply Item)"
+targets. {c05} (Supply Item)"
 122,"【ＣＴアイテム】
 イベント用爆弾","A bomb for special events.
-‾C75 (CT item)"
+{c75} (CT item)"
 123,中身のないカラの実。,"A berry that is hollow on
 the inside. Tough enough to
 grow practically anywhere."
@@ -832,9 +832,9 @@ properties, but will not
 work by itself."
 215,"「サボテンの花」の突然変異。
 普通の場所には咲いていない。
-‾C05（精算アイテム）","A flower that dislikes 
+{c05}（精算アイテム）","A flower that dislikes 
 light and blooms in darkness
-‾C05 (Account Item) "
+{c05} (Account Item) "
 216,"一口かじるだけでも火をふく
 辛さ。体はあったまるけれど、
 このままではちょっと…。","Blazingly spicy. Sure It'll
@@ -842,19 +842,19 @@ warm you up, but its too
 hot to use on its own."
 217,"小指ほどの大きさの採取が
 難しいキノコ。モスの好物。
-‾C05（精算アイテム）","A pinky-sized mushroom
+{c05}（精算アイテム）","A pinky-sized mushroom
 valued for its unusual
-aroma. ‾C05 (Account Item)"
+aroma. {c05} (Account Item)"
 218,"特産キノコの中でも
 特に形や香りの良い物の総称。
-‾C05（精算アイテム）","The perfect shape and aroma.
+{c05}（精算アイテム）","The perfect shape and aroma.
 Even better than a Unique
-Mushroom. ‾C05 (Account Item)"
+Mushroom. {c05} (Account Item)"
 219,"特産キノコが十分に熟成した
 とてつもない臭いのキノコ。
-‾C05（精算アイテム）","A Unique Mushroom made more
+{c05}（精算アイテム）","A Unique Mushroom made more
 unique by maturing its 
-flavour. ‾C05 (Account Item)"
+flavour. {c05} (Account Item)"
 220,増強作用を秘めたキノコ。,"Rare mushroom with a power 
 enhancing effect."
 221,高熱を秘めた珍しいキノコ。,"A hard-to-find mushroom
@@ -876,9 +876,9 @@ draw the life out of people.
 Beware!"
 226,"スタミナを少量回復する
 キノコ。
-‾C05（精算アイテム）","A strangely spicy mushroom
+{c05}（精算アイテム）","A strangely spicy mushroom
 popular with chefs.
-‾C05 (Account Item)"
+{c05} (Account Item)"
 227,"夜にのみ採れる珍しいキノコ。
 そのままでは食べられないが
 なにかと調合してみれば…。","A strange mushroom found
@@ -971,9 +971,9 @@ materials together."
 247,ダミー。,Dummy.
 248,"可燃性の岩石。
 ほのかな温かみを感じる。
-‾C05（精算アイテム）","A combustible rock which
+{c05}（精算アイテム）","A combustible rock which
 emits a faint warmth.
-‾C05 (Account Item)"
+{c05} (Account Item)"
 249,"鈍く輝くクリスタル。
 非常に硬度が高く、工房など
 で道具にも利用されている。","An extremely hard substance
@@ -1013,9 +1013,9 @@ ice often found full of
 trapped insects and plants."
 257,"メラルーが持っているポーチ。
 中はごちゃごちゃしている。
-‾C05（精算アイテム）","The pouch carried by Melynx.
+{c05}（精算アイテム）","The pouch carried by Melynx.
 Its a mess inside.
-‾C05 (Account Item)"
+{c05} (Account Item)"
 258,"武器を砥ぐことができる
 ぐらい、背ビレの硬い魚。","A fish with a dorsal fin
 hard enough to be used to
@@ -1069,9 +1069,9 @@ Will eat anything no matter
 the size."
 273,"全身黄金の珍魚。
 高値で取引されている。
-‾C05（精算アイテム）","An rare fish made of solid
+{c05}（精算アイテム）","An rare fish made of solid
 gold. Sell it for a tidy
-sum. ‾C05 (Account Item)"
+sum. {c05} (Account Item)"
 274,"希少価値の高い巨大魚。
 何かに使えそう…。","A giant fish that is both
 rare and valuable. It looks
@@ -1148,109 +1148,109 @@ that greatly aids in the
 bonding of metals."
 292,"宝石のように輝いている甲虫。
 コレクター間で高値で取引さ
-れている。‾C05（精算アイテム）","A beetle with a jewel-like
+れている。{c05}（精算アイテム）","A beetle with a jewel-like
 gleam collectors pay 
-dearly for. ‾C05 (Account Item)"
+dearly for. {c05} (Account Item)"
 293,"調理用の食材。
 密林に多く生えているという
 野性味たっぷりのネギ。","Onion with a wild taste 
 often found in humid
-climates.  ‾C24 (Cooking Item)"
+climates.  {c24} (Cooking Item)"
 294,"調理用の食材。
 砂漠でのみとれる珍味。
 トゲを取るのを忘れずに。","A refreshing cactus regarded
 as a delicacy. Watch the
-Thorns! ‾C24 (Cooking Item)"
+Thorns! {c24} (Cooking Item)"
 295,"調理用の食材。
 切っても涙がでてこないと
 いう奥様大喜びの一品。","A prized vegetable that
 won't make you cry when you
-cut it! ‾C24 (Cooking Item)"
+cut it! {c24} (Cooking Item)"
 296,"調理用の食材。
 最高級のトマト。かじると
 甘い汁がたっぷり。","An icy-cold tomato that
 somehow still remains juicy.
-‾C24 (Cooking Item)"
+{c24} (Cooking Item)"
 297,"調理用の食材。
 奇妙な形をしたキノコ。
 形は悪いけれど味は絶品。","A hideous looking fungus
 with a deceptively tasty
-flavour.  ‾C24 (Cooking Item)"
+flavour.  {c24} (Cooking Item)"
 298,"調理用の食材。
 寒い地域でしか育たない麦。
 噛むとほんのり甘い。","A nutritious grain native
 to cold climates. Has a mild
-sweetness.  ‾C24 (Cooking Item)"
+sweetness.  {c24} (Cooking Item)"
 299,"調理用の食材。
 複数種類の豆が詰まっている
 お得な品種。","An indispensable mixture of
 several beans used for many
-dishes.  ‾C24 (Cooking Item)"
+dishes.  {c24} (Cooking Item)"
 300,"調理用の食材。
 名前どおり石のように固い
 パン。あごのトレーニングに。","Twice baked, rock-hard 
 bread. Can't be eaten as
-is. ‾C24 (Cooking Item)"
+is. {c24} (Cooking Item)"
 301,"調理用の食材。
 米粒のように実がなる草。
 サラリとした食感が人気。","A silky smooth grain loved
 by people everywhere!
-‾C24 (Cooking Item)"
+{c24} (Cooking Item)"
 302,"調理用の食材。
 大昔から味も形も変わって
 いないという豆。栄養満点！","Mystical legumes valued for
 cooking since ancient times.
-‾C24 (Cooking Item)"
+{c24} (Cooking Item)"
 303,"調理用の食材。
 文字通り白い色のレバー。
 とろりとした食感が大人気！","A white-coloured liver,
 popular for its juicy 
-texture. ‾C24 (Cooking Item)"
+texture. {c24} (Cooking Item)"
 304,"調理用の食材。
 ポポの舌。歯ごたえがよく
 健康にもいい人気食材。","Popo Tongues are popular,
 healthy, and fun to eat!
-‾C24 (Cooking Item)"
+{c24} (Cooking Item)"
 305,"調理用の食材。
 フルフルベビーを熟成させた
 通の舌をもうならせる珍味。","Beloved by connoisseurs
 despite its... interesting
-appearance. ‾C24 (Cooking Item)"
+appearance. {c24} (Cooking Item)"
 306,"調理用の食材。
 ガブラスから取れた肉で
 味はそれほどではない…。","A thin, stringy piece of
 rather bland Remobra meat.
-‾C24 (Cooking Item)"
+{c24} (Cooking Item)"
 307,"調理用の食材。
 幻といわれる凶暴な飛竜の肉。
 一度は味わってみたい一品。","Tough and rare meat used to
 make truly mystical meals.
-‾C24 (Cooking Item)"
+{c24} (Cooking Item)"
 308,"調理用の食材。
 音符のような形に見える魚。
 味はそこそこ。","A strange fish, with a music
 note shaped scale pattern.
-‾C24 (Cooking Item)"
+{c24} (Cooking Item)"
 309,"調理用の食材。
 くねくね動くサーモン。ヘビ
 の様だけどれっきとした魚。","An unusually long, snake-
 like fish with a delicate
-flavour. ‾C24 (Cooking Item)"
+flavour. {c24} (Cooking Item)"
 310,"調理用の食材。
 米粒のように小さい虫。
 食べるととても甘い。","These tiny beetles have a
 shockingly sweet flavour.
-‾C24 (Cooking Item)"
+{c24} (Cooking Item)"
 311,"調理用の食材。
 食べるとちょっとピリ辛な虫。
 おつまみとしても愛用される。","A worm often used in cooking
 due to its spicy flavour.
-‾C24 (Cooking Item)"
+{c24} (Cooking Item)"
 312,"調理用の食材。
 ココット村近くの森丘にいる
 虫。どこか懐かしい味がする。","A predatory insect with a
 strangely comforting 
-flavour. ‾C24 (Cooking Item)"
+flavour. {c24} (Cooking Item)"
 313,"世界一強いといわれている虫。
 装備の加工や食材など幅広く
 使われている。","Said to be the world's
@@ -1260,27 +1260,27 @@ forging and other things."
 料理にまぜると、
 燃えるような辛さになる。","A crimson oil that adds
 heat to any dish!
-‾C24 (Cooking Item)"
+{c24} (Cooking Item)"
 315,"調理用の食材。
 料理にまぜると元気が
 モリモリ湧いてくる！","A rich lard used to fortify
 cooked meals.
-‾C24 (Cooking Item)"
+{c24} (Cooking Item)"
 316,"調理用の食材。
 長寿に効くという素材を
 交ぜた特製ジャム。","Jam said to extend the life
 of those who eat it.
-‾C24 (Cooking Item)"
+{c24} (Cooking Item)"
 317,"調理用の食材。
 食材そのものの味を増して
 くれる優れもの。","This substance is used to
 enhance other ingredients
-flavours.  ‾C24 (Cooking Item)"
+flavours.  {c24} (Cooking Item)"
 318,"調理用の食材。
 気性の激しい牛のミルクから
 作ったバター。","Butter that boosts energy 
 when used in a dish.
- ‾C24 (Cooking Item)"
+ {c24} (Cooking Item)"
 319,"調理用の食材。
 高価な素材をふんだんに
 使った贅沢なチーズ。
@@ -1289,22 +1289,22 @@ when used in a dish.
 庶民の味方。
 少しの量で酔っ払える。","Ale beloved by both rich
 and poor. Very high alcohol
-content. ‾C24 (Cooking Item)"
+content. {c24} (Cooking Item)"
 321,"調理用の食材。
 「一生に一度は飲んでみたい
 ワイン」ＮＯ１の高級ワイン。","High-class wine that's been
 Rated the best in Mezeporta.
-‾C24 (Cooking Item)"
+{c24} (Cooking Item)"
 322,"調理用の食材。
 滅多に手に入らない幻の一品。
 酒の中の王様。","Regarded as the ""king of 
 beer"". Quite valuable and
-rare. ‾C24 (Cooking Item)"
+rare. {c24} (Cooking Item)"
 323,"調理用の食材。何かの
 モンスターの卵らしいが
 不気味な色をしている。","Common in food, yet still
 quite valuable. It has an 
-odd colour.  ‾C24(Cooking Item)"
+odd colour.  {c24}(Cooking Item)"
 324,"ブタが好んで食べるせんべい。
 見かけると、一目散にやって
 くる。","Small crackers loved by 
@@ -1419,34 +1419,34 @@ impurities gather and form
 this peculiar gem."
 349,"特殊な行動のときにのみ
 飛竜たちがこぼす貴重な涙。
-‾C05（精算アイテム）","Bitter tears wept by 
+{c05}（精算アイテム）","Bitter tears wept by 
 wyverns on certain 
-occasions.  ‾C05 (Account Item)"
+occasions.  {c05} (Account Item)"
 350,"なわばりを主張するために
 落とすフン。
-‾C05（精算アイテム）","Droppings left by certain
+{c05}（精算アイテム）","Droppings left by certain
 monsters to mark territory.
-‾C05 (Account Item)"
+{c05} (Account Item)"
 351,"長い年月を経て
 体の中で磨かれた宝石。
-‾C05（精算アイテム）","A jewel formed inside the
+{c05}（精算アイテム）","A jewel formed inside the
 body over many, many years.
-‾C05 (Account Item)"
+{c05} (Account Item)"
 352,"古龍種が好んで集める石。
 キラキラ光っている。
-‾C05（精算アイテム）","A jewel formed inside the
+{c05}（精算アイテム）","A jewel formed inside the
 body over many, many years.
-‾C05 (Account Item)"
+{c05} (Account Item)"
 353,"長い年月の末に朽ち果てた、
 龍の鱗。かつての強大な力を
 感じさせるものはすでにない。","A dragon scale that time has
 reduced to this sad husk.
-‾C05 (Account Item)"
+{c05} (Account Item)"
 354,"龍の鱗が結晶硬質化したもの。
 生薬として重宝される。
-‾C05（精算アイテム）","An ancient dragon scale 
+{c05}（精算アイテム）","An ancient dragon scale 
 prized as an ingredient in
-medicines.  ‾C05(Account Item)"
+medicines.  {c05}(Account Item)"
 355,モスの皮。苔で覆われている。,"A musty hide covered in
 moss."
 356,"モスの頭。
@@ -1664,9 +1664,9 @@ from a Gypceros.
 Incredibly valuable."
 403,"魚竜類の内臓。
 万病に効くとされている。
-‾C05（精算アイテム）","Internal organ from a Piscine
+{c05}（精算アイテム）","Internal organ from a Piscine
 Wyvern. A great cure-all.
-‾C05(Account Item)"
+{c05}(Account Item)"
 404,"魚竜類に属するガノトトス種
 とガレオス種の牙。多層の
 歯で獲物に喰らいつく。","Fang from a Plesioth or Cephalos.
@@ -2380,9 +2380,9 @@ The gold hair is treasured
 by tailors."
 551,"甲殻類からとれるミソ。
 珍味として知られている。
-‾C05（精算アイテム）","The brain matter of a Carapaceon.
+{c05}（精算アイテム）","The brain matter of a Carapaceon.
 A widely known delicacy.
-‾C05(Account Item)"
+{c05}(Account Item)"
 552,"甲殻種が宿としていた
 飛竜の頭から取れた甲殻。","A Carapaceon Shell made
 from a wyvern's skull."
@@ -2963,60 +2963,60 @@ Incredibly expensive and rare.
 No use to a hunter."
 681,"フィールド全域の地形が
 記された地図。
-‾C05（支給品専用）","A map that shows the
+{c05}（支給品専用）","A map that shows the
 topography of the region.
-‾C05(Supply Item)"
+{c05}(Supply Item)"
 682,"体力を少量回復する薬。
-‾C05（支給品専用）","Medicine that restores
+{c05}（支給品専用）","Medicine that restores
 a small amount of Health.
-‾C05(Supply Item)"
+{c05}(Supply Item)"
 683,"スタミナを少量回復する食料。
-‾C05（支給品専用）","Restores a small amount
+{c05}（支給品専用）","Restores a small amount
 of Stamina when eaten.
-‾C05(Supply Item)"
+{c05}(Supply Item)"
 684,"主に新米ハンターに
 支給される肉焼きセット。
-肉を焼こう。‾C05（支給品専用）","A Guild BBQ spit for
+肉を焼こう。{c05}（支給品専用）","A Guild BBQ spit for
 novice hunters.
-‾C05(Supply Item)"
+{c05}(Supply Item)"
 685,"武器を研磨し、斬れ味を回復
 させる小型サイズの砥石。
-‾C05（支給品専用）","A small whetstone for
+{c05}（支給品専用）","A small whetstone for
 restoring Sharpness.
-‾C05(Supply Item)"
+{c05}(Supply Item)"
 686,"動きを止めることができる罠。
 捕獲に使用可能。
-‾C05（支給品専用）","Trap that stops monsters in
+{c05}（支給品専用）","Trap that stops monsters in
 their tracks. Capture use.
-‾C05(Supply Item)"
+{c05}(Supply Item)"
 687,"強烈な閃光を発する手投げ玉。
-‾C05（支給品専用）","A hand-thrown bomb
+{c05}（支給品専用）","A hand-thrown bomb
 that emits a flash.
-‾C05(Supply Item)"
+{c05}(Supply Item)"
 688,"体力の上限が最大まで上昇し、
 完全回復する薬。
-‾C05（支給品専用）","Raises and recovers Health
+{c05}（支給品専用）","Raises and recovers Health
 to its maximum level.
-‾C05(Supply Item)"
+{c05}(Supply Item)"
 689,"ターゲットを落とすための
 落とし穴。
-‾C05（支給品専用）","A trap that captures prey by
+{c05}（支給品専用）","A trap that captures prey by
 causing them to fall into a pit.
-‾C05(Supply Item)"
+{c05}(Supply Item)"
 690,"大タル爆弾を改良した強化版。
 ＧはなくともＧ級の威力。
-‾C05（支給品専用）","Upgraded version of the Large
+{c05}（支給品専用）","Upgraded version of the Large
 Barrel Bomb. Very Powerful.
-‾C05(Supply Item)"
+{c05}(Supply Item)"
 691,"大型の設置型ボウガンの弾。
-‾C05（支給品専用）","Ammunition for a very large
+{c05}（支給品専用）","Ammunition for a very large
 Bowgun installation.
-‾C05(Supply Item)"
+{c05}(Supply Item)"
 692,"対巨大龍専用の鋼鉄の弾丸。
 重いので運ぶのに苦労する。
-‾C05（支給品専用）","Special ammo used against
+{c05}（支給品専用）","Special ammo used against
 large dragons. Very heavy.
-‾C05(Supply Item)"
+{c05}(Supply Item)"
 693,説明文不要,No explanation necessary.
 694,飛竜の巣から盗んだ卵。,"An egg stolen from a
 wyvern's nest."
@@ -3037,19 +3037,19 @@ even the slightest jolt.
 Careful!"
 700,"フルフルの幼生。持っている
 と徐々に体力が奪われていく。
-‾C05（精算アイテム）","A juvenile Khezu. Carrying it
+{c05}（精算アイテム）","A juvenile Khezu. Carrying it
 slowly zaps away your Health.
-‾C05(Account Item)"
+{c05}(Account Item)"
 701,"山菜じじい特製のフルフルベ
 ビーが材料のアイス。
-‾C05（精算アイテム）","Ice cream made from Khezu
+{c05}（精算アイテム）","Ice cream made from Khezu
 Whelps by an expert Veggie Elder.
-‾C05(Account Item)"
+{c05}(Account Item)"
 702,"雪山山頂にたてる旗。
 これを立てる事が制覇した証。
-‾C05（支給品専用）","A flag on the summit of a snowy mountain. 
+{c05}（支給品専用）","A flag on the summit of a snowy mountain. 
 Proof of conquest by setting this up. 
-‾C05(Supply Item)"
+{c05}(Supply Item)"
 703,"街で残った食料。
 飼料として使われている。
 大闘技会で使用。","Food left in the city.
@@ -3447,14 +3447,14 @@ inside. Bury it in your
 favorite spot."
 789,"応急薬が入っている
 マカ漬けの壷。埋めてみよう。
-‾C05（支給品専用）","Mocha Pot with First-Aid
+{c05}（支給品専用）","Mocha Pot with First-Aid
 Med inside. Fill it up.
-‾C05（Supply Only）"
+{c05}（Supply Only）"
 790,"携帯食料が入っている
 マカ漬けの壷。埋めてみよう。
-‾C05（支給品専用）","Mocha Pot with Ration inside.
+{c05}（支給品専用）","Mocha Pot with Ration inside.
 Fill it up.
-‾C05（Supply Only）"
+{c05}（Supply Only）"
 791,"解毒薬が入っている
 マカ漬けの壷。
 好きな場所に埋めてみよう。","Mocha Pot with Antidote
@@ -3537,14 +3537,14 @@ your favorite spot."
 your favorite spot."
 807,"特産キノコが入っている
 マカ漬けの壷。埋めてみよう。
-‾C05（精算アイテム）","Mocha Pot with Special
+{c05}（精算アイテム）","Mocha Pot with Special
 Mushroom inside. Fill it up.
-‾C05（Premium Item）"
+{c05}（Premium Item）"
 808,"厳選キノコが入っている
 マカ漬けの壷。埋めてみよう。
-‾C05（精算アイテム）","Mocha Pot with Select
+{c05}（精算アイテム）","Mocha Pot with Select
 Mushroom inside. Fill it up.
-‾C05（Premium Item）"
+{c05}（Premium Item）"
 809,"サボテンの花が入っている
 マカ漬けの壷。
 好きな場所に埋めてみよう。","Mocha Pot with Cactus
@@ -3552,9 +3552,9 @@ Flower inside. Bury it in your
 favorite spot."
 810,"フルフルベビーが入っている
 マカ漬けの壷。埋めてみよう。
-‾C05（精算アイテム）","Mocha Pot with Khezu Whelp
+{c05}（精算アイテム）","Mocha Pot with Khezu Whelp
 inside. Fill it up.
-‾C05（Premium Item）"
+{c05}（Premium Item）"
 811,"ゲキレツ毒テングが
 入っているマカ漬けの壷。
 好きな場所に埋めてみよう。","Mocha Pot with Deadly
@@ -3942,11 +3942,11 @@ your fate skill by 3"
 your psychic skill by 3"
 934,"攻撃系スキルが
 アップする装飾品。
-‾C05（特殊装飾品）","A decoration that improves
+{c05}（特殊装飾品）","A decoration that improves
 your gallery attack skill by 1"
 935,"防御系スキルが
 アップする装飾品。
-‾C05（特殊装飾品）","A decoration that improves
+{c05}（特殊装飾品）","A decoration that improves
 your defense skill by 3"
 936,"ガード性能スキルが
 アップする装飾品。","A decoration that improves
@@ -3959,23 +3959,23 @@ your earplugs skill by 1"
 your all UP skill by 1"
 939,"火耐性スキルが
 アップする装飾品。
-‾C05（特殊装飾品）","A decoration that improves
+{c05}（特殊装飾品）","A decoration that improves
 your fire skill by 5"
 940,"水耐性スキルが
 アップする装飾品。
-‾C05（特殊装飾品）","A decoration that improves
+{c05}（特殊装飾品）","A decoration that improves
 your water skill by 5"
 941,"氷耐性スキルが
 アップする装飾品。
-‾C05（特殊装飾品）","A decoration that improves
+{c05}（特殊装飾品）","A decoration that improves
 your ice skill by 5"
 942,"雷耐性スキルが
 アップする装飾品。
-‾C05（特殊装飾品）","A decoration that improves
+{c05}（特殊装飾品）","A decoration that improves
 your thunder skill by 5"
 943,"龍耐性スキルが
 アップする装飾品。
-‾C05（特殊装飾品）","A decoration that improves
+{c05}（特殊装飾品）","A decoration that improves
 your dragon skill by 5"
 944,"千里眼スキルが
 アップする装飾品。","A decoration that improves
@@ -4067,9 +4067,9 @@ king of an ancient desert
 land. Feels sinister."
 962,"見知らぬ文明の力を感じる石。
 すごい技術が使われている
-らしい。‾C05（精算アイテム）","A stone with the power of
+らしい。{c05}（精算アイテム）","A stone with the power of
 an unknown civilization.
-‾C05(Account Item)"
+{c05}(Account Item)"
 963,"鋼龍石に降りた溶けにくい霜。
 その冷気は極めて強く長く保た
 れるため武具にも重宝される。","Frost from a steel dragon
@@ -4803,19 +4803,19 @@ and weight to normal stone."
 ",
 1112,"甲殻種が生成する生体鉱物。
 装飾用途に頻用傾向がある。
-‾C05（旧称：甲殻種の晶石貤）","An ore made by Carapaceons.
+{c05}（旧称：甲殻種の晶石貤）","An ore made by Carapaceons.
 Often used as a decoration.
-‾C05(Formerly: Carapaceolite I)"
+{c05}(Formerly: Carapaceolite I)"
 1113,"甲殻種が生成する生体鉱物。
 装飾用途に頻用傾向がある。
-‾C05（旧称：甲殻種の晶石賖）","An ore made by Carapaceons.
+{c05}（旧称：甲殻種の晶石賖）","An ore made by Carapaceons.
 Often used as a decoration.
-‾C05(Formerly: Carapaceolite II)"
+{c05}(Formerly: Carapaceolite II)"
 1114,"甲殻種が生成する生体鉱物。
 装飾用途に頻用傾向がある。
-‾C05（旧称：甲殻種の晶石賕）","An ore made by Carapaceons.
+{c05}（旧称：甲殻種の晶石賕）","An ore made by Carapaceons.
 Often used as a decoration.
-‾C05(Formerly:Carapaceolite III)"
+{c05}(Formerly:Carapaceolite III)"
 1115,"教官からの試練を乗り越えた
 狩人に贈られる達成の証。
 ",
@@ -5404,782 +5404,782 @@ powerful bomb, but a certain
 Felyne has got hold of some."
 1268,"素人が見ればただのガラクタ。
 獣人が見ればすごいお宝。
-‾C05（旧称：獣人のガラクタ貤）","Treasure that looks like
+{c05}（旧称：獣人のガラクタ貤）","Treasure that looks like
 junk to the untrained eye.
-‾C05(Was: Lynian Treasure I)"
+{c05}(Was: Lynian Treasure I)"
 1269,"素人が見ればただのガラクタ。
 獣人が見ればすごいお宝。
-‾C05（旧称：獣人のガラクタ賖）","Treasure that looks like
+{c05}（旧称：獣人のガラクタ賖）","Treasure that looks like
 junk to the untrained eye.
-‾C05(Was: Lynian Treasure II)"
+{c05}(Was: Lynian Treasure II)"
 1270,"素人が見ればただのガラクタ。
 獣人が見ればすごいお宝。
-‾C05（旧称：獣人のガラクタ賕）","Treasure that looks like
+{c05}（旧称：獣人のガラクタ賕）","Treasure that looks like
 junk to the untrained eye.
-‾C05(Was: Lynian Treasure III)"
+{c05}(Was: Lynian Treasure III)"
 1271,"獣人種が大事にしている玉。
 ほの紅く、人の目にも美しい。
-‾C05（旧称：獣人の紅玉貤）","A prized Lynian gem. Even
+{c05}（旧称：獣人の紅玉貤）","A prized Lynian gem. Even
 humans find it beautiful.
-‾C05(Was: Lynian Ruby I)"
+{c05}(Was: Lynian Ruby I)"
 1272,"獣人種が大事にしている玉。
 ほの紅く、人の目にも美しい。
-‾C05（旧称：獣人の紅玉賖）","A prized Lynian gem. Even
+{c05}（旧称：獣人の紅玉賖）","A prized Lynian gem. Even
 humans find it beautiful.
-‾C05(Was: Lynian Ruby II)"
+{c05}(Was: Lynian Ruby II)"
 1273,"獣人種が大事にしている玉。
 ほの紅く、人の目にも美しい。
-‾C05（旧称：獣人の紅玉賕）","A prized Lynian gem. Even
+{c05}（旧称：獣人の紅玉賕）","A prized Lynian gem. Even
 humans find it beautiful.
-‾C05(Was: Lynian Ruby III)"
+{c05}(Was: Lynian Ruby III)"
 1274,"草食種の優美な角。
 誇り高さを感じられる一品。
-‾C05（旧称：草食種の角貤）","The elegant horn of a
+{c05}（旧称：草食種の角貤）","The elegant horn of a
 herbivore. Feels valuable.
-‾C05(Was: Herbivore Horn I)"
+{c05}(Was: Herbivore Horn I)"
 1275,"草食種の優美な角。
 誇り高さを感じられる一品。
-‾C05（旧称：草食種の角賖）","The elegant horn of a
+{c05}（旧称：草食種の角賖）","The elegant horn of a
 herbivore. Feels valuable.
-‾C05(Was: Herbivore Horn II)"
+{c05}(Was: Herbivore Horn II)"
 1276,"草食種の優美な角。
 誇り高さを感じられる一品。
-‾C05（旧称：草食種の角賕）","The elegant horn of a
+{c05}（旧称：草食種の角賕）","The elegant horn of a
 herbivore. Feels valuable.
-‾C05(Was: Herbivore Horn III)"
+{c05}(Was: Herbivore Horn III)"
 1277,"草食種の柔らかな皮。
 特に生活被服に頻用される。
-‾C05（旧称：草食種の皮貤）","A soft herbivore hide used
+{c05}（旧称：草食種の皮貤）","A soft herbivore hide used
 to make everyday clothing.
-‾C05(Was: Herbivore Hide I)"
+{c05}(Was: Herbivore Hide I)"
 1278,"草食種の柔らかな皮。
 特に生活被服に頻用される。
-‾C05（旧称：草食種の皮賖）","A soft herbivore hide used
+{c05}（旧称：草食種の皮賖）","A soft herbivore hide used
 to make everyday clothing.
-‾C05(Was: Herbivore Hide II)"
+{c05}(Was: Herbivore Hide II)"
 1279,"草食種の柔らかな皮。
 特に生活被服に頻用される。
-‾C05（旧称：草食種の皮賕）","A soft herbivore hide used
+{c05}（旧称：草食種の皮賕）","A soft herbivore hide used
 to make everyday clothing.
-‾C05(Was: Herbivore Hide III)"
+{c05}(Was: Herbivore Hide III)"
 1280,"加工には、程よい堅さの骨。
 主に装飾目的で利用される。
-‾C05（旧称：草食種の骨貤）","A hard bone that's perfect
+{c05}（旧称：草食種の骨貤）","A hard bone that's perfect
 for making decorations.
-‾C05(Was: Herbivore Bone I)"
+{c05}(Was: Herbivore Bone I)"
 1281,"加工には、程よい堅さの骨。
 主に装飾目的で利用される。
-‾C05（旧称：草食種の骨賖）","A hard bone that's perfect
+{c05}（旧称：草食種の骨賖）","A hard bone that's perfect
 for making decorations.
-‾C05(Was: Herbivore Bone II)"
+{c05}(Was: Herbivore Bone II)"
 1282,"加工には、程よい堅さの骨。
 主に装飾目的で利用される。
-‾C05（旧称：草食種の骨賕）","A hard bone that's perfect
+{c05}（旧称：草食種の骨賕）","A hard bone that's perfect
 for making decorations.
-‾C05(Was: Herbivore Bone III)"
+{c05}(Was: Herbivore Bone III)"
 1283,"立派な形の草食種の蹄。大地
 を踏みしめる力強さ漂う一品。
-‾C05（旧称：草食種の蹄貤）","A fine hoof, tough enough
+{c05}（旧称：草食種の蹄貤）","A fine hoof, tough enough
 for long-distance treks.
-‾C05(Was: Herbivore Hoof I)"
+{c05}(Was: Herbivore Hoof I)"
 1284,"立派な形の草食種の蹄。大地
 を踏みしめる力強さ漂う一品。
-‾C05（旧称：草食種の蹄賖）","A fine hoof, tough enough
+{c05}（旧称：草食種の蹄賖）","A fine hoof, tough enough
 for long-distance treks.
-‾C05(Was: Herbivore Hoof II)"
+{c05}(Was: Herbivore Hoof II)"
 1285,"立派な形の草食種の蹄。大地
 を踏みしめる力強さ漂う一品。
-‾C05（旧称：草食種の蹄賕）","A fine hoof, tough enough
+{c05}（旧称：草食種の蹄賕）","A fine hoof, tough enough
 for long-distance treks.
-‾C05(Was: Herbivore Hoof III)"
+{c05}(Was: Herbivore Hoof III)"
 1286,"草食種が、身を守る術として
 発達させた防護殻。
-‾C05（旧称：草食種の殻貤）","Shell grown by herbivores to
+{c05}（旧称：草食種の殻貤）","Shell grown by herbivores to
 protect their bodies.
-‾C05(Was: Herbivore Shell I)"
+{c05}(Was: Herbivore Shell I)"
 1287,"草食種が、身を守る術として
 発達させた防護殻。
-‾C05（旧称：草食種の殻賖）","Shell grown by herbivores to
+{c05}（旧称：草食種の殻賖）","Shell grown by herbivores to
 protect their bodies.
-‾C05(Was: Herbivore Shell II)"
+{c05}(Was: Herbivore Shell II)"
 1288,"草食種が、身を守る術として
 発達させた防護殻。
-‾C05（旧称：草食種の殻賕）","Shell grown by herbivores to
+{c05}（旧称：草食種の殻賕）","Shell grown by herbivores to
 protect their bodies.
-‾C05(Was: Herbivore Shell III)"
+{c05}(Was: Herbivore Shell III)"
 1289,"草食種の切歯が巨大化した物。
 柔和な白色は見惚れる美しさ。
-‾C05（旧称：草食種の牙貤）","A huge incisor tooth. Its
+{c05}（旧称：草食種の牙貤）","A huge incisor tooth. Its
 white color is captivating.
-‾C05(Was: Herbivore Fang I)"
+{c05}(Was: Herbivore Fang I)"
 1290,"草食種の切歯が巨大化した物。
 柔和な白色は見惚れる美しさ。
-‾C05（旧称：草食種の牙賖）","A huge incisor tooth. Its
+{c05}（旧称：草食種の牙賖）","A huge incisor tooth. Its
 white color is captivating.
-‾C05(Was: Herbivore Fang II)"
+{c05}(Was: Herbivore Fang II)"
 1291,"草食種の切歯が巨大化した物。
 柔和な白色は見惚れる美しさ。
-‾C05（旧称：草食種の牙賕）","A huge incisor tooth. Its
+{c05}（旧称：草食種の牙賕）","A huge incisor tooth. Its
 white color is captivating.
-‾C05(Was: Herbivore Fang III)"
+{c05}(Was: Herbivore Fang III)"
 1292,"針金のごとき牙獣種の剛毛。
 野性味溢れる一品。
-‾C05（旧称：牙獣種の毛皮貤）","Wire-like Pelagus bristles
+{c05}（旧称：牙獣種の毛皮貤）","Wire-like Pelagus bristles
 with a really wild feel.
-‾C05(Was: Pelagus Pelt I)"
+{c05}(Was: Pelagus Pelt I)"
 1293,"針金のごとき牙獣種の剛毛。
 野性味溢れる一品。
-‾C05（旧称：牙獣種の毛皮賖）","Wire-like Pelagus bristles
+{c05}（旧称：牙獣種の毛皮賖）","Wire-like Pelagus bristles
 with a really wild feel.
-‾C05(Was: Pelagus Pelt II)"
+{c05}(Was: Pelagus Pelt II)"
 1294,"針金のごとき牙獣種の剛毛。
 野性味溢れる一品。
-‾C05（旧称：牙獣種の毛皮賕）","Wire-like Pelagus bristles
+{c05}（旧称：牙獣種の毛皮賕）","Wire-like Pelagus bristles
 with a really wild feel.
-‾C05(Was: Pelagus Pelt III)"
+{c05}(Was: Pelagus Pelt III)"
 1295,"牙獣種のアイデンティティ。
 強暴な美しさを秘めた一品。
-‾C05（旧称：牙獣種の牙貤）","This beautiful fang is a
+{c05}（旧称：牙獣種の牙貤）","This beautiful fang is a
 Pelagus's pride and joy.
-‾C05(Was: Pelagus Fang I)"
+{c05}(Was: Pelagus Fang I)"
 1296,"牙獣種のアイデンティティ。
 強暴な美しさを秘めた一品。
-‾C05（旧称：牙獣種の牙賖）","This beautiful fang is a
+{c05}（旧称：牙獣種の牙賖）","This beautiful fang is a
 Pelagus's pride and joy.
-‾C05(Was: Pelagus Fang II)"
+{c05}(Was: Pelagus Fang II)"
 1297,"牙獣種のアイデンティティ。
 強暴な美しさを秘めた一品。
-‾C05（旧称：牙獣種の牙賕）","This beautiful fang is a
+{c05}（旧称：牙獣種の牙賕）","This beautiful fang is a
 Pelagus's pride and joy.
-‾C05(Was: Pelagus Fang III)"
+{c05}(Was: Pelagus Fang III)"
 1298,"堅い地面も易々と掘れるほど
 丈夫な牙獣種の爪。
-‾C05（旧称：牙獣種の爪貤）","Claws that make light work
+{c05}（旧称：牙獣種の爪貤）","Claws that make light work
 of digging up hard earth.
-‾C05(Was: Pelagus Claw I)"
+{c05}(Was: Pelagus Claw I)"
 1299,"堅い地面も易々と掘れるほど
 丈夫な牙獣種の爪。
-‾C05（旧称：牙獣種の爪賖）","Claws that make light work
+{c05}（旧称：牙獣種の爪賖）","Claws that make light work
 of digging up hard earth.
-‾C05(Was: Pelagus Claw II)"
+{c05}(Was: Pelagus Claw II)"
 1300,"堅い地面も易々と掘れるほど
 丈夫な牙獣種の爪。
-‾C05（旧称：牙獣種の爪賕）","Claws that make light work
+{c05}（旧称：牙獣種の爪賕）","Claws that make light work
 of digging up hard earth.
-‾C05(Was: Pelagus Claw III)"
+{c05}(Was: Pelagus Claw III)"
 1301,"しなやかな牙獣種の尻尾。
 柔軟で、多用途に用いられる。
-‾C05（旧称：牙獣種の尾貤）","The soft, supple tail of a
+{c05}（旧称：牙獣種の尾貤）","The soft, supple tail of a
 Pelagus. Very versatile.
-‾C05(Was: Pelagus Tail I)"
+{c05}(Was: Pelagus Tail I)"
 1302,"しなやかな牙獣種の尻尾。
 柔軟で、多用途に用いられる。
-‾C05（旧称：牙獣種の尾賖）","The soft, supple tail of a
+{c05}（旧称：牙獣種の尾賖）","The soft, supple tail of a
 Pelagus. Very versatile.
-‾C05(Was: Pelagus Tail II)"
+{c05}(Was: Pelagus Tail II)"
 1303,"しなやかな牙獣種の尻尾。
 柔軟で、多用途に用いられる。
-‾C05（旧称：牙獣種の尾賕）","The soft, supple tail of a
+{c05}（旧称：牙獣種の尾賕）","The soft, supple tail of a
 Pelagus. Very versatile.
-‾C05(Was: Pelagus Tail III)"
+{c05}(Was: Pelagus Tail III)"
 1304,"つややかな甲虫種の殻。
 独特の色味が個性を主張する。
-‾C05（旧称：甲虫種の殻貤）","This glossy shell's unique
+{c05}（旧称：甲虫種の殻貤）","This glossy shell's unique
 color increases its appeal.
-‾C05(Was: Neopteron Shell I)"
+{c05}(Was: Neopteron Shell I)"
 1305,"つややかな甲虫種の殻。
 独特の色味が個性を主張する。
-‾C05（旧称：甲虫種の殻賖）","This glossy shell's unique
+{c05}（旧称：甲虫種の殻賖）","This glossy shell's unique
 color increases its appeal.
-‾C05(Was: Neopteron Shell II)"
+{c05}(Was: Neopteron Shell II)"
 1306,"つややかな甲虫種の殻。
 独特の色味が個性を主張する。
-‾C05（旧称：甲虫種の殻賕）","This glossy shell's unique
+{c05}（旧称：甲虫種の殻賕）","This glossy shell's unique
 color increases its appeal.
-‾C05(Was: Neopteron Shell III)"
+{c05}(Was: Neopteron Shell III)"
 1307,"甲虫種の持つ、神経毒を分泌
 する鋭い針。
-‾C05（旧称：甲虫種の針貤）","Sharp Neopteron stinger that
+{c05}（旧称：甲虫種の針貤）","Sharp Neopteron stinger that
 secretes potent neurotoxins.
-‾C05(Was: Neopteron Stinger I)"
+{c05}(Was: Neopteron Stinger I)"
 1308,"甲虫種の持つ、神経毒を分泌
 する鋭い針。
-‾C05（旧称：甲虫種の針賖）","Sharp Neopteron stinger that
+{c05}（旧称：甲虫種の針賖）","Sharp Neopteron stinger that
 secretes potent neurotoxins.
-‾C05(Was: Neopteron Stinger II)"
+{c05}(Was: Neopteron Stinger II)"
 1309,"甲虫種の持つ、神経毒を分泌
 する鋭い針。
-‾C05（旧称：甲虫種の針賕）","Sharp Neopteron stinger that
+{c05}（旧称：甲虫種の針賕）","Sharp Neopteron stinger that
 secretes potent neurotoxins.
-‾C05(Was: Neopteron Stinger III)"
+{c05}(Was: Neopteron Stinger III)"
 1310,"甲虫種の分泌する謎の液体。
 近年発見された研究対象。
-‾C05（旧称：甲虫種の液貤）","This curious liquid is the
+{c05}（旧称：甲虫種の液貤）","This curious liquid is the
 subject of much research.
-‾C05(Was: Neopteron Fluid I)"
+{c05}(Was: Neopteron Fluid I)"
 1311,"甲虫種の分泌する謎の液体。
 近年発見された研究対象。
-‾C05（旧称：甲虫種の液賖）","This curious liquid is the
+{c05}（旧称：甲虫種の液賖）","This curious liquid is the
 subject of much research.
-‾C05(Was: Neopteron Fluid II)"
+{c05}(Was: Neopteron Fluid II)"
 1312,"甲虫種の分泌する謎の液体。
 近年発見された研究対象。
-‾C05（旧称：甲虫種の液賕）","This curious liquid is the
+{c05}（旧称：甲虫種の液賕）","This curious liquid is the
 subject of much research.
-‾C05(Was: Neopteron Fluid III)"
+{c05}(Was: Neopteron Fluid III)"
 1313,"甲殻種を象徴する素材。
 非常に堅いが、通電しやすい。
-‾C05（旧称：甲殻種の殻貤）","Symbol of the Carapaceons.
+{c05}（旧称：甲殻種の殻貤）","Symbol of the Carapaceons.
 Hard, but a good conductor.
-‾C05(Was: Carapaceon Shell I)"
+{c05}(Was: Carapaceon Shell I)"
 1314,"甲殻種を象徴する素材。
 非常に堅いが、通電しやすい。
-‾C05（旧称：甲殻種の殻賖）","Symbol of the Carapaceons.
+{c05}（旧称：甲殻種の殻賖）","Symbol of the Carapaceons.
 Hard, but a good conductor.
-‾C05(Was: Carapaceon Shell II)"
+{c05}(Was: Carapaceon Shell II)"
 1315,"甲殻種を象徴する素材。
 非常に堅いが、通電しやすい。
-‾C05（旧称：甲殻種の殻賕）","Symbol of the Carapaceons.
+{c05}（旧称：甲殻種の殻賕）","Symbol of the Carapaceons.
 Hard, but a good conductor.
-‾C05(Was: Carapaceon Shell III)"
+{c05}(Was: Carapaceon Shell III)"
 1316,"甲殻種の大きな鋏。
 攻守に利用され、強度が高い。
-‾C05（旧称：甲殻種の鋏貤）","Huge Carapaceon Pincer.
-Very strong. ‾C05(Was:
+{c05}（旧称：甲殻種の鋏貤）","Huge Carapaceon Pincer.
+Very strong. {c05}(Was:
 Carapaceon Pincher I)"
 1317,"甲殻種の大きな鋏。
 攻守に利用され、強度が高い。
-‾C05（旧称：甲殻種の鋏賖）","Huge Carapaceon Pincer.
-Very strong. ‾C05(Was:
+{c05}（旧称：甲殻種の鋏賖）","Huge Carapaceon Pincer.
+Very strong. {c05}(Was:
 Carapaceon Pincher II)"
 1318,"甲殻種の大きな鋏。
 攻守に利用され、強度が高い。
-‾C05（旧称：甲殻種の鋏賕）","Huge Carapaceon Pincer.
-Very strong. ‾C05(Was:
+{c05}（旧称：甲殻種の鋏賕）","Huge Carapaceon Pincer.
+Very strong. {c05}(Was:
 Carapaceon Pincher III)"
 1319,"対象を容赦なく切り刻む
 甲殻種特有の鋭利な部位。
-‾C05（旧称：甲殻種の刃貤）","Extremely sharp, these can
+{c05}（旧称：甲殻種の刃貤）","Extremely sharp, these can
 make mincemeat of any enemy.
-‾C05(Was: Carapaceon Sickle I)"
+{c05}(Was: Carapaceon Sickle I)"
 1320,"対象を容赦なく切り刻む
 甲殻種特有の鋭利な部位。
-‾C05（旧称：甲殻種の刃賖）","Extremely sharp, these can
+{c05}（旧称：甲殻種の刃賖）","Extremely sharp, these can
 make mincemeat of any enemy.
-‾C05(Was: Carapaceon Sickle II)"
+{c05}(Was: Carapaceon Sickle II)"
 1321,"対象を容赦なく切り刻む
 甲殻種特有の鋭利な部位。
-‾C05（旧称：甲殻種の刃賕）","Extremely sharp, these can
+{c05}（旧称：甲殻種の刃賕）","Extremely sharp, these can
 make mincemeat of any enemy.
-‾C05(Was: Carapaceon Sickle III)"
+{c05}(Was: Carapaceon Sickle III)"
 1322,"寒熱の過酷な環境にも、悠然と
 耐え抜く飛竜種の殻。
-‾C05（旧称：飛竜種の殻貤）","A shell that can resist even
+{c05}（旧称：飛竜種の殻貤）","A shell that can resist even
 the bitterest cold.
-‾C05(Was: Wyvern Shell I)"
+{c05}(Was: Wyvern Shell I)"
 1323,"寒熱の過酷な環境にも、悠然と
 耐え抜く飛竜種の殻。
-‾C05（旧称：飛竜種の殻賖）","A shell that can resist even
+{c05}（旧称：飛竜種の殻賖）","A shell that can resist even
 the bitterest cold.
-‾C05(Was: Wyvern Shell II)"
+{c05}(Was: Wyvern Shell II)"
 1324,"寒熱の過酷な環境にも、悠然と
 耐え抜く飛竜種の殻。
-‾C05（旧称：飛竜種の殻賕）","A shell that can resist even
+{c05}（旧称：飛竜種の殻賕）","A shell that can resist even
 the bitterest cold.
-‾C05(Was: Wyvern Shell III)"
+{c05}(Was: Wyvern Shell III)"
 1325,"獲物を捕らえて放さない、楔の
 ような飛竜種の牙。
-‾C05（旧称：飛竜種の牙貤）","Wedge-like Wyvern fang that
+{c05}（旧称：飛竜種の牙貤）","Wedge-like Wyvern fang that
 can chomp any prey to bits.
-‾C05(Was: Wyvern Fang I)"
+{c05}(Was: Wyvern Fang I)"
 1326,"獲物を捕らえて放さない、楔の
 ような飛竜種の牙。
-‾C05（旧称：飛竜種の牙賖）","Wedge-like Wyvern fang that
+{c05}（旧称：飛竜種の牙賖）","Wedge-like Wyvern fang that
 can chomp any prey to bits.
-‾C05(Was: Wyvern Fang II)"
+{c05}(Was: Wyvern Fang II)"
 1327,"獲物を捕らえて放さない、楔の
 ような飛竜種の牙。
-‾C05（旧称：飛竜種の牙賕）","Wedge-like Wyvern fang that
+{c05}（旧称：飛竜種の牙賕）","Wedge-like Wyvern fang that
 can chomp any prey to bits.
-‾C05(Was: Wyvern Fang III)"
+{c05}(Was: Wyvern Fang III)"
 1328,"対峙した敵を容赦なく引き裂く
 飛竜種の爪。
-‾C05（旧称：飛竜種の爪貤）","Vicious Wyvern claw that
+{c05}（旧称：飛竜種の爪貤）","Vicious Wyvern claw that
 tears enemies to shreds.
-‾C05(Was: Wyvern Claw I)"
+{c05}(Was: Wyvern Claw I)"
 1329,"対峙した敵を容赦なく引き裂く
 飛竜種の爪。
-‾C05（旧称：飛竜種の爪賖）","Vicious Wyvern claw that
+{c05}（旧称：飛竜種の爪賖）","Vicious Wyvern claw that
 tears enemies to shreds.
-‾C05(Was: Wyvern Claw II)"
+{c05}(Was: Wyvern Claw II)"
 1330,"対峙した敵を容赦なく引き裂く
 飛竜種の爪。
-‾C05（旧称：飛竜種の爪賕）","Vicious Wyvern claw that
+{c05}（旧称：飛竜種の爪賕）","Vicious Wyvern claw that
 tears enemies to shreds.
-‾C05(Was: Wyvern Claw III)"
+{c05}(Was: Wyvern Claw III)"
 1331,"思いの外、軽いが、驚くべき
 強度を備えた飛竜種の骨。
-‾C05（旧称：飛竜種の骨貤）","A bone that's much lighter
+{c05}（旧称：飛竜種の骨貤）","A bone that's much lighter
 and stronger than you think.
-‾C05(Was: Wyvern Bone I)"
+{c05}(Was: Wyvern Bone I)"
 1332,"思いの外、軽いが、驚くべき
 強度を備えた飛竜種の骨。
-‾C05（旧称：飛竜種の骨賖）","A bone that's much lighter
+{c05}（旧称：飛竜種の骨賖）","A bone that's much lighter
 and stronger than you think.
-‾C05(Was: Wyvern Bone II)"
+{c05}(Was: Wyvern Bone II)"
 1333,"思いの外、軽いが、驚くべき
 強度を備えた飛竜種の骨。
-‾C05（旧称：飛竜種の骨賕）","A bone that's much lighter
+{c05}（旧称：飛竜種の骨賕）","A bone that's much lighter
 and stronger than you think.
-‾C05(Was: Wyvern Bone III)"
+{c05}(Was: Wyvern Bone III)"
 1334,"幾重もの鱗の下から取れる
 強靭な飛竜種の皮。
-‾C05（旧称：飛竜種の皮貤）","A hide carved from beneath
+{c05}（旧称：飛竜種の皮貤）","A hide carved from beneath
 several layers of scales.
-‾C05(Was: Wyvern Hide I)"
+{c05}(Was: Wyvern Hide I)"
 1335,"幾重もの鱗の下から取れる
 強靭な飛竜種の皮。
-‾C05（旧称：飛竜種の皮賖）","A hide carved from beneath
+{c05}（旧称：飛竜種の皮賖）","A hide carved from beneath
 several layers of scales.
-‾C05(Was: Wyvern Hide II)"
+{c05}(Was: Wyvern Hide II)"
 1336,"幾重もの鱗の下から取れる
 強靭な飛竜種の皮。
-‾C05（旧称：飛竜種の皮賕）","A hide carved from beneath
+{c05}（旧称：飛竜種の皮賕）","A hide carved from beneath
 several layers of scales.
-‾C05(Was: Wyvern Hide III)"
+{c05}(Was: Wyvern Hide III)"
 1337,"飛竜種の象徴とも言うべき翼。
 大空を舞う躍動美が宿る。
-‾C05（旧称：飛竜種の翼貤）","The wing that symbolizes a
+{c05}（旧称：飛竜種の翼貤）","The wing that symbolizes a
 Wyvern. Beautiful in motion.
-‾C05(Was: Wyvern Wing I)"
+{c05}(Was: Wyvern Wing I)"
 1338,"飛竜種の象徴とも言うべき翼。
 大空を舞う躍動美が宿る。
-‾C05（旧称：飛竜種の翼賖）","The wing that symbolizes a
+{c05}（旧称：飛竜種の翼賖）","The wing that symbolizes a
 Wyvern. Beautiful in motion.
-‾C05(Was: Wyvern Wing II)"
+{c05}(Was: Wyvern Wing II)"
 1339,"飛竜種の象徴とも言うべき翼。
 大空を舞う躍動美が宿る。
-‾C05（旧称：飛竜種の翼賕）","The wing that symbolizes a
+{c05}（旧称：飛竜種の翼賕）","The wing that symbolizes a
 Wyvern. Beautiful in motion.
-‾C05(Was: Wyvern Wing III)"
+{c05}(Was: Wyvern Wing III)"
 1340,"強靭な草食動物も、一撃の下
 に叩き伏す飛竜種の尾。
-‾C05（旧称：飛竜種の尾貤）","A tail that can take down
+{c05}（旧称：飛竜種の尾貤）","A tail that can take down
 a herbivore in one swipe.
-‾C05(Was: Wyvern Tail I)"
+{c05}(Was: Wyvern Tail I)"
 1341,"強靭な草食動物も、一撃の下
 に叩き伏す飛竜種の尾。
-‾C05（旧称：飛竜種の尾賖）","A tail that can take down
+{c05}（旧称：飛竜種の尾賖）","A tail that can take down
 a herbivore in one swipe.
-‾C05(Was: Wyvern Tail II)"
+{c05}(Was: Wyvern Tail II)"
 1342,"強靭な草食動物も、一撃の下
 に叩き伏す飛竜種の尾。
-‾C05（旧称：飛竜種の尾賕）","A tail that can take down
+{c05}（旧称：飛竜種の尾賕）","A tail that can take down
 a herbivore in one swipe.
-‾C05(Was: Wyvern Tail III)"
+{c05}(Was: Wyvern Tail III)"
 1343,"飛竜種の体を覆う棘。
 外敵の攻撃の一切を拒絶する。
-‾C05（旧称：飛竜種の棘貤）","One of the defensive spikes
+{c05}（旧称：飛竜種の棘貤）","One of the defensive spikes
 that cover a Wyvern's body. 
-‾C05(Was: Wyvern Spike I)"
+{c05}(Was: Wyvern Spike I)"
 1344,"飛竜種の体を覆う棘。
 外敵の攻撃の一切を拒絶する。
-‾C05（旧称：飛竜種の棘賖）","One of the defensive spikes
+{c05}（旧称：飛竜種の棘賖）","One of the defensive spikes
 that cover a Wyvern's body. 
-‾C05(Was: Wyvern Spike II)"
+{c05}(Was: Wyvern Spike II)"
 1345,"飛竜種の体を覆う棘。
 外敵の攻撃の一切を拒絶する。
-‾C05（旧称：飛竜種の棘賕）","One of the defensive spikes
+{c05}（旧称：飛竜種の棘賕）","One of the defensive spikes
 that cover a Wyvern's body. 
-‾C05(Was: Wyvern Spike III)"
+{c05}(Was: Wyvern Spike III)"
 1346,"その巨躯の質量と共に目標を
 貫く飛竜種の角。
-‾C05（旧称：飛竜種の角貤）","Leads the way as the Wyvern
+{c05}（旧称：飛竜種の角貤）","Leads the way as the Wyvern
 smashes through its enemies.
-‾C05(Was: Wyvern Horn I)"
+{c05}(Was: Wyvern Horn I)"
 1347,"その巨躯の質量と共に目標を
 貫く飛竜種の角。
-‾C05（旧称：飛竜種の角賖）","Leads the way as the Wyvern
+{c05}（旧称：飛竜種の角賖）","Leads the way as the Wyvern
 smashes through its enemies.
-‾C05(Was: Wyvern Horn II)"
+{c05}(Was: Wyvern Horn II)"
 1348,"その巨躯の質量と共に目標を
 貫く飛竜種の角。
-‾C05（旧称：飛竜種の角賕）","Leads the way as the Wyvern
+{c05}（旧称：飛竜種の角賕）","Leads the way as the Wyvern
 smashes through its enemies.
-‾C05(Was: Wyvern Horn III)"
+{c05}(Was: Wyvern Horn III)"
 1349,"年輪のような紋様が、重ねて
 きた齢を想わせる飛竜種の鱗。
-‾C05（旧称：飛竜種の鱗貤）","A scale with a ring-like
+{c05}（旧称：飛竜種の鱗貤）","A scale with a ring-like
 pattern that shows its age.
-‾C05(Was: Wyvern Scale I)"
+{c05}(Was: Wyvern Scale I)"
 1350,"年輪のような紋様が、重ねて
 きた齢を想わせる飛竜種の鱗。
-‾C05（旧称：飛竜種の鱗賖）","A scale with a ring-like
+{c05}（旧称：飛竜種の鱗賖）","A scale with a ring-like
 pattern that shows its age.
-‾C05(Was: Wyvern Scale II)"
+{c05}(Was: Wyvern Scale II)"
 1351,"年輪のような紋様が、重ねて
 きた齢を想わせる飛竜種の鱗。
-‾C05（旧称：飛竜種の鱗賕）","A scale with a ring-like
+{c05}（旧称：飛竜種の鱗賕）","A scale with a ring-like
 pattern that shows its age.
-‾C05(Was: Wyvern Scale III)"
+{c05}(Was: Wyvern Scale III)"
 1352,"体中を駆け巡り、飛竜種の激し
 い運動を支える血。
-‾C05（旧称：飛竜種の血貤）","This blood is the secret to
+{c05}（旧称：飛竜種の血貤）","This blood is the secret to
 a Wyvern's high aggression.
-‾C05(Was: Wyvern Blood I)"
+{c05}(Was: Wyvern Blood I)"
 1353,"体中を駆け巡り、飛竜種の激し
 い運動を支える血。
-‾C05（旧称：飛竜種の血賖）","This blood is the secret to
+{c05}（旧称：飛竜種の血賖）","This blood is the secret to
 a Wyvern's high aggression.
-‾C05(Was: Wyvern Blood II)"
+{c05}(Was: Wyvern Blood II)"
 1354,"体中を駆け巡り、飛竜種の激し
 い運動を支える血。
-‾C05（旧称：飛竜種の血賕）","This blood is the secret to
+{c05}（旧称：飛竜種の血賕）","This blood is the secret to
 a Wyvern's high aggression.
-‾C05(Was: Wyvern Blood III)"
+{c05}(Was: Wyvern Blood III)"
 1355,"飛竜種の体内にできた結石。
 美しい色形のものを珠と呼ぶ。
-‾C05（旧称：飛竜種の珠貤）","A pretty, spherical gem,
+{c05}（旧称：飛竜種の珠貤）","A pretty, spherical gem,
 formed inside a Wyvern.
-‾C05(Was: Wyvern Jewel I)"
+{c05}(Was: Wyvern Jewel I)"
 1356,"飛竜種の体内にできた結石。
 美しい色形のものを珠と呼ぶ。
-‾C05（旧称：飛竜種の珠賖）","A pretty, spherical gem,
+{c05}（旧称：飛竜種の珠賖）","A pretty, spherical gem,
 formed inside a Wyvern.
-‾C05(Was: Wyvern Jewel II)"
+{c05}(Was: Wyvern Jewel II)"
 1357,"飛竜種の体内にできた結石。
 美しい色形のものを珠と呼ぶ。
-‾C05（旧称：飛竜種の珠賕）","A pretty, spherical gem,
+{c05}（旧称：飛竜種の珠賕）","A pretty, spherical gem,
 formed inside a Wyvern.
-‾C05(Was: Wyvern Jewel III)"
+{c05}(Was: Wyvern Jewel III)"
 1358,"頭だけになって、尚、強い存
 在感を放ち続ける飛竜種の頭。
-‾C05（旧称：飛竜種の頭貤）","Even when removed, a Wyvern
+{c05}（旧称：飛竜種の頭貤）","Even when removed, a Wyvern
 head has a real presence.
-‾C05(Was: Wyvern Head I)"
+{c05}(Was: Wyvern Head I)"
 1359,"頭だけになって、尚、強い存
 在感を放ち続ける飛竜種の頭。
-‾C05（旧称：飛竜種の頭賖）","Even when removed, a Wyvern
+{c05}（旧称：飛竜種の頭賖）","Even when removed, a Wyvern
 head has a real presence.
-‾C05(Was: Wyvern Head II)"
+{c05}(Was: Wyvern Head II)"
 1360,"頭だけになって、尚、強い存
 在感を放ち続ける飛竜種の頭。
-‾C05（旧称：飛竜種の頭賕）","Even when removed, a Wyvern
+{c05}（旧称：飛竜種の頭賕）","Even when removed, a Wyvern
 head has a real presence.
-‾C05(Was: Wyvern Head III)"
+{c05}(Was: Wyvern Head III)"
 1361,"飛竜種の骨の芯から切りだす
 エネルギーの塊のような髄。
-‾C05（旧称：飛竜種の髄貤）","A lump of marrow scooped
+{c05}（旧称：飛竜種の髄貤）","A lump of marrow scooped
 from inside a Wyvern Bone.
-‾C05(Was: Wyvern Marrow I)"
+{c05}(Was: Wyvern Marrow I)"
 1362,"飛竜種の骨の芯から切りだす
 エネルギーの塊のような髄。
-‾C05（旧称：飛竜種の髄賖）","A lump of marrow scooped
+{c05}（旧称：飛竜種の髄賖）","A lump of marrow scooped
 from inside a Wyvern Bone.
-‾C05(Was: Wyvern Marrow II)"
+{c05}(Was: Wyvern Marrow II)"
 1363,"飛竜種の骨の芯から切りだす
 エネルギーの塊のような髄。
-‾C05（旧称：飛竜種の髄賕）","A lump of marrow scooped
+{c05}（旧称：飛竜種の髄賕）","A lump of marrow scooped
 from inside a Wyvern Bone.
-‾C05(Was: Wyvern Marrow III)"
+{c05}(Was: Wyvern Marrow III)"
 1364,"力強い脈動の跡が感じられる
 飛竜種の活力器官。
-‾C05（旧称：飛竜種の肝貤）","The Wyvern's rugged pulse
+{c05}（旧称：飛竜種の肝貤）","The Wyvern's rugged pulse
 has left its mark.
-‾C05(Was: Wyvern Liver I)"
+{c05}(Was: Wyvern Liver I)"
 1365,"力強い脈動の跡が感じられる
 飛竜種の活力器官。
-‾C05（旧称：飛竜種の肝賖）","The Wyvern's rugged pulse
+{c05}（旧称：飛竜種の肝賖）","The Wyvern's rugged pulse
 has left its mark.
-‾C05(Was: Wyvern Liver II)"
+{c05}(Was: Wyvern Liver II)"
 1366,"力強い脈動の跡が感じられる
 飛竜種の活力器官。
-‾C05（旧称：飛竜種の肝賕）","The Wyvern's rugged pulse
+{c05}（旧称：飛竜種の肝賕）","The Wyvern's rugged pulse
 has left its mark.
-‾C05(Was: Wyvern Liver III)"
+{c05}(Was: Wyvern Liver III)"
 1367,"その正面に立つだけで、恐怖
 に身が竦む飛竜種の顎。
-‾C05（旧称：飛竜種の顎貤）","Just the sight of a Wyvern's
+{c05}（旧称：飛竜種の顎貤）","Just the sight of a Wyvern's
 jaw makes one cower in fear.
-‾C05(Was: Wyvern Jaw I)"
+{c05}(Was: Wyvern Jaw I)"
 1368,"その正面に立つだけで、恐怖
 に身が竦む飛竜種の顎。
-‾C05（旧称：飛竜種の顎賖）","Just the sight of a Wyvern's
+{c05}（旧称：飛竜種の顎賖）","Just the sight of a Wyvern's
 jaw makes one cower in fear.
-‾C05(Was: Wyvern Jaw II)"
+{c05}(Was: Wyvern Jaw II)"
 1369,"その正面に立つだけで、恐怖
 に身が竦む飛竜種の顎。
-‾C05（旧称：飛竜種の顎賕）","Just the sight of a Wyvern's
+{c05}（旧称：飛竜種の顎賕）","Just the sight of a Wyvern's
 jaw makes one cower in fear.
-‾C05(Was: Wyvern Jaw III)"
+{c05}(Was: Wyvern Jaw III)"
 1370,"飛竜種の眼球付近からの分泌
 物が鉱物状に固まったもの。
-‾C05（旧称：飛竜種の涙貤）","Hard mineral tears from
+{c05}（旧称：飛竜種の涙貤）","Hard mineral tears from
 ducts near a Wyvern's eyes.
-‾C05(Was: Wyvern Tears I)"
+{c05}(Was: Wyvern Tears I)"
 1371,"飛竜種の眼球付近からの分泌
 物が鉱物状に固まったもの。
-‾C05（旧称：飛竜種の涙賖）","Hard mineral tears from
+{c05}（旧称：飛竜種の涙賖）","Hard mineral tears from
 ducts near a Wyvern's eyes.
-‾C05(Was: Wyvern Tears II)"
+{c05}(Was: Wyvern Tears II)"
 1372,"飛竜種の眼球付近からの分泌
 物が鉱物状に固まったもの。
-‾C05（旧称：飛竜種の涙賕）","Hard mineral tears from
+{c05}（旧称：飛竜種の涙賕）","Hard mineral tears from
 ducts near a Wyvern's eyes.
-‾C05(Was: Wyvern Tears III)"
+{c05}(Was: Wyvern Tears III)"
 1373,"一説には消化液とも言われる
 飛竜種の謎の液体。
-‾C05（旧称：飛竜種の液貤）","A liquid believed by some to
+{c05}（旧称：飛竜種の液貤）","A liquid believed by some to
 aid Wyverns' digestion.
-‾C05(Was: Wyvern Fluid I)"
+{c05}(Was: Wyvern Fluid I)"
 1374,"一説には消化液とも言われる
 飛竜種の謎の液体。
-‾C05（旧称：飛竜種の液賖）","A liquid believed by some to
+{c05}（旧称：飛竜種の液賖）","A liquid believed by some to
 aid Wyverns' digestion.
-‾C05(Was: Wyvern Fluid II)"
+{c05}(Was: Wyvern Fluid II)"
 1375,"一説には消化液とも言われる
 飛竜種の謎の液体。
-‾C05（旧称：飛竜種の液賕）","A liquid believed by some to
+{c05}（旧称：飛竜種の液賕）","A liquid believed by some to
 aid Wyverns' digestion.
-‾C05(Was: Wyvern Fluid III)"
+{c05}(Was: Wyvern Fluid III)"
 1376,"つややかな魚竜種の鱗。逆撫
 ですれば指が落ちるほど鋭利。
-‾C05（旧称：魚竜種の鱗貤）","A sharp, sleek Piscine
+{c05}（旧称：魚竜種の鱗貤）","A sharp, sleek Piscine
 scale. Mind your fingers!
-‾C05(Was: Piscine Scale I)"
+{c05}(Was: Piscine Scale I)"
 1377,"つややかな魚竜種の鱗。逆撫
 ですれば指が落ちるほど鋭利。
-‾C05（旧称：魚竜種の鱗賖）","A sharp, sleek Piscine
+{c05}（旧称：魚竜種の鱗賖）","A sharp, sleek Piscine
 scale. Mind your fingers!
-‾C05(Was: Piscine Scale II)"
+{c05}(Was: Piscine Scale II)"
 1378,"つややかな魚竜種の鱗。逆撫
 ですれば指が落ちるほど鋭利。
-‾C05（旧称：魚竜種の鱗賕）","A sharp, sleek Piscine
+{c05}（旧称：魚竜種の鱗賕）","A sharp, sleek Piscine
 scale. Mind your fingers!
-‾C05(Was: Piscine Scale III)"
+{c05}(Was: Piscine Scale III)"
 1379,"魚竜種の巨体を姿勢制御する、
 力強くも美しいヒレ。
-‾C05（旧称：魚竜種のヒレ貤）","Strong, beautiful fin. The
+{c05}（旧称：魚竜種のヒレ貤）","Strong, beautiful fin. The
 key to a Piscine's posture.
-‾C05(Was: Piscine Fin I)"
+{c05}(Was: Piscine Fin I)"
 1380,"魚竜種の巨体を姿勢制御する、
 力強くも美しいヒレ。
-‾C05（旧称：魚竜種のヒレ賖）
+{c05}（旧称：魚竜種のヒレ賖）
 ",
 1381,"魚竜種の巨体を姿勢制御する、
 力強くも美しいヒレ。
-‾C05（旧称：魚竜種のヒレ賕）
+{c05}（旧称：魚竜種のヒレ賕）
 ",
 1382,"驚異的な持久力を誇る魚竜種
 の血液。
-‾C05（旧称：魚竜種の血貤）","The blood that gives the
+{c05}（旧称：魚竜種の血貤）","The blood that gives the
 Piscine its staying power.
-‾C05(Was: Piscine Blood I)"
+{c05}(Was: Piscine Blood I)"
 1383,"驚異的な持久力を誇る魚竜種
 の血液。
-‾C05（旧称：魚竜種の血賖）","The blood that gives the
+{c05}（旧称：魚竜種の血賖）","The blood that gives the
 Piscine its staying power.
-‾C05(Was: Piscine Blood II)"
+{c05}(Was: Piscine Blood II)"
 1384,"驚異的な持久力を誇る魚竜種
 の血液。
-‾C05（旧称：魚竜種の血賕）","The blood that gives the
+{c05}（旧称：魚竜種の血賕）","The blood that gives the
 Piscine its staying power.
-‾C05(Was: Piscine Blood III)"
+{c05}(Was: Piscine Blood III)"
 1385,"顎内に隙間無く生えている
 魚竜種の無数の牙のひとつ。
-‾C05（旧称：魚竜種の牙貤）","One of a Piscine's countless
+{c05}（旧称：魚竜種の牙貤）","One of a Piscine's countless
 densely packed teeth.
-‾C05(Was: Piscine Fang I)"
+{c05}(Was: Piscine Fang I)"
 1386,"顎内に隙間無く生えている
 魚竜種の無数の牙のひとつ。
-‾C05（旧称：魚竜種の牙賖）","One of a Piscine's countless
+{c05}（旧称：魚竜種の牙賖）","One of a Piscine's countless
 densely packed teeth.
-‾C05(Was: Piscine Fang II)"
+{c05}(Was: Piscine Fang II)"
 1387,"顎内に隙間無く生えている
 魚竜種の無数の牙のひとつ。
-‾C05（旧称：魚竜種の牙賕）","One of a Piscine's countless
+{c05}（旧称：魚竜種の牙賕）","One of a Piscine's countless
 densely packed teeth.
-‾C05(Was: Piscine Fang III)"
+{c05}(Was: Piscine Fang III)"
 1388,"過酷な環境においても、呼吸
 を行える強靭な魚竜種のエラ。
-‾C05（旧称：魚竜種のエラ貤）","Gills capable of breathing
+{c05}（旧称：魚竜種のエラ貤）","Gills capable of breathing
 in harsh environments.
-‾C05(Was: Piscine Gills I)"
+{c05}(Was: Piscine Gills I)"
 1389,"過酷な環境においても、呼吸
 を行える強靭な魚竜種のエラ。
-‾C05（旧称：魚竜種のエラ賖）","Gills capable of breathing
+{c05}（旧称：魚竜種のエラ賖）","Gills capable of breathing
 in harsh environments.
-‾C05(Was: Piscine Gills II)"
+{c05}(Was: Piscine Gills II)"
 1390,"過酷な環境においても、呼吸
 を行える強靭な魚竜種のエラ。
-‾C05（旧称：魚竜種のエラ賕）","Gills capable of breathing
+{c05}（旧称：魚竜種のエラ賕）","Gills capable of breathing
 in harsh environments.
-‾C05(Was: Piscine Gills III)"
+{c05}(Was: Piscine Gills III)"
 1391,"軽量ながら、適度な強度を持
 つ鳥竜種の殻。
-‾C05（旧称：鳥竜種の殻貤）","A lightweight shell that
+{c05}（旧称：鳥竜種の殻貤）","A lightweight shell that
 boasts plenty of strength.
-‾C05(Was: Bird Wyvern Shell I)"
+{c05}(Was: Bird Wyvern Shell I)"
 1392,"軽量ながら、適度な強度を持
 つ鳥竜種の殻。
-‾C05（旧称：鳥竜種の殻賖）","A lightweight shell that
+{c05}（旧称：鳥竜種の殻賖）","A lightweight shell that
 boasts plenty of strength.
-‾C05(Was: Bird Wyvern Shell II)"
+{c05}(Was: Bird Wyvern Shell II)"
 1393,"軽量ながら、適度な強度を持
 つ鳥竜種の殻。
-‾C05（旧称：鳥竜種の殻賕）","A lightweight shell that
+{c05}（旧称：鳥竜種の殻賕）","A lightweight shell that
 boasts plenty of strength.
-‾C05(Was: Bird Wyvern Shell III)"
+{c05}(Was: Bird Wyvern Shell III)"
 1394,"程よい保湿性と柔軟性を持つ
 鳥竜種の皮。
-‾C05（旧称：鳥竜種の皮貤）","The soft, moist hide of a
+{c05}（旧称：鳥竜種の皮貤）","The soft, moist hide of a
 Bird Wyvern.
-‾C05(Was: Bird Wyvern Hide I)"
+{c05}(Was: Bird Wyvern Hide I)"
 1395,"程よい保湿性と柔軟性を持つ
 鳥竜種の皮。
-‾C05（旧称：鳥竜種の皮賖）","The soft, moist hide of a
+{c05}（旧称：鳥竜種の皮賖）","The soft, moist hide of a
 Bird Wyvern.
-‾C05(Was: Bird Wyvern Hide II)"
+{c05}(Was: Bird Wyvern Hide II)"
 1396,"程よい保湿性と柔軟性を持つ
 鳥竜種の皮。
-‾C05（旧称：鳥竜種の皮賕）","The soft, moist hide of a
+{c05}（旧称：鳥竜種の皮賕）","The soft, moist hide of a
 Bird Wyvern.
-‾C05(Was: Bird Wyvern Hide III)"
+{c05}(Was: Bird Wyvern Hide III)"
 1397,"色合い鮮やかな鳥竜種の鱗。
 特に装飾用途に重宝される。
-‾C05（旧称：鳥竜種の鱗貤）","A brightly hued scale often
+{c05}（旧称：鳥竜種の鱗貤）","A brightly hued scale often
 used to make decorations.
-‾C05(Was: Bird Wyvern Scale I)"
+{c05}(Was: Bird Wyvern Scale I)"
 1398,"色合い鮮やかな鳥竜種の鱗。
 特に装飾用途に重宝される。
-‾C05（旧称：鳥竜種の鱗賖）","A brightly hued scale often
+{c05}（旧称：鳥竜種の鱗賖）","A brightly hued scale often
 used to make decorations.
-‾C05(Was: Bird Wyvern Scale II)"
+{c05}(Was: Bird Wyvern Scale II)"
 1399,"色合い鮮やかな鳥竜種の鱗。
 特に装飾用途に重宝される。
-‾C05（旧称：鳥竜種の鱗賕）","A brightly hued scale often
+{c05}（旧称：鳥竜種の鱗賕）","A brightly hued scale often
 used to make decorations.
-‾C05(Was: Bird Wyvern Scale III)"
+{c05}(Was: Bird Wyvern Scale III)"
 1400,"強大ではないものの、殺傷力
 は十分な鳥竜種の牙。
-‾C05（旧称：鳥竜種の牙貤）","Not the biggest of Wyvern
+{c05}（旧称：鳥竜種の牙貤）","Not the biggest of Wyvern
 fangs, but still lethal.
-‾C05(Was: Bird Wyvern Fang I)"
+{c05}(Was: Bird Wyvern Fang I)"
 1401,"強大ではないものの、殺傷力
 は十分な鳥竜種の牙。
-‾C05（旧称：鳥竜種の牙賖）","Not the biggest of Wyvern
+{c05}（旧称：鳥竜種の牙賖）","Not the biggest of Wyvern
 fangs, but still lethal.
-‾C05(Was: Bird Wyvern Fang II)"
+{c05}(Was: Bird Wyvern Fang II)"
 1402,"強大ではないものの、殺傷力
 は十分な鳥竜種の牙。
-‾C05（旧称：鳥竜種の牙賕）","Not the biggest of Wyvern
+{c05}（旧称：鳥竜種の牙賕）","Not the biggest of Wyvern
 fangs, but still lethal.
-‾C05(Was: Bird Wyvern Fang III)"
+{c05}(Was: Bird Wyvern Fang III)"
 1403,"持ち前のスピードと共に獲物
 を引き裂く、鳥竜種の鋭い爪。
-‾C05（旧称：鳥竜種の爪貤）","A sharp claw used to slash
+{c05}（旧称：鳥竜種の爪貤）","A sharp claw used to slash
 at prey with deadly speed.
-‾C05(Was: Bird Wyvern Claw I)"
+{c05}(Was: Bird Wyvern Claw I)"
 1404,"持ち前のスピードと共に獲物
 を引き裂く、鳥竜種の鋭い爪。
-‾C05（旧称：鳥竜種の爪賖）","A sharp claw used to slash
+{c05}（旧称：鳥竜種の爪賖）","A sharp claw used to slash
 at prey with deadly speed.
-‾C05(Was: Bird Wyvern Claw II)"
+{c05}(Was: Bird Wyvern Claw II)"
 1405,"持ち前のスピードと共に獲物
 を引き裂く、鳥竜種の鋭い爪。
-‾C05（旧称：鳥竜種の爪賕）","A sharp claw used to slash
+{c05}（旧称：鳥竜種の爪賕）","A sharp claw used to slash
 at prey with deadly speed.
-‾C05(Was: Bird Wyvern Claw III)"
+{c05}(Was: Bird Wyvern Claw III)"
 1406,"比較的細く軽いが、粘りがあ
 って折れにくい鳥竜種の骨。
-‾C05（旧称：鳥竜種の骨貤）","Relatively light, but sticky
+{c05}（旧称：鳥竜種の骨貤）","Relatively light, but sticky
 and difficult to break.
-‾C05(Was: Bird Wyvern Bone I)"
+{c05}(Was: Bird Wyvern Bone I)"
 1407,"比較的細く軽いが、粘りがあ
 って折れにくい鳥竜種の骨。
-‾C05（旧称：鳥竜種の骨賖）","Relatively light, but sticky
+{c05}（旧称：鳥竜種の骨賖）","Relatively light, but sticky
 and difficult to break.
-‾C05(Was: Bird Wyvern Bone II)"
+{c05}(Was: Bird Wyvern Bone II)"
 1408,"比較的細く軽いが、粘りがあ
 って折れにくい鳥竜種の骨。
-‾C05（旧称：鳥竜種の骨賕）","Relatively light, but sticky
+{c05}（旧称：鳥竜種の骨賕）","Relatively light, but sticky
 and difficult to break.
-‾C05(Was: Bird Wyvern Bone III)"
+{c05}(Was: Bird Wyvern Bone III)"
 1409,"鳥竜種が、消化補助のために
 飲み込み、体内で変質した石。
-‾C05（旧称：鳥竜種の石貤）","Eaten to aid digestion, this
+{c05}（旧称：鳥竜種の石貤）","Eaten to aid digestion, this
 gem has since mutated.
-‾C05(Was: Bird Wyvern Gem I)"
+{c05}(Was: Bird Wyvern Gem I)"
 1410,"鳥竜種が、消化補助のために
 飲み込み、体内で変質した石。
-‾C05（旧称：鳥竜種の石賖）","Eaten to aid digestion, this
+{c05}（旧称：鳥竜種の石賖）","Eaten to aid digestion, this
 gem has since mutated.
-‾C05(Was: Bird Wyvern Gem II)"
+{c05}(Was: Bird Wyvern Gem II)"
 1411,"鳥竜種が、消化補助のために
 飲み込み、体内で変質した石。
-‾C05（旧称：鳥竜種の石賕）","Eaten to aid digestion, this
+{c05}（旧称：鳥竜種の石賕）","Eaten to aid digestion, this
 gem has since mutated.
-‾C05(Was: Bird Wyvern Gem III)"
+{c05}(Was: Bird Wyvern Gem III)"
 1412,"大変特徴的な形をした鳥竜種
 のクチバシ。
-‾C05（旧称：鳥竜種の嘴貤）","Nothing says ""Bird Wyvern""
+{c05}（旧称：鳥竜種の嘴貤）","Nothing says ""Bird Wyvern""
 like its unique beak.
-‾C05(Was: Bird Wyvern Beak I)"
+{c05}(Was: Bird Wyvern Beak I)"
 1413,"大変特徴的な形をした鳥竜種
 のクチバシ。
-‾C05（旧称：鳥竜種の嘴賖）","Nothing says ""Bird Wyvern""
+{c05}（旧称：鳥竜種の嘴賖）","Nothing says ""Bird Wyvern""
 like its unique beak.
-‾C05(Was: Bird Wyvern Beak II)"
+{c05}(Was: Bird Wyvern Beak II)"
 1414,"大変特徴的な形をした鳥竜種
 のクチバシ。
-‾C05（旧称：鳥竜種の嘴賕）","Nothing says ""Bird Wyvern""
+{c05}（旧称：鳥竜種の嘴賕）","Nothing says ""Bird Wyvern""
 like its unique beak.
-‾C05(Was: Bird Wyvern Beak III)"
+{c05}(Was: Bird Wyvern Beak III)"
 1415,"モンスターの中では、比較的
 柔らかな鳥竜種の毛。
-‾C05（旧称：鳥竜種の毛貤）","One of the softest pelts in
+{c05}（旧称：鳥竜種の毛貤）","One of the softest pelts in
 the monster kingdom.
-‾C05(Was: Bird Wyvern Pelt I)"
+{c05}(Was: Bird Wyvern Pelt I)"
 1416,"モンスターの中では、比較的
 柔らかな鳥竜種の毛。
-‾C05（旧称：鳥竜種の毛賖）","One of the softest pelts in
+{c05}（旧称：鳥竜種の毛賖）","One of the softest pelts in
 the monster kingdom.
-‾C05(Was: Bird Wyvern Pelt II)"
+{c05}(Was: Bird Wyvern Pelt II)"
 1417,"モンスターの中では、比較的
 柔らかな鳥竜種の毛。
-‾C05（旧称：鳥竜種の毛賕）","One of the softest pelts in
+{c05}（旧称：鳥竜種の毛賕）","One of the softest pelts in
 the monster kingdom.
-‾C05(Was: Bird Wyvern Pelt III)"
+{c05}(Was: Bird Wyvern Pelt III)"
 1418,"俊敏な動きのバランスを担う
 鳥竜種の尾。
-‾C05（旧称：鳥竜種の尾貤）","Its rapid movement keeps
+{c05}（旧称：鳥竜種の尾貤）","Its rapid movement keeps
 the Bird Wyvern balanced.
-‾C05(Was: Bird Wyvern Tail I)"
+{c05}(Was: Bird Wyvern Tail I)"
 1419,"俊敏な動きのバランスを担う
 鳥竜種の尾。
-‾C05（旧称：鳥竜種の尾賖）","Its rapid movement keeps
+{c05}（旧称：鳥竜種の尾賖）","Its rapid movement keeps
 the Bird Wyvern balanced.
-‾C05(Was: Bird Wyvern Tail II)"
+{c05}(Was: Bird Wyvern Tail II)"
 1420,"俊敏な動きのバランスを担う
 鳥竜種の尾。
-‾C05（旧称：鳥竜種の尾賕）","Its rapid movement keeps
+{c05}（旧称：鳥竜種の尾賕）","Its rapid movement keeps
 the Bird Wyvern balanced.
-‾C05(Was: Bird Wyvern Tail III)"
+{c05}(Was: Bird Wyvern Tail III)"
 1421,"どこかユーモラスで親しみを
 感じる鳥竜種の頭。
-‾C05（旧称：鳥竜種の頭貤）","There's something almost
+{c05}（旧称：鳥竜種の頭貤）","There's something almost
 lovable about this skull.
-‾C05(Was: Bird Wyvern Head I)"
+{c05}(Was: Bird Wyvern Head I)"
 1422,"どこかユーモラスで親しみを
 感じる鳥竜種の頭。
-‾C05（旧称：鳥竜種の頭賖）","There's something almost
+{c05}（旧称：鳥竜種の頭賖）","There's something almost
 lovable about this skull.
-‾C05(Was: Bird Wyvern Head II)"
+{c05}(Was: Bird Wyvern Head II)"
 1423,"どこかユーモラスで親しみを
 感じる鳥竜種の頭。
-‾C05（旧称：鳥竜種の頭賕）","There's something almost
+{c05}（旧称：鳥竜種の頭賕）","There's something almost
 lovable about this skull.
-‾C05(Was: Bird Wyvern Head III)"
+{c05}(Was: Bird Wyvern Head III)"
 1424,"古龍種の体表を覆う強固な殻。
 威厳漂う一品。
 ",
@@ -6337,19 +6337,19 @@ a paralyzing substance.
 Handle with care!"
 1467,"透明感のある動物性の油脂。
 材質を変化させる効能も…？
-‾C05（旧称：モンスターの油貤）","Translucent fat. Could it be
+{c05}（旧称：モンスターの油貤）","Translucent fat. Could it be
 used to transform materials?
-‾C05(Was: Monster Grease I)"
+{c05}(Was: Monster Grease I)"
 1468,"透明感のある動物性の油脂。
 材質を変化させる効能も…？
-‾C05（旧称：モンスターの油賖）","Translucent fat. Could it be
+{c05}（旧称：モンスターの油賖）","Translucent fat. Could it be
 used to transform materials?
-‾C05(Was: Monster Grease II)"
+{c05}(Was: Monster Grease II)"
 1469,"透明感のある動物性の油脂。
 材質を変化させる効能も…？
-‾C05（旧称：モンスターの油賕）","Translucent fat. Could it be
+{c05}（旧称：モンスターの油賕）","Translucent fat. Could it be
 used to transform materials?
-‾C05(Was: Monster Grease III)"
+{c05}(Was: Monster Grease III)"
 1470,"モンスターを捕獲したことに
 対するギルド発行の証明書。
 集めておくといいかも…？","Issued by the Guild for
@@ -6672,14 +6672,14 @@ be used on sunny days."
 ",
 1536,"支給品専用の投げタル爆弾。
 性能は全く同じ。
-‾C05（支給品専用）","Hand-thrown barrel bomb that
+{c05}（支給品専用）","Hand-thrown barrel bomb that
 has the same effects as
-usual. ‾C05(Supply Item)"
+usual. {c05}(Supply Item)"
 1537,"支給品専用の大タル爆弾Ｇ２。
 性能は全く同じ。
-‾C05（支給品専用）","A large barrel bomb that has
+{c05}（支給品専用）","A large barrel bomb that has
 the same effects as usual.
-‾C05(Supply Item)"
+{c05}(Supply Item)"
 1538,"珍しい鉱石で作られた、
 表面に「Ｎ」と刻まれている
 赤色のメダル。","Red Medal made of a rare
@@ -6789,8 +6789,8 @@ a Noir Head. Take them
 to the Smithy in Dondruma!"
 1560,"斬れ味の回復こそしないが、
 使えば竜撃砲がスグ撃てる。
-‾C05（ガンランス装備中限定）","Enables quick reuse of
-Wyvern's Fire. ‾C05(Only when
+{c05}（ガンランス装備中限定）","Enables quick reuse of
+Wyvern's Fire. {c05}(Only when
 equipped with a Gunlance.)"
 1561,"瞬時にして自分以外の誰かの
 元へ移動できる不思議な玉。
@@ -6839,7 +6839,7 @@ of paralysis. Self-destructs
 after use."
 1570,"瀕死時以外、一度だけ即死級
 の攻撃も生き残れる。
-‾C02※「不退ノ構」発動時は無効。","Unless you're very close to
+{c02}※「不退ノ構」発動時は無効。","Unless you're very close to
 death, this lets you survive
 an otherwise lethal attack."
 1571,"究極の不味さを売りにした
@@ -6874,7 +6874,7 @@ bring only herbs when out
 in the field."
 1577,"瞬時に己の気力を高め、練気
 ゲージを最大にする飲料。
-‾C05（太刀装備中限定）","A brew for LS users.
+{c05}（太刀装備中限定）","A brew for LS users.
 The spirit gauge will
 max out."
 1578,"活力剤の強化版。
@@ -6899,9 +6899,9 @@ the people of the Caravan
 cannot easily see it."
 1582,"一定時間、移動速度が向上す
 る種。とても足がはやい。
-‾C05（精算アイテム）","A fruit that improves movement
+{c05}（精算アイテム）","A fruit that improves movement
 speed for a certain period of time.
-Very fast. ‾C05 (Premium Item)"
+Very fast. {c05} (Premium Item)"
 1583,dummy,
 1584,dummy,
 1585,dummy,
@@ -6933,54 +6933,54 @@ explosive properties to Goushu
 Weapons. Capacity: 30"
 1604,"相手ハンターを瞬時にベース
 キャンプに戻す不思議な玉。
-‾C05（対戦用）","A strange orb that instantly
+{c05}（対戦用）","A strange orb that instantly
 returns an opponent to Base
-Camp. ‾C05(VS Quests Only)"
+Camp. {c05}(VS Quests Only)"
 1605,"地面に埋めて仕掛ける爆弾。
 相手ハンターが踏むと爆発。
-‾C05（対戦用）","A bomb buried in the ground
+{c05}（対戦用）","A bomb buried in the ground
 to be set off by enemy
-Hunters. ‾C05(VS Quests Only)"
+Hunters. {c05}(VS Quests Only)"
 1606,"ＶＳタル爆弾の強化版。
 相手ハンターが踏むと大爆発。
-‾C05（対戦用）","Improved Barrel-Bomb [VS].
+{c05}（対戦用）","Improved Barrel-Bomb [VS].
 Set off by enemy Hunters.
-‾C05(VS Quests Only)"
+{c05}(VS Quests Only)"
 1607,"相手ハンターの動きを止める
 ことができる罠。
-‾C05（対戦用）","A trap designed to stop
+{c05}（対戦用）","A trap designed to stop
 enemy Hunters from moving.
-‾C05(VS Quests Only)"
+{c05}(VS Quests Only)"
 1608,"相手ハンターが踏むと毒を仕
 込んだ刃物が飛び出す罠。
-‾C05（対戦用）","A trap that shoots poisoned
+{c05}（対戦用）","A trap that shoots poisoned
 blades when set off by enemy
-Hunters. ‾C05(VS Quests Only)"
+Hunters. {c05}(VS Quests Only)"
 1609,"相手ハンターが踏むと睡眠効
 果のある粉塵を撒き散らす罠。
-‾C05（対戦用）","A trap that emits a sleep-
+{c05}（対戦用）","A trap that emits a sleep-
 inducing powder when set
-off. ‾C05(VS Quests Only)"
+off. {c05}(VS Quests Only)"
 1610,"相手ハンターの仕掛けた罠を
 解除するための工具。
-‾C05（対戦用）","A tool for disarming traps
+{c05}（対戦用）","A tool for disarming traps
 set by enemy Hunters.
-‾C05(VS Quests Only)"
+{c05}(VS Quests Only)"
 1611,"特殊な衝撃が武器をナマクラに
 してしまう罠。
-‾C05（対戦用）","A trap that uses a special
+{c05}（対戦用）","A trap that uses a special
 blast to blunt weapons.
-‾C05(VS Quests Only)"
+{c05}(VS Quests Only)"
 1612,"相手ハンターが踏むと強烈な閃
 光を発する罠。
-‾C05（対戦用）","A trap that emits a dazzling
+{c05}（対戦用）","A trap that emits a dazzling
 flash of light when set off.
-‾C05(VS Quests Only)"
+{c05}(VS Quests Only)"
 1613,"相手ハンターが踏むと強力な
 異臭を発生する罠。
-‾C05（対戦用）","A trap that releases a
+{c05}（対戦用）","A trap that releases a
 horrible stench when set
-off. ‾C05(VS Quests Only)"
+off. {c05}(VS Quests Only)"
 1614,dummy,
 1615,dummy,
 1616,dummy,
@@ -6988,54 +6988,54 @@ off. ‾C05(VS Quests Only)"
 1618,dummy,
 1619,"相手ハンターを瞬時にベース
 キャンプに戻す不思議な玉。
-‾C05（対戦用支給品）","Instantly returns an enemy
+{c05}（対戦用支給品）","Instantly returns an enemy
 to Base Camp.
-‾C05(VS Quest Supply Item)"
+{c05}(VS Quest Supply Item)"
 1620,"地面に埋めて仕掛ける爆弾。
 相手ハンターが踏むと爆発。
-‾C05（対戦用支給品）","A bomb buried in the ground.
+{c05}（対戦用支給品）","A bomb buried in the ground.
 Set off by enemy Hunters.
-‾C05(VS Quest Supply Item)"
+{c05}(VS Quest Supply Item)"
 1621,"ＶＳタル爆弾の強化版。
 相手ハンターが踏むと大爆発。
-‾C05（対戦用支給品）","Improved Barrel-Bomb [VS].
+{c05}（対戦用支給品）","Improved Barrel-Bomb [VS].
 Set off by enemy Hunters.
-‾C05(VS Quest Supply Item)"
+{c05}(VS Quest Supply Item)"
 1622,"相手ハンターの動きを止める
 ことができる罠。
-‾C05（対戦用支給品）","A trap designed to stop
+{c05}（対戦用支給品）","A trap designed to stop
 enemy Hunters from moving.
-‾C05(VS Quest Supply Item)"
+{c05}(VS Quest Supply Item)"
 1623,"相手ハンターが踏むと毒を仕
 込んだ刃物が飛び出す罠。
-‾C05（対戦用支給品）","A trap that shoots poisoned
+{c05}（対戦用支給品）","A trap that shoots poisoned
 blades when set off.
-‾C05(VS Quest Supply Item)"
+{c05}(VS Quest Supply Item)"
 1624,"相手ハンターが踏むと睡眠効
 果のある粉塵を撒き散らす罠。
-‾C05（対戦用支給品）","A trap that emits a sleep-
+{c05}（対戦用支給品）","A trap that emits a sleep-
 inducing powder when set
-off. ‾C05(VS Quest Supply Item)"
+off. {c05}(VS Quest Supply Item)"
 1625,"相手ハンターの仕掛けた罠を
 解除するための工具。
-‾C05（対戦用支給品）","A tool for disarming traps
+{c05}（対戦用支給品）","A tool for disarming traps
 set by enemy Hunters.
-‾C05(VS Quest Supply Item)"
+{c05}(VS Quest Supply Item)"
 1626,"特殊な衝撃が武器をナマクラに
 してしまう罠。
-‾C05（対戦用支給品）","A trap that uses a special
+{c05}（対戦用支給品）","A trap that uses a special
 blast to blunt weapons.
-‾C05(VS Quest Supply Item)"
+{c05}(VS Quest Supply Item)"
 1627,"相手ハンターが踏むと強烈な閃
 光を発する罠。
-‾C05（対戦用支給品）","A trap that emits a dazzling
+{c05}（対戦用支給品）","A trap that emits a dazzling
 flash of light when set off.
-‾C05(VS Quest Supply Item)"
+{c05}(VS Quest Supply Item)"
 1628,"相手ハンターが踏むと強力な
 異臭を発生する罠。
-‾C05（対戦用支給品）","A trap that releases a
+{c05}（対戦用支給品）","A trap that releases a
 horrible stench when set
-off. ‾C05(VS Quest Supply Item)"
+off. {c05}(VS Quest Supply Item)"
 1629,dummy,
 1630,dummy,
 1631,dummy,
@@ -7250,9 +7250,9 @@ with unique properties. Swap
 it for something special!"
 1676,"良質な塩分の結晶。価格安定
 のため、一括買い上げされる。
-‾C05（精算アイテム）","High-grade salt crystals.
+{c05}（精算アイテム）","High-grade salt crystals.
 Always in demand.
-‾C05(Account Item)"
+{c05}(Account Item)"
 1677,"混入するものによって、緑の
 色合いを持つこともある鉱石。
 硬度と美しさを併せ持つ。","A mixed green ore that
@@ -7295,9 +7295,9 @@ life on dry land. Used as a
 decoration."
 1685,"鳥は好み竜は嫌う不思議な実。
 投げると爆発し、特殊な音を
-発する。‾C05（精算アイテム）","Loved by birds and hated by
+発する。{c05}（精算アイテム）","Loved by birds and hated by
 dragons, this fruit explodes
-when thrown. ‾C05(Account Item)"
+when thrown. {c05}(Account Item)"
 1686,"ギルドに狩人としての技量を
 認められた際に配布される証。
 ギルド貢献Ｐと交換可能。","Acknowledgment of one's
@@ -7883,51 +7883,51 @@ to the Furniture Shop!"
 a variety of effects."
 1807,"大タル爆弾Ｇ２の火力を更に
 高めた爆弾。
-‾C05（キャラバンクエスト専用）","Even more powerful than the
+{c05}（キャラバンクエスト専用）","Even more powerful than the
 Large Barrel-Bomb G+
-‾C05(Caravan Quests Only)"
+{c05}(Caravan Quests Only)"
 1808,"タル爆弾を仕込んだ落とし穴。
 負荷がかかると発動する。
-‾C05（キャラバンクエスト専用）","A Pitfall Trap containing a
+{c05}（キャラバンクエスト専用）","A Pitfall Trap containing a
 pressure-sensitive Barrel-
-Bomb. ‾C05(Caravan Quests Only)"
+Bomb. {c05}(Caravan Quests Only)"
 1809,"斬れ味を最大まで回復させる
 ことのできる砥石の高級品。
-‾C05（キャラバンクエスト専用）","A top-quality whetstone that
+{c05}（キャラバンクエスト専用）","A top-quality whetstone that
 fully restores sharpness.
-‾C05(Caravan Quests Only)"
+{c05}(Caravan Quests Only)"
 1810,"１０個分の回復薬が入った
 回復薬の詰め合わせ。
-‾C05（キャラバンクエスト専用）","A set of 10 regular Potions.
-‾C05(Caravan Quests Only)"
+{c05}（キャラバンクエスト専用）","A set of 10 regular Potions.
+{c05}(Caravan Quests Only)"
 1811,"使用すると周囲の暑さ・寒さ
 を一定時間緩和する。
 ",
 1812,"使用すると周囲の毒素が浄化
 される。
-‾C05（キャラバンクエスト専用）","Neutralizes any nearby
+{c05}（キャラバンクエスト専用）","Neutralizes any nearby
 poison when used.
-‾C05(Caravan Quests Only)"
+{c05}(Caravan Quests Only)"
 1813,"各種フィールドを網羅して
 いる、返却義務が無い地図。
-‾C05（キャラバンクエスト専用）","A map containing all areas.
+{c05}（キャラバンクエスト専用）","A map containing all areas.
 Doesn't need to be returned.
-‾C05(Caravan Quests Only)"
+{c05}(Caravan Quests Only)"
 1814,"ピッケルグレートの耐久性を
 向上させた改良品。
-‾C05（キャラバンクエスト専用）","An improved, more durable
+{c05}（キャラバンクエスト専用）","An improved, more durable
 version of the Mega Pickaxe.
-‾C05(Caravan Quests Only)"
+{c05}(Caravan Quests Only)"
 1815,"虫あみグレートの耐久性を
 向上させた改良品。
-‾C05（キャラバンクエスト専用）","An improved, more durable
+{c05}（キャラバンクエスト専用）","An improved, more durable
 version of the Mega Bugnet.
-‾C05(Caravan Quests Only)"
+{c05}(Caravan Quests Only)"
 1816,"大きな衝撃を与えると起爆す
 る可能性がある危険な火薬。
-‾C05（キャラバンクエスト専用）","An explosive that can be
+{c05}（キャラバンクエスト専用）","An explosive that can be
 detonated by a heavy impact.
-‾C05(Caravan Quests Only)"
+{c05}(Caravan Quests Only)"
 1817,"類稀なる強靭な古龍の狩猟を
 達成した者だけが得ることの
 できる証。","Only available to those who
@@ -8453,8 +8453,8 @@ who've proven they can
 survive the toughest trials."
 1923,"全剥ぎ取り回数が１回増える
 狩人にとって究極の極意。
-‾C05（クエスト開始時に自動消費）","Lets you carve every corpse
-one more time. ‾C05(Auto-used
+{c05}（クエスト開始時に自動消費）","Lets you carve every corpse
+one more time. {c05}(Auto-used
 at start of Quest.)"
 1924,※開発用,※For Development
 1925,※開発用,※For Development
@@ -8758,149 +8758,149 @@ Combo Shop."
 2064,ダミー。,
 2065,"回復薬グレートと全く同じ
 効果を持つ薬。
-‾C05（支給品専用）","Medicine with exactly the
+{c05}（支給品専用）","Medicine with exactly the
 same effect as a Mega
-Potion. ‾C05(Supply Item)"
+Potion. {c05}(Supply Item)"
 2066,"一定時間、他者の攻撃による
 怯みや吹っ飛びに耐える。
-‾C05（支給品専用）","Temporarily stops you
+{c05}（支給品専用）","Temporarily stops you
 recoiling when attacked.
-‾C05(Supply Item)"
+{c05}(Supply Item)"
 2067,"既存のブーメランを改良して、
 より大きく、強力にしたもの。
-‾C05（支給品専用）","A bigger, stronger version
+{c05}（支給品専用）","A bigger, stronger version
 of the regular Boomerang.
-‾C05(Supply Item)"
+{c05}(Supply Item)"
 2068,"従来の石ころよりも大きめな
 石ころ。よって威力も大きめ。
-‾C05（支給品専用）","Bigger than a regular stone,
+{c05}（支給品専用）","Bigger than a regular stone,
 and consequently more
-powerful. ‾C05(Supply Item)"
+powerful. {c05}(Supply Item)"
 2069,"使い捨て高級耳栓と全く同じ
 効果を持つ耳栓。
-‾C05（支給品専用）","These have exactly the same
+{c05}（支給品専用）","These have exactly the same
 effect as regular Earplugs.
-‾C05(Supply Item)"
+{c05}(Supply Item)"
 2070,"打上げタル爆弾Ｇと
 全く同じ性質を持つ爆弾。
-‾C05（支給品専用）","A bomb that's exactly the
+{c05}（支給品専用）","A bomb that's exactly the
 same as the Bounce Bomb+.
-‾C05(Supply Item)"
+{c05}(Supply Item)"
 2071,"鬼人薬を上回る攻撃力を
 得ると伝えられる幻の薬。
-‾C05（支給品専用）","Said to offer more Attack
+{c05}（支給品専用）","Said to offer more Attack
 power than the normal
-Demondrug. ‾C05(Supply Item)"
+Demondrug. {c05}(Supply Item)"
 2072,"硬化薬を上回る防御力を
 得ると伝えられる幻の薬。
-‾C05（支給品専用）","Said to offer more Defensive
+{c05}（支給品専用）","Said to offer more Defensive
 protection than regular
-Armorskin. ‾C05(Supply Item)"
+Armorskin. {c05}(Supply Item)"
 2073,"一定時間、暑さと寒さを同時
 に緩和する飲料。
-‾C05（支給品専用）","Temporarily eases the
+{c05}（支給品専用）","Temporarily eases the
 effects of both heat and
-cold. ‾C05(Supply Item)"
+cold. {c05}(Supply Item)"
 2074,"大タルの中に、雷属性の攻撃
 成分を詰め込んだ爆弾。
-‾C05（支給品専用）","Barrel-bomb containing
+{c05}（支給品専用）","Barrel-bomb containing
 ingredients for a thunder-
-based attack.‾C05(Supply Item)"
+based attack.{c05}(Supply Item)"
 2075,"大タルの中に、毒属性の攻撃
 成分を詰め込んだ爆弾。
-‾C05（支給品専用）","Barrel-bomb containing
+{c05}（支給品専用）","Barrel-bomb containing
 ingredients for a poison-
-based attack.‾C05(Supply Item)"
+based attack.{c05}(Supply Item)"
 2076,"大タルの中に、氷属性の攻撃
 成分を詰め込んだ爆弾。
-‾C05（支給品専用）","Barrel-bomb containing
+{c05}（支給品専用）","Barrel-bomb containing
 ingredients for an ice-
-based attack.‾C05(Supply Item)"
+based attack.{c05}(Supply Item)"
 2077,"大タルの中に睡眠属性の攻撃
 成分を詰め込んだ爆弾。
-‾C05（支給品専用）","Barrel-bomb containing
+{c05}（支給品専用）","Barrel-bomb containing
 ingredients that induce
-sleep. ‾C05(Supply Item)"
+sleep. {c05}(Supply Item)"
 2078,"大タルの中に麻痺属性の攻撃
 成分を詰め込んだ爆弾。
-‾C05（支給品専用）","Barrel-bomb containing
+{c05}（支給品専用）","Barrel-bomb containing
 ingredients for a paralyzing
-attack.‾C05(Supply Item)"
+attack.{c05}(Supply Item)"
 2079,"試験的に作られた小タル爆弾。
 地面を這うように発射される。
-‾C05（支給品専用）","Small bomb that seems to
+{c05}（支給品専用）","Small bomb that seems to
 crawl along the ground.
-‾C05(Supply Item)"
+{c05}(Supply Item)"
 2080,"ペイントボールの要素を持つ、
 投げて使う小タル爆弾。
-‾C05（支給品専用）","Hand-thrown bomb with
+{c05}（支給品専用）","Hand-thrown bomb with
 properties similar to a
-Paintball. ‾C05(Supply Item)"
+Paintball. {c05}(Supply Item)"
 2081,"睡眠属性を持つ、投げて使う
 タイプの小タル爆弾。
-‾C05（支給品専用）","Hand-thrown bomb that has
+{c05}（支給品専用）","Hand-thrown bomb that has
 sleep-inducing properties.
-‾C05(Supply Item)"
+{c05}(Supply Item)"
 2082,"雷属性を持つ、投げて使う
 タイプの小タル爆弾。
-‾C05（支給品専用）","Hand-thrown bomb that packs
+{c05}（支給品専用）","Hand-thrown bomb that packs
 a thunder-based attack.
-‾C05(Supply Item)"
+{c05}(Supply Item)"
 2083,"氷属性を持つ、投げて使う
 タイプの小タル爆弾。
-‾C05（支給品専用）","Hand-thrown bomb that packs
+{c05}（支給品専用）","Hand-thrown bomb that packs
 an ice-based attack.
-‾C05(Supply Item)"
+{c05}(Supply Item)"
 2084,"一定時間疲れることなく走り
 続けることができる薬。
-‾C05（支給品専用）","Allows you to run without
+{c05}（支給品専用）","Allows you to run without
 becoming fatigued for a
-while. ‾C05(Supply Item)"
+while. {c05}(Supply Item)"
 2085,"強走薬よりも、更に長い時間
 走り続けることができる薬。
-‾C05（支給品専用）","Lets you run without tiring
+{c05}（支給品専用）","Lets you run without tiring
 for longer than Dash Juice.
-‾C05(Supply Item)"
+{c05}(Supply Item)"
 2086,"使用者と、周囲の者の毒状態
 を回復する成分を持つ粉。
-‾C05（支給品専用）","Cures the user and those
+{c05}（支給品専用）","Cures the user and those
 nearby of the effects of
-poison. ‾C05(Supply Item)"
+poison. {c05}(Supply Item)"
 2087,"周囲の者の睡眠状態を
 回復する成分を持つ粉。
-‾C05（支給品専用）","Wakes the user and those
+{c05}（支給品専用）","Wakes the user and those
 nearby from their slumber.
-‾C05(Supply Item)"
+{c05}(Supply Item)"
 2088,"周囲の者の麻痺状態を
 回復する成分を持つ粉。
-‾C05（支給品専用）","Cures the user and those
+{c05}（支給品専用）","Cures the user and those
 nearby of paralysis.
-‾C05(Supply Item)"
+{c05}(Supply Item)"
 2089,"使用者と、周囲の者の寒さが
 一定時間緩和される粉。
-‾C05（支給品専用）","Temporarily relieves cold
+{c05}（支給品専用）","Temporarily relieves cold
 for the user and those
-nearby. ‾C05(Supply Item)"
+nearby. {c05}(Supply Item)"
 2090,"使用者と、周囲の者の暑さが
 一定時間緩和される粉。
-‾C05（支給品専用）","Temporarily relieves heat
+{c05}（支給品専用）","Temporarily relieves heat
 for the user and those
-nearby. ‾C05(Supply Item)"
+nearby. {c05}(Supply Item)"
 2091,"使用すると周囲の暑さ・寒さ
 を一定時間緩和する。
-‾C05（支給品専用）","Temporarily relieves cold
+{c05}（支給品専用）","Temporarily relieves cold
 and heat for the user and
-those nearby. ‾C05(Supply Item)"
+those nearby. {c05}(Supply Item)"
 2092,"使えば竜撃砲がスグ撃てる。
-‾C05（支給品専用）
-‾C05（ガンランス装備中限定）","Enables a Gunlance to fire
-right away. ‾C05(Only when using
+{c05}（支給品専用）
+{c05}（ガンランス装備中限定）","Enables a Gunlance to fire
+right away. {c05}(Only when using
 a Gunlance.) (Supply Item)"
 2093,"体力とスタミナの上限が最大
 まで上昇し、完全回復する薬。
-‾C05（支給品専用）","Fully restores Health and
+{c05}（支給品専用）","Fully restores Health and
 Stamina to their maximum
-levels. ‾C05(Supply Item)"
+levels. {c05}(Supply Item)"
 2094,"氷に閉ざされた地方にある、
 古くより氷の中で育った
 樹木の希少な枝。","A rare tree branch, grown
@@ -10992,21 +10992,21 @@ distributed by the Guild.
 Has a variety of uses."
 2579,"どんなに元気でも、
 飲めばたちまち瀕死状態。
-‾C05（支給品専用）","Takes even the healthiest
+{c05}（支給品専用）","Takes even the healthiest
 person to the brink of
-death. ‾C05(Supply Item)"
+death. {c05}(Supply Item)"
 2580,"飲めばスタミナが激減する
 ほど、疲れが押し寄せる。
-‾C05（支給品専用）","Energy-sapping drink that
+{c05}（支給品専用）","Energy-sapping drink that
 greatly reduces Stamina when
-consumed. ‾C05(Supply Item)"
+consumed. {c05}(Supply Item)"
 2581,"排熱噴射機構を備えた武器の
 保温限界を上げる。","Boosts heat retention in
-certain weapons. ‾C05(Tough
+certain weapons. {c05}(Tough
 Weapon: Heavy Bowgun only.)"
 2582,"排熱噴射機構を備えた武器の
 保温限界を下げる。","Reduces heat retention in
-certain weapons. ‾C05(Tough
+certain weapons. {c05}(Tough
 Weapon: Heavy Bowgun only.)"
 2583,"グロムバローネの
 生産方法が記された紙。
@@ -15425,9 +15425,9 @@ mountain-shaped over time.
 Very rare and precious."
 3587,"長い間ハチミツを受け止め、
 葉脈にまで染み渡った葉っぱ。
-‾C05（精算アイテム）","A leaf that has become
+{c05}（精算アイテム）","A leaf that has become
 encrusted with sweet nectar.
-‾C05(Account Item)"
+{c05}(Account Item)"
 3588,"小さな白い花を咲かせる高山
 植物の１種。昔は花を煎じて
 飲んでいたらしい。","A mountain plant with small
@@ -16926,25 +16926,25 @@ combinations."
 3987,ダミー,
 3988,"狩猟技会の参加者にのみ支給
 される特殊な薬。飲むと
-力が漲る。‾C05（支給品専用）‾C00",
+力が漲る。{c05}（支給品専用）{/c}",
 3989,"狩猟技会の参加者にのみ支給
 される特殊な薬。飲むと
-周りの評価が？‾C05（支給品専用）‾C00",
+周りの評価が？{c05}（支給品専用）{/c}",
 3990,"狩猟技会の参加者にのみ支給さ
 れる特殊なボール。モンスター
-に当てると…‾C05（支給品専用）‾C00",
+に当てると…{c05}（支給品専用）{/c}",
 3991,"狩猟技会の参加者にのみ支給さ
 れる特殊なボール。モンスター
-に当てると…‾C05（支給品専用）‾C00",
+に当てると…{c05}（支給品専用）{/c}",
 3992,"狩猟技会の参加者にのみ支給さ
 れる特殊なボール。モンスター
-に当てると…‾C05（支給品専用）‾C00",
+に当てると…{c05}（支給品専用）{/c}",
 3993,"狩猟技会の参加者にのみ支給さ
 れる特殊なボール。仲間に
-当てると…‾C05（支給品専用）‾C00",
+当てると…{c05}（支給品専用）{/c}",
 3994,"狩猟技会の参加者にのみ支給
 される特殊な角笛。吹くと仲間
-のポイントが…‾C05（支給品専用）‾C00",
+のポイントが…{c05}（支給品専用）{/c}",
 3995,"採集を極めたハンターの証。
 その採集量はギルドの発展に
 貢献したと称えられるほど。",
@@ -18299,13 +18299,13 @@ Skill combinations."
 罰ゲームで使えると大好評！",
 4372,"破れそうな紙の破片。あわせ
 ると何かの図面になるようだ。
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 4373,"破れそうな紙の破片。あわせ
 ると何かの図面になるようだ。
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 4374,"グークの思い出が詰まった
 欠片。今頃どうしているん
-だろう…。‾C05（精算アイテム）",
+だろう…。{c05}（精算アイテム）",
 4375,"飛竜種の逆鱗。手に入れるこ
 とはおろか、目にすることす
 ら難しいと言われる希少な品。",
@@ -18333,7 +18333,7 @@ Skill combinations."
 させる、大変貴重な薬。",
 4384,"一度だけ、力尽きるのを回避
 して体力を完全に回復する。
-‾C02※「不退ノ構」発動時は無効。",
+{c02}※「不退ノ構」発動時は無効。",
 4385,"ポイゾナー貤の
 生産方法が記された紙。
 工房に持って行こう！",
@@ -18458,23 +18458,23 @@ Take it to the Smithy!"
 outfit decorations.
 Take it to the Smithy!"
 4416,"非瀕死時一度だけ即死級攻撃
-も生き残る。‾C05（支給品専用）‾C02
+も生き残る。{c05}（支給品専用）{c02}
 ※「不退ノ構」発動時は無効。",
 4417,"哀愁漂う音色に乗って
 アイツが気球でやってくる！
-‾C05（支給品専用）",
+{c05}（支給品専用）",
 4418,"頼れるアイツがぽぽんと参上。
 ニャニャッと華麗に乱れ撃つ！
-‾C05（支給品専用）",
+{c05}（支給品専用）",
 4419,"大巌竜が地中にいる時に
 使うと地上に飛び出てくる。
-‾C05（支給品専用）",
+{c05}（支給品専用）",
 4420,"使用時の大巌竜の頭の位置に、
 一定時間後、気絶を誘発する
-岩を落とす。‾C05（支給品専用）",
+岩を落とす。{c05}（支給品専用）",
 4421,"間欠泉の上に置くと
 大巌竜に向かって飛んでいく。
-‾C05（支給品専用）",
+{c05}（支給品専用）",
 4422,"狂暴期のラヴィエンテから
 採取できる特殊な紅血。
 様々な状態異常に効く。",
@@ -19580,28 +19580,28 @@ Skill combinations."
 "
 4720,"大巌竜の頭に当てると
 腐食やられが発生する。
-‾C05（支給品専用）",
+{c05}（支給品専用）",
 4721,"当たった場所に、攻撃力を
 高める煙が噴き出す。
-‾C05（支給品専用）",
+{c05}（支給品専用）",
 4722,"大巌竜の嫌う臭いを出す玉。
 大きく息を吸い込む時に
-使うと…。‾C05（支給品専用）",
+使うと…。{c05}（支給品専用）",
 4723,"刃先に火薬岩を使った
 火属性を持つ投げナイフ。
-‾C05（支給品専用）",
+{c05}（支給品専用）",
 4724,"刃先にキレアジを使った
 水属性を持つ投げナイフ。
-‾C05（支給品専用）",
+{c05}（支給品専用）",
 4725,"刃先に氷結晶を使った
 氷属性を持つ投げナイフ。
-‾C05（支給品専用）",
+{c05}（支給品専用）",
 4726,"刃先に雷光虫の粉末を
 塗った雷属性を持つ
-投げナイフ。‾C05（支給品専用）",
+投げナイフ。{c05}（支給品専用）",
 4727,"刃先に龍殺しの実を塗った
 龍属性を持つ投げナイフ。
-‾C05（支給品専用）",
+{c05}（支給品専用）",
 4728,"装飾品の素材として
 かかせない珠。
 非常に希少価値の高い逸品。",
@@ -19664,10 +19664,10 @@ Skill combinations."
 ことがある…かもしれない。",
 4748,"オリオールが丹精込めて作った
 おにぎり。「うまいッスよ！」
-‾C05（支給品専用）",
+{c05}（支給品専用）",
 4749,"持っているだけでグークをお
 びき寄せることができる不思
-議な魚。‾C05（精算アイテム）",
+議な魚。{c05}（精算アイテム）",
 4750,"噛めば噛むほど美味しくなる
 小粒の実。子供たちの間では
 おやつとして大人気。",
@@ -20982,7 +20982,7 @@ attached to all outfits."
 大変な技術を必要とする。",
 5138,"強化された投てき用ナイフ。
 特定スキル発動時のみ調合可。
-‾C05（支給品専用）",
+{c05}（支給品専用）",
 5139,"クエスト中でのみ使用できる
 投てき用ナイフ作成キット。",
 5140,"強力な酸の力で当たった個所を
@@ -21527,16 +21527,16 @@ for something special."
 ぜーったいダメです！",
 5305,"グークの形を模った爆弾。
 試しに置いてみよう！
-‾C05（支給品専用）",
+{c05}（支給品専用）",
 5306,"たまごの形をした爆弾。
 試しに置いてみよう！
-‾C05（支給品専用）",
+{c05}（支給品専用）",
 5307,"とりあえず投げてみよう！
 自然と気持ちが、とっても
-ハッピー！‾C05（支給品専用）",
+ハッピー！{c05}（支給品専用）",
 5308,"どこかで見たことある人形。
 蹴っちゃダメです！
-‾C05（支給品専用）",
+{c05}（支給品専用）",
 5309,"世話やきネコのお気に入り。
 他のアイテムと交換できそう。",
 5310,"世話やきネコのお気に入り。
@@ -21556,7 +21556,7 @@ for something special."
 いる結晶石。とても美しい。",
 5316,"太古の生物や植物などの遺骸
 が堆積して出来た石。
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 5317,"使用するとホルクの攻撃動作
 を止めることができる。",
 5318,"特殊な音色を聴いたホルクは
@@ -22988,28 +22988,28 @@ for long periods."
 時折多く採れるらしい。",
 5742,"埋めることで癒しの空間を
 演出。和んでみてはいかが
-ですか？‾C05（支給品専用）",
+ですか？{c05}（支給品専用）",
 5743,"グークを模した笛。
 モンスターをも和ませます。
-‾C05（支給品専用）",
+{c05}（支給品専用）",
 5744,"グークを模した打ち上げ花火。
 クエストの終わりにいかが？
-‾C05（支給品専用）",
+{c05}（支給品専用）",
 5745,"ここはどこ？使ってみたら、
 あんな場所。こんな場所。
-‾C05（支給品専用）",
+{c05}（支給品専用）",
 5746,"グークを模したピッケル。
 時折多く掘れるらしい。
-‾C05（支給品専用）",
+{c05}（支給品専用）",
 5747,"グークを模した釣り餌。
 時折多く釣れるらしい。
-‾C05（支給品専用）",
+{c05}（支給品専用）",
 5748,"グークを模した虫あみ。
 時折多く捕れるらしい。
-‾C05（支給品専用）",
+{c05}（支給品専用）",
 5749,"グークを模したグローブ。
 時折多く採れるらしい。
-‾C05（支給品専用）",
+{c05}（支給品専用）",
 5750,"牙獣種の身体を守る、
 硬質な棘。滑らかな表面は
 見るものを魅了する。",
@@ -23114,7 +23114,7 @@ for long periods."
 ギッシリ詰まった特別な袋。",
 5786,"ホルクに投げ渡し、モンスター
 に毒属性攻撃を与える。
-‾C05（レベル３ホルク専用）",
+{c05}（レベル３ホルク専用）",
 5787,"非常に貴重な調理用の食材。
 なかなか実らない希少な米。
 味は抜群で市場価値は高い。",
@@ -23221,11 +23221,11 @@ for long periods."
 持続する。力尽きても効果は
 持続。ただし効果は一つだけ。",
 5824,"ＳＰ装備にのみ装着が可能。
-スキル値の高いＳＰ装飾品。","A high-Skill ‾C05Brawler‾C00 SP
+スキル値の高いＳＰ装飾品。","A high-Skill {c05}Brawler{/c} SP
 Decoration that can only be
 attached to SP Equipment. "
 5825,"ＳＰ装備にのみ装着が可能。
-スキル値の高いＳＰ装飾品。","A high-Skill ‾C05Sniper‾C00 SP
+スキル値の高いＳＰ装飾品。","A high-Skill {c05}Sniper{/c} SP
 Decoration that can only be
 attached to SP Equipment. "
 5826,"ＳＰ装備にのみ装着が可能。
@@ -23233,7 +23233,7 @@ attached to SP Equipment. "
 that can only be attached
 to SP Equipment. "
 5827,"ＳＰ装備にのみ装着が可能。
-スキル値の高いＳＰ装飾品。","A high-Skill ‾C05Brawler‾C00 SP
+スキル値の高いＳＰ装飾品。","A high-Skill {c05}Brawler{/c} SP
 Decoration that can only be
 attached to SP Equipment. "
 5828,"ＳＰ装備にのみ装着が可能。
@@ -23241,19 +23241,19 @@ attached to SP Equipment. "
 that can only be attached
 to SP Equipment. "
 5829,"ＳＰ装備にのみ装着が可能。
-スキル値の高いＳＰ装飾品。","A high-Skill ‾C05Brawler‾C00 SP
+スキル値の高いＳＰ装飾品。","A high-Skill {c05}Brawler{/c} SP
 Decoration that can only be
 attached to SP Equipment. "
 5830,"ＳＰ装備にのみ装着が可能。
-スキル値の高いＳＰ装飾品。","A high-Skill ‾C05Sniper‾C00 SP
+スキル値の高いＳＰ装飾品。","A high-Skill {c05}Sniper{/c} SP
 Decoration that can only be
 attached to SP Equipment. "
 5831,"ＳＰ装備にのみ装着が可能。
-スキル値の高いＳＰ装飾品。","A high-Skill ‾C05Sniper‾C00 SP
+スキル値の高いＳＰ装飾品。","A high-Skill {c05}Sniper{/c} SP
 Decoration that can only be
 attached to SP Equipment. "
 5832,"ＳＰ装備にのみ装着が可能。
-スキル値の高いＳＰ装飾品。","A high-Skill ‾C05Sniper‾C00 SP
+スキル値の高いＳＰ装飾品。","A high-Skill {c05}Sniper{/c} SP
 Decoration that can only be
 attached to SP Equipment. "
 5833,"ＳＰ装備にのみ装着が可能。
@@ -23281,15 +23281,15 @@ to SP Equipment. "
 that can only be attached
 to SP Equipment. "
 5839,"ＳＰ装備にのみ装着が可能。
-スキル値の高いＳＰ装飾品。","A high-Skill ‾C05Sniper‾C00 SP
+スキル値の高いＳＰ装飾品。","A high-Skill {c05}Sniper{/c} SP
 Decoration that can only be
 attached to SP Equipment. "
 5840,"ＳＰ装備にのみ装着が可能。
-スキル値の高いＳＰ装飾品。","A high-Skill ‾C05Sniper‾C00 SP
+スキル値の高いＳＰ装飾品。","A high-Skill {c05}Sniper{/c} SP
 Decoration that can only be
 attached to SP Equipment. "
 5841,"ＳＰ装備にのみ装着が可能。
-スキル値の高いＳＰ装飾品。","A high-Skill ‾C05Sniper‾C00 SP
+スキル値の高いＳＰ装飾品。","A high-Skill {c05}Sniper{/c} SP
 Decoration that can only be
 attached to SP Equipment. "
 5842,"ＳＰ装備にのみ装着が可能。
@@ -23317,7 +23317,7 @@ to SP Equipment. "
 that can only be attached
 to SP Equipment. "
 5848,"ＳＰ装備にのみ装着が可能。
-スキル値の高いＳＰ装飾品。","A high-Skill ‾C05Sniper‾C00 SP
+スキル値の高いＳＰ装飾品。","A high-Skill {c05}Sniper{/c} SP
 Decoration that can only be
 attached to SP Equipment. "
 5849,"ＳＰ装備にのみ装着が可能。
@@ -23390,19 +23390,19 @@ to SP Equipment. "
 スキル値の高いＳＰ装飾品。",
 5868,"ホルクに投げ渡し、モンスター
 に麻痺属性攻撃を与える。
-‾C05（レベル３ホルク専用）",
+{c05}（レベル３ホルク専用）",
 5869,"ホルクに投げ渡し、モンスター
 に睡眠属性攻撃を与える。
-‾C05（レベル３ホルク専用）",
+{c05}（レベル３ホルク専用）",
 5870,"ホルクに投げ渡し、モンスター
 に斬属性攻撃を与える。
-‾C05（レベル３ホルク専用）",
+{c05}（レベル３ホルク専用）",
 5871,"ホルクに投げ渡し、モンスター
 に爆弾攻撃を与える。
-‾C05（レベル３ホルク専用）",
+{c05}（レベル３ホルク専用）",
 5872,"ホルクに投げ渡し、モンスター
 に爆弾攻撃を与える。
-‾C05（レベル３ホルク専用）",
+{c05}（レベル３ホルク専用）",
 5873,"スキル組み合わせの深い世界
 を好む玄人向けの高級装飾品。
 ",
@@ -23945,39 +23945,39 @@ to SP Equipment. "
 特別な品と交換できる。",
 6098,"片手剣に特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 6099,"双剣に特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 6100,"大剣に特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 6101,"大剣に特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 6102,"大剣に特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 6103,"太刀に特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 6104,"ガンランスに特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 6105,"ハンマーに特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 6106,"ハンマーに特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 6107,"ハンマーに特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 6108,"モンスターがめまいを
 起こしやすくなる印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 6109,"音爆弾の範囲が拡大する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 6110,ダミー,
 6111,ダミー,
 6112,"アガマ・シューターの
@@ -25269,25 +25269,25 @@ to SP Equipment. "
 高く、なかなか融けない。",
 6656,"滑らかで滑石成分が多く、
 化粧品に使われることもある。
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 6657,"非常に硬く、特別な業者の技術
 でのみ食べることができる。
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 6658,"滅多に入手できない幻の花。
 獣人が持っている事があるが、
 どこで採れるのかは不明。",
 6659,"一部の飛竜たちのみがこぼす、
 非常に貴重なナミダ。
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 6660,"なわばりを主張するための
 フン。良質な燃料にもなる。
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 6661,"不思議な色をした大きな真珠。
 宝石として非常に価値が高い。
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 6662,"大型探査船に搭載されている、
 対モンスター用兵器の弾。
-‾C05（支給品専用）",
+{c05}（支給品専用）",
 6663,"攻撃と保護系スキルが
 アップする装飾品。",
 6664,"攻撃と保護系スキルが
@@ -27346,10 +27346,10 @@ for long periods."
 詰め込んで発射しよう！",
 7440,"磨き上げられた鋼のピッケル。
 特殊な鉱石の採掘が可能。
-‾C05（支給品専用）",
+{c05}（支給品専用）",
 7441,"遠い昔に使われていた道具。
 このままでは使用できない。
-‾C05（納品専用）",
+{c05}（納品専用）",
 7442,"マイトレプーギー服の装飾品。
 全ての服に装備可能。",
 7443,"マイトレプーギー服の装飾品。
@@ -30880,13 +30880,13 @@ for long periods."
 工房に持っていこう！",
 8907,"幻の冥雷竜のみに存在する、
 透けるほどに薄い鱗。
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 8908,"幻の冥雷竜にのみ存在する、
 電流が流れると輝く鱗。
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 8909,"幻の冥雷竜にのみ存在する、
 力を加えると雷撃を発する鱗。
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 8910,"困難なクエストを達成した
 ハンターにのみ与えられる
 名誉ある証。",
@@ -31350,7 +31350,7 @@ for long periods."
 間でも好まれる素材だ。",
 9072,"華鳳鳥の体内で生成された蜜。
 ほんのりと甘い。
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 9073,"より鋭さを増し、
 その切っ先は鋼すら貫く
 フォロクルルの爪。",
@@ -31374,7 +31374,7 @@ for long periods."
 を愛するハンターも多い。",
 9080,"華鳳鳥の体内で生成された蜜。
 はちみつの様に甘い。
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 9081,"フォロクルルから剥ぎ取った
 喉袋。華鳳鳥素材のなかでは
 貴重な部類に入る。",
@@ -31545,22 +31545,22 @@ for long periods."
 工房に持って行こう！",
 9137,"ウルキーが作った花かご。
 中身に期待はできない。
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 9138,"ウルキーが作った花かご。
 中身も普通らしい。
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 9139,"ウルキーが作った花かご。
 中から光が溢れている…。
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 9140,"ウルキーが作った花かご。
 中身に期待はできない。
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 9141,"ウルキーが作った花かご。
 中身も普通らしい。
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 9142,"ウルキーが作った花かご。
 中から光が溢れている…。
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 9143,"高温を発している黒龍の鱗。
 灼熱の様な高い熱を発し、
 鱗に近寄ることは困難。",
@@ -31719,13 +31719,13 @@ for long periods."
 繊維が優れた武具を生み出す。",
 9195,"使用するとブレードを
 付け替え、斬れ味を回復
-できる。‾C05（支給品専用）",
+できる。{c05}（支給品専用）",
 9196,"短時間で素早く体力を
 少量回復できる薬。
-‾C05（支給品専用）",
+{c05}（支給品専用）",
 9197,"調査兵団のために
 用意された小さなパン。
-‾C05（支給品専用）",
+{c05}（支給品専用）",
 9198,"万物の力をより強化すると伝
 えられる鉱石。個別差があり、
 同材質とは思えないほど多彩。",
@@ -33098,7 +33098,7 @@ for long periods."
 上がる特訓用アイテム。",
 9752,"持ち帰ると猟団員全員に
 報酬が与えられる宝。
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 9753,"絡まった猫の毛玉。
 なかなか丈夫な手触り。",
 9754,"１本のキノコに縦３つ傘が
@@ -34461,40 +34461,40 @@ for long periods."
 一部の服には装備できない。",
 10391,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 10392,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 10393,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 10394,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 10395,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 10396,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 10397,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 10398,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 10399,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 10400,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 10401,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 10402,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 10403,"パートニャーの装飾品を
 お試しで生産できる券。
 工房に持って行こう！",
@@ -34509,10 +34509,10 @@ for long periods."
 全ての武具に装着可能。",
 10408,"つーんとしたにおいと刺激で
 失神状態を回復する塗り薬。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10409,"失神状態を回復する手投げ玉。
 音と中身の成分が覚醒を促す。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10410,"パートニャーが今までの経験
 を忘れ、新たな気持ちで特訓
 に臨めるようになる巻物。",
@@ -34884,7 +34884,7 @@ for long periods."
 全ての武具に装着可能。",
 10594,"パートニャー専用の装飾品。
 全ての武具に装着可能。
-‾C05（特殊装飾品）",
+{c05}（特殊装飾品）",
 10595,"古今無双のコンビに与えられ
 る栄冠。その輝く黄金色は
 両者の強固な絆と友愛の証。",
@@ -34896,10 +34896,10 @@ for long periods."
 両者の密な連携と友好の証。",
 10598,"パートニャー専用の装飾品。
 全ての武具に装着可能。
-‾C05（特殊装飾品）",
+{c05}（特殊装飾品）",
 10599,"パートニャー専用の装飾品。
 全ての武具に装着可能。
-‾C05（特殊装飾品）",
+{c05}（特殊装飾品）",
 10600,ダミー,
 10601,"過酷な狩猟を達成した者だけ
 が得ることのできる、勇猛な
@@ -35095,7 +35095,7 @@ for long periods."
 思わず跪くという。",
 10665,"古龍種が極稀に持っている石。
 幻想的な輝きを放っている。
-‾C05(精算アイテム)",
+{c05}(精算アイテム)",
 10666,"炎妃龍の美しい牙。
 これを火打石のように使い、
 粉塵爆発を起こす。",
@@ -35173,160 +35173,160 @@ for long periods."
 工房に持って行こう！",
 10691,"密封された容器に入った
 回復薬。長旅にも安心。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10692,"密封された容器に入った回復
 薬グレート。長旅にも安心。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10693,"密封された容器に入った秘薬。
 長旅にも安心。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10694,"生命の粉塵に防湿処理を加え
 たもの。持ち運びに便利。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10695,"こんがりと焼いた肉を干物に
 したもの。おいしさそのまま。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10696,"最高にこんがりと焼けた肉の
 干物。おいしさそのまま。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10697,"密封された容器に入った
 解毒薬。長旅にも安心。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10698,"解毒薬が効かない強力な毒
 のみを中和できる薬。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10699,"輸送中割れないよう硬い造り
 の消臭玉。投げる時は全力で。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10700,"密封された容器に入った
 活力剤。長旅にも安心。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10701,"密封された容器に入った活力
 剤グレート。長旅にも安心。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10702,"瞬歩の実を塩と特別な葉で
 漬けたもの。とても酸っぱい。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10703,"忍耐の丸薬に防湿処理を加え
 たもの。持ち運びに便利。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10704,"密封された容器に入った
 強走薬。長旅にも安心。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10705,"密封された容器に入った強走
 薬グレート。長旅にも安心。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10706,"小タル爆弾に防湿処理を
 加えたもの。持ち運びに便利。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10707,"投げタル爆弾に防湿処理を
 加えたもの。持ち運びに便利。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10708,"持ち運びに便利なミニサイズ
 の角笛。音量はビッグサイズ。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10709,"持ち運びに便利な小型の砥石。
 小さくても効果は十分。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10710,"持ち運びに便利な小型の高速
 砥石。小さくても効果は十分。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10711,"輸送途中で漏れないよう容器
 が厳重に密閉された強撃ビン。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10712,"輸送途中で漏れないよう容器
 が厳重に密閉された毒ビン。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10713,"火薬が湿らないよう処理を施
 した通常弾。長期保存が可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10714,"火薬が湿らないよう処理を施
 した通常弾。長期保存が可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10715,"火薬が湿らないよう処理を施
 した貫通弾。長期保存が可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10716,"火薬が湿らないよう処理を施
 した貫通弾。長期保存が可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10717,"火薬が湿らないよう処理を施
 した貫通弾。長期保存が可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10718,"火薬が湿らないよう処理を
 施した散弾。長期保存が可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10719,"火薬が湿らないよう処理を
 施した散弾。長期保存が可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10720,"火薬が湿らないよう処理を
 施した散弾。長期保存が可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10721,"火薬が湿らぬよう処理を施し
 た徹甲榴弾。長期保存が可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10722,"火薬が湿らぬよう処理を施し
 た徹甲榴弾。長期保存が可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10723,"火薬が湿らぬよう処理を施し
 た徹甲榴弾。長期保存が可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10724,"火薬が湿らないよう処理を施
 した拡散弾。長期保存が可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10725,"火薬が湿らないよう処理を施
 した拡散弾。長期保存が可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10726,"火薬が湿らないよう処理を施
 した拡散弾。長期保存が可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10727,"火薬が湿らないよう処理を施
 した火炎弾。長期保存が可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10728,"火薬が湿らないよう処理を施
 した水冷弾。長期保存が可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10729,"火薬が湿らないよう処理を施
 した電撃弾。長期保存が可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10730,"火薬が湿らないよう処理を施
 した氷結弾。長期保存が可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10731,"火薬が湿らないよう処理を施
 した滅龍弾。長期保存が可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10732,"火薬が湿らないよう処理を施
 した回復弾。長期保存が可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10733,"火薬が湿らないよう処理を施
 した回復弾。長期保存が可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10734,"火薬が湿らないよう処理を施
 した毒弾。長期保存が可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10735,"火薬が湿らないよう処理を施
 した毒弾。長期保存が可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10736,"持ち運びに便利な小型の爆撃
 剣晶。小さくても効果は十分。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10737,"持ち運びに便利な小型の猛毒
 剣晶。小さくても効果は十分。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10738,"持ち運びに便利な小型の火炎
 剣晶。小さくても効果は十分。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10739,"持ち運びに便利な小型の水激
 剣晶。小さくても効果は十分。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10740,"持ち運びに便利な小型の雷神
 剣晶。小さくても効果は十分。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10741,"持ち運びに便利な小型の氷結
 剣晶。小さくても効果は十分。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10742,"持ち運びに便利な小型の龍王
 剣晶。小さくても効果は十分。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 10743,"天廊内部で発見された石。
 光に当てるととても綺麗。
 好事家に高く売れそうだ。",
@@ -35347,19 +35347,19 @@ for long periods."
 売れば買い手はつきそうだ。",
 10749,"鱗と思われるものの化石。何
 のモンスターのものかは不明。
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 10750,"爪と思われるものの化石。何
 のモンスターのものかは不明。
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 10751,"牙と思われるものの化石。何
 のモンスターのものかは不明。
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 10752,"翼と思われるものの化石。何
 のモンスターのものかは不明。
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 10753,"頭と思われるものの化石。何
 のモンスターのものかは不明。
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 10754,"パートニャーの装飾品を
 生産するのに必要な素材。
 工房に持って行こう！",
@@ -36016,412 +36016,412 @@ for long periods."
 触り心地に癒される。",
 11036,"武器に火属性を付与、又は
 火炎弾を装填可能にする印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11037,"武器に水属性を付与、又は
 水冷弾を装填可能にする印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11038,"武器に雷属性を付与、又は
 電撃弾を装填可能にする印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11039,"武器に龍属性を付与、又は
 滅龍弾を装填可能にする印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11040,"武器に氷属性を付与、又は
 氷結弾を装填可能にする印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11041,"麻痺属性を付与又は麻痺弾の
 装填、麻痺ビンを強化する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11042,"睡眠属性を付与又は睡眠弾の
 装填、睡眠ビンを強化する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11043,"毒属性を付与又は毒弾の装填、
 毒ビンを強化する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11044,"天廊武器に会心性能を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11045,"ライトボウガンにLV2通常弾
 速射を付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11046,"ライトボウガンにLV1貫通弾
 速射を付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11047,"ライトボウガンにLV1散弾
 速射を付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11048,"ライトボウガンにLV1徹甲榴
 弾速射を付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11049,"ライトボウガンに
 火炎弾速射を付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11050,"ライトボウガンに
 水冷弾速射を付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11051,"ライトボウガンに
 電撃弾速射を付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11052,"ライトボウガンに
 氷結弾速射を付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11053,"ライトボウガンにLV2通常弾
 超速射を付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11054,"ライトボウガンにLV1貫通弾
 超速射を付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11055,"ライトボウガンにLV1散弾
 超速射を付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11056,"ライトボウガンにLV1徹甲榴
 弾超速射を付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11057,"ライトボウガンに火炎弾
 超速射を付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11058,"ライトボウガンに水冷弾
 超速射を付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11059,"ライトボウガンに電撃弾
 超速射を付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11060,"ライトボウガンに氷結弾
 超速射を付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11061,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11062,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11063,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11064,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11065,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11066,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11067,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11068,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11069,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11070,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11071,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11072,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11073,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11074,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11075,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11076,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11077,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11078,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11079,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11080,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11081,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11082,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11083,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11084,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11085,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11086,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11087,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11088,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11089,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11090,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11091,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11092,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11093,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11094,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11095,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11096,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11097,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11098,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11099,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11100,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11101,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11102,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11103,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11104,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11105,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11106,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11107,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11108,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11109,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11110,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11111,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11112,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11113,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11114,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11115,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11116,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11117,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11118,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11119,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11120,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11121,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11122,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11123,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11124,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11125,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11126,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11127,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11128,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11129,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11130,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11131,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11132,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11133,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11134,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11135,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11136,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11137,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11138,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11139,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11140,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11141,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11142,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11143,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11144,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11145,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11146,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11147,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11148,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11149,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11150,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11151,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11152,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11153,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11154,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11155,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11156,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11157,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11158,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11159,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11160,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11161,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11162,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11163,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11164,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11165,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11166,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11167,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11168,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11169,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11170,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11171,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11172,"マイトレプーギー服の装飾品。
 全ての服に装備可能。",
 11173,"マイトレプーギー服の装飾品。
@@ -36440,7 +36440,7 @@ for long periods."
 る。<act28>で使用可能。",
 11179,"棘茶竜の持つ棘の中で最も
 美しい色、形をした棘。
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 11180,"おためし小判Ｇと同等の
 価値があった過去の通貨。
 現在は売却以外の用途が無い。",
@@ -37267,34 +37267,34 @@ for long periods."
 工房に持って行こう！",
 11467,"【始種効果】特定条件下で
 斬れ味ゲージが上昇する印。
-‾C05（天廊防具専用）",
+{c05}（天廊防具専用）",
 11468,"【始種効果】特定スキルが
 ランクアップする印。
-‾C05（天廊防具専用）",
+{c05}（天廊防具専用）",
 11469,"【始種効果】特定条件下で
 攻撃力が上昇する印。
-‾C05（天廊防具専用）",
+{c05}（天廊防具専用）",
 11470,"【始種効果】特定条件下で
 属性・状態異常が上昇する印。
-‾C05（天廊防具専用）",
+{c05}（天廊防具専用）",
 11471,"【始種効果】ガンナーで距離
 補正による威力が上昇する印。
-‾C05（天廊防具専用）",
+{c05}（天廊防具専用）",
 11472,"【始種効果】ビンの威力を
 上昇させる印。
-‾C05（天廊防具専用）",
+{c05}（天廊防具専用）",
 11473,"【狩護効果】特定条件下で
 防御力を上昇させる印。
-‾C05（天廊防具専用）",
+{c05}（天廊防具専用）",
 11474,"【狩護効果】特定条件下で
 ダメージを軽減する印。
-‾C05（天廊防具専用）",
+{c05}（天廊防具専用）",
 11475,"【狩護効果】特定条件下で
 体力が自動回復する印。
-‾C05（天廊防具専用）",
+{c05}（天廊防具専用）",
 11476,"【Ｇ級効果】Ｇ級防具と
 同様の効果を発揮する印。
-‾C05（天廊防具専用）",
+{c05}（天廊防具専用）",
 11477,"ところどころ変色が目立つ
 石の塊。独特の古びた
 匂いがツーンとする。",
@@ -37742,106 +37742,106 @@ for long periods."
 全ての服に装備可能。",
 11688,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11689,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11690,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11691,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11692,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11693,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11694,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11695,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11696,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11697,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11698,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11699,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11700,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11701,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11702,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11703,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11704,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11705,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11706,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11707,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11708,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11709,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11710,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11711,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11712,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11713,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11714,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11715,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11716,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11717,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11718,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11719,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11720,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11721,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 11722,"出所不明の古びた書物。
 古の武器の鍛錬方法について
 記載されている。",
@@ -38091,16 +38091,16 @@ for long periods."
 工房に持って行こう！",
 11805,"火薬が湿らないよう処理を施
 した麻痺弾。長期保存が可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 11806,"火薬が湿らないよう処理を施
 した麻痺弾。長期保存が可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 11807,"火薬が湿らないよう処理を施
 した睡眠弾。長期保存が可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 11808,"火薬が湿らないよう処理を施
 した睡眠弾。長期保存が可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 11809,"レジェンドラスタ、
 ティアラの仕草が追加される。
 <act34>で使用可能。",
@@ -38700,10 +38700,10 @@ for long periods."
 素材が入っている。",
 12067,"輸送途中で漏れないよう容器
 が厳重に密閉された麻痺ビン。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 12068,"輸送途中で漏れないよう容器
 が厳重に密閉された睡眠ビン。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 12069,"重厚な雰囲気をまとった爪。
 武具工房へ持っていくと、
 何かに加工してもらえるかも。",
@@ -39883,16 +39883,16 @@ for long periods."
 今でも、滅多に見られない。",
 12519,"輸送途中で漏れないよう容器
 が厳重に密閉された打撃ビン。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 12520,"火薬が湿らないよう処理を施
 した強酸弾。長期保存が可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 12521,"火薬が湿らないよう処理を施
 した爆撃弾。長期保存が可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 12522,"持ち運びに便利な小型の強撃
 剣晶。小さくても効果は十分。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 12523,"進化武器のくじを引くことがで
 きるチケット。武具工房のハリ
 センネコに持っていこう。",
@@ -40799,25 +40799,25 @@ for long periods."
 12916,ダミー,
 12917,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 12918,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 12919,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 12920,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 12921,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 12922,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 12923,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 12924,"クシャルダオラの分厚い鱗。
 ひんやりと冷気を発しており、
 強度と冷気を併せ持つ素材。",
@@ -42492,23 +42492,23 @@ for long periods."
 13630,ダミー,
 13631,"モンスターが生成する抗体。
 解毒と、一時的な毒無効化が
-望める。‾C05（精算アイテム）",
+望める。{c05}（精算アイテム）",
 13632,ダミー。,
 13633,"火薬が湿らないよう処理を施
 した火酸弾。長期保存が可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 13634,"火薬が湿らないよう処理を施
 した水酸弾。長期保存が可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 13635,"火薬が湿らないよう処理を施
 した雷酸弾。長期保存が可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 13636,"火薬が湿らないよう処理を施
 した氷酸弾。長期保存が可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 13637,"火薬が湿らないよう処理を施
 した龍酸弾。長期保存が可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 13638,ダミー,
 13639,"鋭さが際立つ裂水竜の鱗。水
 混じりの鱗粉が付着し、角度
@@ -44083,19 +44083,19 @@ the first time."
 を引くためのチケット。",
 14230,"火薬が湿らないように処理を施
 した火爆撃弾。長期保存可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 14231,"火薬が湿らないように処理を施
 した水爆撃弾。長期保存可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 14232,"火薬が湿らないように処理を施
 した雷爆撃弾。長期保存可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 14233,"火薬が湿らないように処理を施
 した氷爆撃弾。長期保存可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 14234,"火薬が湿らないように処理を施
 した龍爆撃弾。長期保存可能。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 14235,"黄白に輝く天廻龍の鱗。
 眼を奪われるその煌めきは、
 千夜を越えても心に焼きつく。",
@@ -44182,13 +44182,13 @@ the first time."
 願いがかないますように。",
 14263,"コオノオオオサキヲ
 コオオエルオオニハ
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 14264,"シドドドヘンドドヲ
 ドドアドツメドド
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 14265,"ツルルナルルゲ、ジ
 ルルルョガルルイセヨ
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 14266,ダミー,
 14267,ダミー,
 14268,ダミー,
@@ -44196,13 +44196,13 @@ the first time."
 送られた討伐の依頼書。",
 14270,"ヤる気満々なハンターさんへ
 クるしそうにしている機械が
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 14271,"ソこに座り込んでいるぞ。ど
 ウにかしてあの機械の一部を
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 14272,"ノみ込んで楽にしてくれ。
 メかくしするヒトより。
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 14273,"氷に覆われた氷獰竜の鱗。
 凍結の原因は寒さではなく、
 鱗そのものの冷たさにある。",
@@ -44392,28 +44392,28 @@ the first time."
 14343,ダミー,
 14344,"ウチケシの実を塩と特別な葉
 で漬けたもの。甘酸っぱい。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 14345,"硬い造りになるよう加工され
 た止血玉。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 14346,"密封された容器に入った元気
 ドリンコ。長旅にも安心。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 14347,"密封された容器に入った
 劇薬【緑】。長旅にも安心。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 14348,"密封された容器に入った
 劇薬【黄】。長旅にも安心。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 14349,"様々な効果を持つ不思議な玉。
 モンスターに投げてみよう。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 14350,"即席で作られたシビレ罠。モ
 ンスターの動きを止められる。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 14351,"即席で作られた落とし穴。モ
 ンスターの動きを止められる。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 14352,"十五夜の月見に飾られ、
 月の光のような輝きを放
 つと言われるすすきの花。",
@@ -44443,31 +44443,31 @@ the first time."
 グーク鍋で煮てみよう！",
 14361,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 14362,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 14363,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 14364,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 14365,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 14366,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 14367,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 14368,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 14369,"天廊武器に新たなスキルを
 付与できる秘石。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 14370,"３　　　　　２
 　　　５
 １　　　　　４",
@@ -44485,7 +44485,7 @@ the first time."
 絶対に使用しないこと。",
 14375,"８つの支給品が入った袋。
 ゲリョスが持っていた。
-‾C05（支給品専用）",
+{c05}（支給品専用）",
 14376,"Ｇ級の参加者のみ手にできる
 といわれている希少岩。
 より強固な武具を生産できる。",
@@ -44644,10 +44644,10 @@ the first time."
 工房に持って行こう！",
 14428,"硬い造りになるよう加工され
 た音爆弾。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 14429,"硬い造りになるよう加工され
 た閃光玉。
-‾C05（狩煉道専用アイテム）",
+{c05}（狩煉道専用アイテム）",
 14430,"ザッカシリーズの
 生産方法が記された紙。
 工房に持って行こう！",
@@ -45217,70 +45217,70 @@ the first time."
 常夜の鎖。",
 14640,"武器に特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 14641,"武器に特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 14642,"武器に特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 14643,"武器に特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 14644,"武器に特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 14645,"武器に特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 14646,"武器に特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 14647,"武器に特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 14648,"武器に特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 14649,"武器に特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 14650,"武器に特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 14651,"武器に特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 14652,"武器に特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 14653,"武器に特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 14654,"武器に特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 14655,"武器に特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 14656,"武器に特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 14657,"武器に特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 14658,"武器に特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 14659,"武器に特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 14660,"武器に特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 14661,"武器に特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 14662,"ショウロウＤとミタマＤシリ
 ーズの解放方法が記された紙。
 工房に持って行こう！",
@@ -46137,7 +46137,7 @@ the first time."
 事が分かる奇妙な珠。",
 14969,"武器に特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 14970,"煉華Ｃシリーズの
 解放方法が記された紙。
 工房に持って行こう！",
@@ -46574,7 +46574,7 @@ the first time."
 全ての服に装備可能。",
 15125,"武器に特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 15126,"祈歌に共鳴して硬度を
 増す不思議な石。
 透き通った色をしている。",
@@ -46793,7 +46793,7 @@ the first time."
 工房に持って行こう！",
 15198,"たい漁祈願のためガノトトス
 の一本釣りというたい役を任
-せたい。‾C05（精算アイテム）",
+せたい。{c05}（精算アイテム）",
 15199,"たいそうめでたいたい剣の
 生産に必要な品。はたいて
 たたいて、さあたい変！",
@@ -46923,7 +46923,7 @@ the first time."
 り、さらに強い毒性をもつ。",
 15243,"育てると果実ができるタネ。
 とある人物が収集している。
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 15244,"フィンスシリーズの
 生産方法が記された紙。
 工房に持って行こう！",
@@ -47372,10 +47372,10 @@ the first time."
 工房に持って行こう！",
 15401,"ラッピーが落としていった
 黄色い羽。ふわふわ。
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 15402,"ラッピーが落としていった
 黄色い羽。ごくふわ。
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 15403,"多くの層から成る爆霧竜の皮。
 外部からの衝撃を効率的に
 分散させることができる。",
@@ -47786,7 +47786,7 @@ the first time."
 水晶のようなもの…攻撃…",
 15539,"あれ？コイツじゃないの？
 違うのかぁ…。悪かったね。
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 15540,"メゼフェス限定の、財布の
 紐が緩む動作が追加される。
 ＜act59＞で使用可能。",
@@ -48316,7 +48316,7 @@ the first time."
 一部の服には装備できない。",
 15791,"武器に特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 15792,"アスモＣシリーズの
 生産方法が記された紙。
 工房に持って行こう！",
@@ -49566,7 +49566,7 @@ the first time."
 食べられそうにない。",
 16446,"甘い匂いのする鉱石。食欲を
 そそるが勿論食べられない。
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 16447,"白く輝き、高い硬度を持つ
 司銀龍の鱗。傷はつかず、
 輝きを失うことはない。",
@@ -49620,7 +49620,7 @@ the first time."
 おすすめしない。",
 16464,"花粉を混ぜ込むとガチガチの
 ビスケットができるらしい。
-‾C05（精算アイテム）",
+{c05}（精算アイテム）",
 16465,"探検隊の調査報告書。手がか
 りを持ち寄って絶対に割れな
 いビスケットを探し出そう！",
@@ -49854,7 +49854,7 @@ the first time."
 な明るい未来を思わせる。",
 16542,"武器に特殊な効果を
 付与する印。
-‾C05（天廊武器専用）",
+{c05}（天廊武器専用）",
 16543,"Ｇ級防具を精錬することで
 作られた装飾品。",
 16544,"Ｇ級防具を精錬することで

@@ -79,7 +79,7 @@ index,source,target
 77,"ON<join at=""1566868"">OFF<join at=""1566872""><join at=""1566876"">",
 78,"OFF<join at=""1566884"">ON<join at=""1566888""><join at=""1566892"">",
 79,"OFF<join at=""1566900"">ON<join at=""1566904""><join at=""1566908"">",
-80,"‾C05OFF‾C00<join at=""1566916"">‾C05ON‾C00<join at=""1566920"">OFF<join at=""1566924"">ON",
+80,"{c05}OFF{/c}<join at=""1566916"">{c05}ON{/c}<join at=""1566920"">OFF<join at=""1566924"">ON",
 81,"ON<join at=""1566932"">OFF<join at=""1566936""><join at=""1566940"">",
 82,"Step Based<join at=""1566948"">Smooth 1<join at=""1566952"">Smooth 2<join at=""1566956"">",
 83,"<join at=""1566964""><join at=""1566968""><join at=""1566972"">",
