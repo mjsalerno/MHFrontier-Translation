@@ -1,8 +1,8 @@
 index,source,target
 0,ダミー,Dummy
-1,発動可能クエスト回数：5回, Time to Use: 5 Times
-2,発動可能クエスト回数：10回, Time to Use: 10 Times
-3,発動可能クエスト回数：20回, Time to Use: 20 Times
+1,発動可能クエスト回数：5回,Time to Use: 5 Times
+2,発動可能クエスト回数：10回,Time to Use: 10 Times
+3,発動可能クエスト回数：20回,Time to Use: 20 Times
 4,反動：-1/装填速度：-1,Recoil: -1/Reload: -1
 5,反動：-1/装填速度：-1,Recoil: -1/Reload: -1
 6,反動：-2/装填速度：-2,Recoil: -2/Reload: -2
@@ -53,9 +53,9 @@ index,source,target
 51,交換品目追加：レベル1,Commercial Exchanges: Lv1
 52,交換品目追加：レベル2,Commercial Exchanges: Lv2
 53,交換品目追加：レベル3,Commercial Exchanges: Lv3
-54,攻撃力上昇：小,Attaque UP: Low
-55,攻撃力上昇：中,Attaque UP: Mid
-56,攻撃力上昇：大,Attaque UP: High
+54,攻撃力上昇：小,Attack UP: Low
+55,攻撃力上昇：中,Attack UP: Mid
+56,攻撃力上昇：大,Attack UP: High
 57,「女神の赦し」,Diva's Apologies
 58,「女神の抱擁」,Diva's Blessing
 59,「女神の抱擁」＋力尽きるのを1度回避,Diva's Blessing + Attack Down Negates
